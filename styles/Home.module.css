@@ -1,14 +1,15 @@
 .container {
-  padding: 0 2rem;
+  padding: 0 1rem;
+  background-image: url('/main_background.png');
 }
 
 .main {
   min-height: 100vh;
-  padding: 4rem 0;
+  /* padding: 4rem 0; */
   flex: 1;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  /* justify-content: center; */
   align-items: center;
 }
 
@@ -113,4 +114,27 @@
     width: 100%;
     flex-direction: column;
   }
+}
+
+#main_navbar {
+  display: flex;
+  flex-direction: row;
+  background: transparent;
+  margin-top: 10px;
+}
+
+#nav_items {
+  color: white;
+}
+
+#nav_items :active {
+  color: white;
+  background-color: transparent;
+}
+
+#nav_item_book_tickets {
+  background-image: url('/book_tickets.svg');
+}
+#book_ticket_txt{
+  padding-right: 21px;
 }
