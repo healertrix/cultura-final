@@ -1,9 +1,8 @@
 import styles from "../styles/Home.module.css";
-import { EventCard } from "./components/eventCard";
 export default function Try() {
   return (
     <>
-      <hgroup className=" m-12	">
+      <hgroup className=" m-10">
         <div class="text-2xl md:text-[36px]	events-letter-spacing p-2.5 py-5 ">
           EVENTS
         </div>
@@ -14,22 +13,23 @@ export default function Try() {
           LOST TREASURE
         </div>
       </hgroup>
-      <div class=" flex m-10">
-        <EventCard text="arts" />
-        <EventCard text="dance" />
-        <EventCard text="photography " />
-        <EventCard text="kannada" />
-        <EventCard text="literary" />
-        <EventCard text="informal" />
+      <div className="grid sm:grid-2 mx-12 lg:grid-cols-4 gap-3 md:grid-cols-2">
+        <img id="wooden" src="/artsWoodenCard.svg" />
+        <img id="wooden" src="/artsWoodenCard.svg" />
+        <img id="wooden" src="/artsWoodenCard.svg" />
+        <img id="wooden" src="/artsWoodenCard.svg" />
+        <img id="wooden" src="/artsWoodenCard.svg" />
+        <img id="wooden" src="/artsWoodenCard.svg" />
+        <img id="wooden" src="/artsWoodenCard.svg" />
+        <img id="wooden" src="/artsWoodenCard.svg" />
+        <img id="wooden" src="/artsWoodenCard.svg" />
+        <img id="wooden" src="/artsWoodenCard.svg" />
+        <img id="wooden" src="/artsWoodenCard.svg" />
+        <img id="wooden" src="/artsWoodenCard.svg" />
       </div>
-      <div class=" flex m-10">
-        <EventCard text="Fashion" />
-        <EventCard text="Dance" />
-        <EventCard text="music" />
-        <EventCard text="theatre" />
-        <EventCard text="technical" />
-        <EventCard text="gaming" />
-      </div>
+      <br></br>
+      {/* <div class=" flex m-10">
+      </div> */}
     </>
   );
 }
