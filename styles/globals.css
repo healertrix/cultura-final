@@ -43,3 +43,6 @@ hgroup{
 #wooden:hover{
     width:10rem;
 }
+#events-text{
+ font-family: 'Inter', sans-serif;
+}
