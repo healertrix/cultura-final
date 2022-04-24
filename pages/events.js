@@ -7,11 +7,20 @@ export default function Try() {
         <title>Home App</title>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-        <link href="https://fonts.googleapis.com/css2?family=Sancreek&display=swap" rel="stylesheet" />
-        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap" rel="stylesheet"/>
+        <link
+          href="https://fonts.googleapis.com/css2?family=Sancreek&display=swap"
+          rel="stylesheet"
+        />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap"
+          rel="stylesheet"
+        />
       </Head>
       <hgroup className=" m-10">
-        <div class="text-2xl md:text-[36px]	events-letter-spacing p-2.5 py-5 " id="events-text">
+        <div
+          class="text-2xl md:text-[36px]	events-letter-spacing p-2.5 py-5 "
+          id="events-text"
+        >
           EVENTS
         </div>
         <div class="text-4xl md:text-[64px] treasure-hunt-letter-spacing p-2.5">
@@ -60,6 +69,7 @@ export default function Try() {
         </a>
       </div>
       <br></br>
+      <br/>
     </div>
   );
 }
