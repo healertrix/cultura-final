@@ -9,9 +9,7 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
-.pirate-font{
-  
-}
+
 events-letter-spacing
 {
   letter-spacing: 0.04em;
@@ -22,9 +20,7 @@ treasure-hunt-letter-spacing
 {
   letter-spacing: 0.1em;
 }
-hgroup{
-  
-}
+
 a {
   color: inherit;
   text-decoration: none;
@@ -32,16 +28,18 @@ a {
 
 * {
   box-sizing: border-box;
+  
+}
+hgroup{
+  color:white;
+  font-family: 'Sancreek', cursive;
 }
 
-#arrow{
-  margin-left:7rem;
-  margin-top:-2rem;
-}
 
-#card-text{
-   margin-top: -8rem;
-   margin-left:5.5rem;
-   color:white;
-   text-transform: uppercase;
+#event-container{
+   background-image: url("/Background.png");
+   margin-top:-2.5rem;
+}
+#wooden:hover{
+    width:10rem;
 }
