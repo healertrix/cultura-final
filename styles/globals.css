@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 html,
 body {
   padding: 0;
@@ -8,7 +9,22 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
+.pirate-font{
+  
+}
+events-letter-spacing
+{
+  letter-spacing: 0.04em;
+  
+}
 
+treasure-hunt-letter-spacing
+{
+  letter-spacing: 0.1em;
+}
+hgroup{
+  
+}
 a {
   color: inherit;
   text-decoration: none;
@@ -16,4 +32,16 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+#arrow{
+  margin-left:7rem;
+  margin-top:-2rem;
+}
+
+#card-text{
+   margin-top: -8rem;
+   margin-left:5.5rem;
+   color:white;
+   text-transform: uppercase;
 }

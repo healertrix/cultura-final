@@ -20,7 +20,7 @@ export default function Home() {
             </a>
           </div>
           <div className="flex-none gap-2">
-            <ul class="menu menu-horizontal p-0">
+            <ul className="menu menu-horizontal p-0">
               <li id={styles.nav_items}><a>Events</a></li>
               <li id={styles.nav_items}><a>Guests</a></li>
               <li id={styles.nav_items}><a>Sponsors</a></li>
