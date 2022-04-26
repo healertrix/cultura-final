@@ -4,46 +4,46 @@
 
 html,
 body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+	padding: 0;
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+		Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
-events-letter-spacing
-{
-  letter-spacing: 0.04em;
-  
+events-letter-spacing {
+	letter-spacing: 0.04em;
 }
 
-treasure-hunt-letter-spacing
-{
-  letter-spacing: 0.1em;
+treasure-hunt-letter-spacing {
+	letter-spacing: 0.1em;
 }
 
 a {
-  color: inherit;
-  text-decoration: none;
+	color: inherit;
+	text-decoration: none;
 }
 
 * {
-  box-sizing: border-box;
-  margin:0;
-  padding:0;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
 }
-hgroup{
-  color:white;
-  font-family: 'Sancreek', cursive;
+hgroup {
+	color: white;
+	font-family: "Sancreek", cursive;
 }
 
+#event-container {
+	background-image: url("/Background.png");
+	margin-top: -2.5rem;
+}
+#wooden:hover {
+	width: 10rem;
+}
+#events-text {
+	font-family: "Inter", sans-serif;
+}
 
-#event-container{
-   background-image: url("/Background.png");
-   margin-top:-2.5rem;
-}
-#wooden:hover{
-    width:10rem;
-}
-#events-text{
- font-family: 'Inter', sans-serif;
+#timer {
+	background-image: url("/woodenBoard.svg");
 }
