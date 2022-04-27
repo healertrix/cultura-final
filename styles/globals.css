@@ -35,10 +35,16 @@ hgroup {
 
 #event-container {
 	background-image: url("/Background.png");
-	margin-top: -2.5rem;
+	/* margin-top: -2.5rem; */
+}
+
+#wooden{
+    transition: transform .2s; /* Animation */
+
 }
 #wooden:hover {
-	width: 10rem;
+	transform: scale(1.1);
+  
 }
 #events-text {
 	font-family: "Inter", sans-serif;

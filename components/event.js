@@ -1,6 +1,7 @@
-import styles from "../styles/Home.module.css";
+// import styles from "../styles/Home.module.css";
+
 import Head from "next/head";
-export default function Try() {
+export default function Event() {
   return (
     <div id="event-container">
       <Head>
@@ -16,17 +17,17 @@ export default function Try() {
           rel="stylesheet"
         />
       </Head>
-      <hgroup className=" m-10">
+      <hgroup className=" ">
         <div
-          class="text-2xl md:text-[36px]	events-letter-spacing p-2.5 py-5 "
+          class="text-2xl md:text-[36px]	events-letter-spacing p-2.5 py-5 mx-5 "
           id="events-text"
         >
           EVENTS
         </div>
-        <div class="text-4xl md:text-[64px] treasure-hunt-letter-spacing p-2.5">
+        <div class="text-4xl md:text-[64px] treasure-hunt-letter-spacing p-2.5 mx-5">
           HUNT FOR THE
         </div>
-        <div claSS="text-5xl md:text-[84px] treasure-hunt-letter-spacing p-2.5">
+        <div claSS="text-5xl md:text-[84px] treasure-hunt-letter-spacing p-2.5 mx-5">
           LOST TREASURE
         </div>
       </hgroup>
@@ -69,7 +70,7 @@ export default function Try() {
         </a>
       </div>
       <br></br>
-      <br/>
+      <br />
     </div>
   );
 }
