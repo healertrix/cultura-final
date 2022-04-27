@@ -1,7 +1,11 @@
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
-import  Event from '../components/event'
-export default function Guest() {
+import Event from '../components/event'
+import { Guest} from "../components/Guest"
+import About from "../components/About";
+import Footer from "../components/Footer";
+
+export default function  Main() {
 	return (
     <>
       <div className={styles.container}>
@@ -92,6 +96,9 @@ export default function Guest() {
         </main>
       </div>
       <Event />
+      <Guest />
+      <About />
+      <Footer />
     </>
   );
 }
