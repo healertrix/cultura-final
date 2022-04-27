@@ -1,7 +1,7 @@
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
 import  Event from '../components/event'
-export default function Home() {
+export default function Guest() {
 	return (
     <>
       <div className={styles.container}>

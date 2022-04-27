@@ -1,0 +1,10 @@
+#guest_container {
+	background-image: url("/GuestsBackground.png");
+	/* margin-top: -2.5rem; */
+}
+#guest_text {
+	font-family: "Inter", sans-serif;
+	color:white;
+	margin-bottom: 1rem;
+	font-weight: bold;
+}
