@@ -38,18 +38,23 @@ hgroup {
 	/* margin-top: -2.5rem; */
 }
 
-#wooden{
-    transition: transform .2s; /* Animation */
-
+#wooden {
+	transition: transform 0.2s; /* Animation */
 }
 #wooden:hover {
 	transform: scale(1.1);
-  
 }
 #events-text {
 	font-family: "Inter", sans-serif;
 }
 
-#timer {
-	background-image: url("/woodenBoard.svg");
+.container {
+	max-width: 80rem;
+	width: 100%;
+	margin: auto;
+}
+
+.highlight {
+	color: white;
+	font-family: "Sancreek", cursive;
 }
