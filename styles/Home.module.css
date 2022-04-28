@@ -1,11 +1,3 @@
-.container {
-	padding: 0;
-	background-image: url("/Background.png");
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-}
-
 .main {
 	min-height: 100vh;
 	/* padding: 4rem 0; */

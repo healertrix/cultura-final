@@ -1,0 +1,46 @@
+.heroSection {
+	background-image: url("/Background.png");
+	height: 100vh;
+	color: white;
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.wrapper {
+	display: grid;
+	width: 100%;
+	grid-template-columns: repeat(2, 1fr);
+	gap: 16px;
+	grid-auto-rows: minmax(100px, auto);
+}
+
+.one {
+	grid-column: 1 / 2;
+	grid-row: 1;
+}
+
+.two {
+	grid-column: 2 / 2;
+	grid-row: 1;
+}
+
+.timer {
+	background-image: url("/woodenBoard.svg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 33rem;
+	height: 11rem;
+	padding: 0rem 2rem;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.video {
+	width: 100%;
+	height: 100%;
+	background-color: rgba(255, 255, 255, 0.25);
+	border-radius: 2rem;
+}
