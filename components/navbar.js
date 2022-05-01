@@ -18,20 +18,19 @@ export default function NavBar() {
 								</div>
 								<div className="hidden md:block">
 									<div className="ml-10 flex items-baseline space-x-4">
-										<div className="cursor-pointer text-white font-semibold px-3 py-2 text-md hover:font-black">
-											Home
+										<div className="cursor-pointer hover:bg-blue-600 text-white hover:text-white px-3 py-2 rounded-md text-sm font-medium">
+											Events
 										</div>
 										<div className="cursor-pointer hover:bg-blue-600 text-white hover:text-white px-3 py-2 rounded-md text-sm font-medium">
-											About
-										</div>
-										<div className="cursor-pointer hover:bg-blue-600 text-white hover:text-white px-3 py-2 rounded-md text-sm font-medium">
-											Projects
+											About Us
 										</div>
 
 										<div className="cursor-pointer hover:bg-blue-600 text-whitehover:text-white px-3 py-2 rounded-md text-sm font-medium">
-											Services
+											Sponsors
 										</div>
-
+										<div className="cursor-pointer hover:bg-blue-600 text-whitehover:text-white px-3 py-2 rounded-md text-sm font-medium">
+											Gallery
+										</div>
 										<div className="cursor-pointer bg-white text-black px-3 py-2 rounded-md text-sm font-medium hover:bg-black">
 											Buy Tickets
 										</div>
@@ -120,7 +119,7 @@ export default function NavBar() {
 										duration={500}
 										className="cursor-pointer hover:bg-blue-600 text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
 									>
-										About
+										Events
 									</div>
 
 									<div
@@ -132,7 +131,7 @@ export default function NavBar() {
 										duration={500}
 										className="cursor-pointer hover:bg-blue-600 text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
 									>
-										Projects
+										About Us
 									</div>
 									<div
 										href="/services"
@@ -143,7 +142,7 @@ export default function NavBar() {
 										duration={500}
 										className="cursor-pointer hover:bg-blue-600 text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
 									>
-										Services
+										Sponsors
 									</div>
 
 									<div

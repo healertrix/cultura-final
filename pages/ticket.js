@@ -1,10 +1,6 @@
 import Head from "next/head";
-import styles from "../styles/Home.module.css";
-import Event from "../components/event";
-import { Guest } from "../components/Guest";
-import About from "../components/About";
-import Footer from "../components/Footer";
-import HeroSection from "../components/homepage";
+import styles from "../styles/HeroSection.module.css";
+import Ticket from "../components/ticket";
 
 export default function Main() {
 	return (
@@ -24,11 +20,7 @@ export default function Main() {
 					/>
 				</Head>
 			</div>
-			<HeroSection />
-			<Event />
-			<Guest />
-			<About />
-			<Footer />
+			<Ticket />
 		</>
 	);
 }

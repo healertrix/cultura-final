@@ -1,0 +1,9 @@
+.repeatBackground {
+	background-image: url("/Background.png");
+	color: white;
+	max-width: 100vw;
+	min-height: 100vh;
+	background-position: center top;
+	background-repeat: repeat-y;
+	background-size: cover;
+}
