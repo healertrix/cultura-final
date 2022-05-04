@@ -6,7 +6,7 @@ import NavBar from "../components/navbar";
 
 export default function HeroSection() {
 	return (
-		<>
+		<div>
 			<Head>
 				<title>Cultura 2022</title>
 				<meta name="description" content="CMRIT Cultura 2022" />
@@ -28,7 +28,7 @@ export default function HeroSection() {
 					<div className="container">
 						<div className={styles.wrapper}>
 							<div className={styles.one}>
-								<p className="highlight text-6xl">
+								<p className="highlight text-6xl mb-[1rem]">
 									THE ISLE
 									<br />
 									<span className="text-8xl">
@@ -37,12 +37,14 @@ export default function HeroSection() {
 										TREASURE
 									</span>
 								</p>
-								<p className="text-5xl font-bold text-white">
+								<p className="text-5xl font-bold text-white mb-[1rem]">
 									17th - 18th June
 								</p>
 							</div>
 							<div className={styles.two}>
-								<div className={styles.video}></div>
+								<div className={styles.video}>
+									<video autoPlay loop src="./reveal.mp4"></video>
+								</div>
 							</div>
 						</div>
 						<div className={styles.timer}>
@@ -52,20 +54,20 @@ export default function HeroSection() {
 							</div>
 							<div>
 								<p className="text-6xl font-semibold">48</p>
-								<p className="text-2xl font-bold">DAYS</p>
+								<p className="text-2xl font-bold">HOURS</p>
 							</div>
 							<div>
 								<p className="text-6xl font-semibold">48</p>
-								<p className="text-2xl font-bold">DAYS</p>
+								<p className="text-2xl font-bold">MINUTES</p>
 							</div>
 							<div>
 								<p className="text-6xl font-semibold">48</p>
-								<p className="text-2xl font-bold">DAYS</p>
+								<p className="text-2xl font-bold">SECONDS</p>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-		</>
+		</div>
 	);
 }

@@ -1,14 +1,17 @@
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
+import style from "../styles/EventDetails.module.css";
+
 import Event from "../components/event";
 import { Guest } from "../components/Guest";
 import About from "../components/About";
 import Footer from "../components/Footer";
 import HeroSection from "../components/homepage";
+import Gallery from "../components/gallery";
 
 export default function Main() {
 	return (
-		<>
+		<div className={style.repeatBackground}>
 			<div className={styles.container}>
 				<Head>
 					<title>Cultura 2022</title>
@@ -26,9 +29,9 @@ export default function Main() {
 			</div>
 			<HeroSection />
 			<Event />
-			<Guest />
+			<Gallery />
 			<About />
 			<Footer />
-		</>
+		</div>
 	);
 }

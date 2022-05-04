@@ -7,31 +7,32 @@ export default function NavBar() {
 	return (
 		<>
 			<div>
-				<nav className=" shadow-sm w-full">
+				<nav className="px-[1rem] shadow-sm w-full">
 					<div className="w-full">
 						<div className="flex items-center h-20 w-full">
 							<div className="flex items-center   justify-between w-full">
-								<div className="flex justify-center items-center flex-shrink-0 ">
-									<h1 className=" font-bold text-xl cursor-pointer">
-										Cultura 2020
-									</h1>
-								</div>
+								<Link href={"./"}>
+									<div className="flex justify-center items-center flex-shrink-0 ">
+										<img src="/Cultura22.svg" />
+									</div>
+								</Link>
 								<div className="hidden md:block">
 									<div className="ml-10 flex items-baseline space-x-4">
-										<div className="cursor-pointer hover:bg-blue-600 text-white hover:text-white px-3 py-2 rounded-md text-sm font-medium">
-											Events
-										</div>
-										<div className="cursor-pointer hover:bg-blue-600 text-white hover:text-white px-3 py-2 rounded-md text-sm font-medium">
-											About Us
-										</div>
+										<Link href={"./events"}>
+											<div className="cursor-pointer hover:bg-amber-700 text-white hover:text-white px-3 py-2 rounded-md text-lg font-semibold">
+												Events
+											</div>
+										</Link>
+										<Link href={"./#AboutUs"}>
+											<div className="cursor-pointer hover:bg-amber-700 text-white hover:text-white px-3 py-2 rounded-md text-lg font-semibold">
+												About Us
+											</div>
+										</Link>
 
-										<div className="cursor-pointer hover:bg-blue-600 text-whitehover:text-white px-3 py-2 rounded-md text-sm font-medium">
-											Sponsors
-										</div>
-										<div className="cursor-pointer hover:bg-blue-600 text-whitehover:text-white px-3 py-2 rounded-md text-sm font-medium">
+										<div className="cursor-pointer hover:bg-amber-700  text-whitehover:text-white px-3 py-2 rounded-md text-lg font-semibold">
 											Gallery
 										</div>
-										<div className="cursor-pointer bg-white text-black px-3 py-2 rounded-md text-sm font-medium hover:bg-black">
+										<div className="cursor-pointer bg-white text-black px-3 py-2 rounded-md text-sm font-medium hover:bg-amber-700 hover:text-white focus:ring-orange-300 focus:ring-4">
 											Buy Tickets
 										</div>
 									</div>
@@ -41,7 +42,7 @@ export default function NavBar() {
 								<button
 									onClick={() => setIsOpen(!isOpen)}
 									type="button"
-									className="bg-blue-600 inline-flex items-center justify-center p-2 rounded-md text-white  hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-blue-800 focus:ring-white"
+									className="  inline-flex items-center justify-center p-2 rounded-md text-white  hover:bg-amber-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-orange-300"
 									aria-controls="mobile-menu"
 									aria-expanded="false"
 								>
@@ -106,7 +107,7 @@ export default function NavBar() {
 										smooth={true}
 										offset={50}
 										duration={500}
-										className="cursor-pointer hover:bg-blue-600 text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+										className="cursor-pointer hover:bg-amber-700 text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
 									>
 										Home
 									</div>
@@ -117,7 +118,7 @@ export default function NavBar() {
 										smooth={true}
 										offset={50}
 										duration={500}
-										className="cursor-pointer hover:bg-blue-600 text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+										className="cursor-pointer hover:bg-amber-700  text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
 									>
 										Events
 									</div>
@@ -129,20 +130,9 @@ export default function NavBar() {
 										smooth={true}
 										offset={50}
 										duration={500}
-										className="cursor-pointer hover:bg-blue-600 text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+										className="cursor-pointer hover:bg-amber-700  text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
 									>
 										About Us
-									</div>
-									<div
-										href="/services"
-										activeClass="services"
-										to="services"
-										smooth={true}
-										offset={50}
-										duration={500}
-										className="cursor-pointer hover:bg-blue-600 text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
-									>
-										Sponsors
 									</div>
 
 									<div
@@ -152,7 +142,7 @@ export default function NavBar() {
 										smooth={true}
 										offset={50}
 										duration={500}
-										className="cursor-pointer hover:bg-blue-600 text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+										className="cursor-pointer hover:bg-amber-700  text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
 									>
 										Contact
 									</div>

@@ -2,8 +2,7 @@
 	background-image: url("/PaperBackground.png");
 	background-position: center;
 	background-repeat: no-repeat;
-	background-size: contain;
-	max-width: 30%;
+	background-size: cover;
 	padding: 4rem 2rem;
 }
 .repeatBackground {
