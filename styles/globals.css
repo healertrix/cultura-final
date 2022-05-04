@@ -35,6 +35,9 @@ hgroup {
 
 #event-container {
 	background-image: url("/Background.png");
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
 	/* margin-top: -2.5rem; */
 }
 
@@ -52,9 +55,15 @@ hgroup {
 	max-width: 80rem;
 	width: 100%;
 	margin: auto;
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+.highlight {
+	font-family: "Sancreek", cursive;
 }
 
-.highlight {
-	color: white;
-	font-family: "Sancreek", cursive;
+.dotted-border {
+	border-style: none none dashed none;
+	border-width: 0.1rem;
+	border-color: white;
 }
