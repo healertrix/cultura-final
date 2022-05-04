@@ -17,7 +17,7 @@ export default function Event() {
 			</Head>
 			<div className="container py-[6rem] mx-[1rem]">
 				<>
-					<p className="text-2xl font-medium uppercase text-white mb-[1rem]">
+					<p className="text-2xl font-medium uppercase text-white mb-[1.1rem]">
 						Events{" "}
 					</p>
 					<p className="highlight text-6xl mb-[1.5rem]">
