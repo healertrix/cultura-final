@@ -1,5 +1,7 @@
 import Head from "next/head";
 import Image from "next/image";
+import Link from "next/link";
+import { useRouter } from "next/router";
 
 import styles from "../styles/HeroSection.module.css";
 import style from "../styles/Ticket.module.css";
@@ -8,14 +10,10 @@ import eventPoster from "../public/posters/art-bc.png";
 import NavBar from "./navbar";
 
 export default function Ticket() {
-	//Event Details to be fetched from Backend
-	let eventName = "Rock n Roll";
-	let eventVenue = "AV Hall";
-	let eventDate = "17-06-2022";
-	let eventDescription =
-		"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque integer purus eu nisi, ut arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque integer purus eu nisi, ut arcu.";
-	let eventCost = 300;
-	let noOfTickets = 0;
+	const router = useRouter();
+	const {
+		query: { Category, Event, Registration, Payment, Description, Venue, Time },
+	} = router;
 
 	return (
 		<>
@@ -41,42 +39,36 @@ export default function Ticket() {
 						<div className={styles.wrapper}>
 							<div className={styles.one}>
 								<p className="highlight tracking-wider uppercase text-7xl">
-									{eventName}
+									{Event}
 								</p>
 								<p className="text-xl font-medium text-white mt-4">
-									{eventDescription}
+									{Description}
 								</p>
-								<div
-									className="mt-4 px-4
-                                 py-8 bg-white text-black rounded-xl"
-								>
+								<div className="mt-4">
 									<p className="uppercase tracking-wider text-md">Date</p>
 									<p className="font-bold uppercase tracking-wider text-lg mb-2">
-										{eventDate}
+										{Time}
 									</p>
 									<p className="uppercase tracking-wider text-md">Venue</p>
 									<p className="font-bold uppercase tracking-wider text-lg mb-2">
-										{eventVenue}
+										{Venue}
 									</p>
 									<p className="uppercase tracking-wider text-md">
 										Ticket Price
 									</p>
 									<p className="font-bold uppercase tracking-wider text-lg mb-2">
-										₹{eventCost}
+										₹{Registration}
 									</p>
-									<div>
-										<p className="font-bold uppercase tracking-wider text-lg mb-2">
-											{noOfTickets}
-										</p>
-									</div>
 								</div>
-								<button className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-sm px-4 py-2.5 text-center inline-flex items-center mt-4">
-									Checkout!
-								</button>
+								<a href={Payment}>
+									<button className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-sm px-4 py-2.5 text-center inline-flex items-center mt-4">
+										Checkout!
+									</button>
+								</a>
 							</div>
 							<div className={styles.two}>
-								<div className="flex flex-row w-full h-full justify-center content-center">
-									<Image height="600px" width="480px" src={eventPoster}></Image>
+								<div className="flex flex-row max-w-xl h-auto justify-center content-center border-solid border-4 border-white rounded-[2rem] overflow-hidden ">
+									<Image src={eventPoster}></Image>
 								</div>
 							</div>
 						</div>
