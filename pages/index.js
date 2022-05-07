@@ -3,8 +3,8 @@ import styles from "../styles/Home.module.css";
 import style from "../styles/EventDetails.module.css";
 
 import Event from "../components/event";
-import About from "../components/About";
-import Footer from "../components/Footer";
+import About from "../components/about";
+import Footer from "../components/footer";
 import HeroSection from "../components/homepage";
 import Gallery from "../components/gallery";
 
