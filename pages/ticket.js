@@ -5,7 +5,7 @@ import Ticket from "../components/ticket";
 export default function Main() {
 	return (
     <>
-      <div className={styles.container}>
+      <div class={styles.container}>
         <Head>
           <title>Cultura 2022</title>
           <meta name="description" content="CMRIT Cultura 2022" />

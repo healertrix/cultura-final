@@ -129,7 +129,7 @@ export default function handler(req, res) {
       },
       {
         Category: "Dance",
-        "Event name": "Kinkini(classNameical solo)",
+        "Event name": "Kinkini(classical solo)",
         Registration: 150,
         "Payment Links": "",
       },

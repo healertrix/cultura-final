@@ -8,7 +8,7 @@ export default function About() {
         <Head>
           <title>Home App</title>
           <link rel="preconnect" href="https://fonts.googleapis.com" />
-          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous " />
           <link
             href="https://fonts.googleapis.com/css2?family=Sancreek&display=swap"
             rel="stylesheet"
@@ -20,9 +20,9 @@ export default function About() {
         </Head>
         <div
           id="AboutUs"
-          className="grid container sm:grid-1 mx-[1rem] py-[6rem] lg:grid-cols-2 gap-3 md:grid-cols-1"
+          class="grid container sm:grid-1 mx-[1rem] py-[6rem] lg:grid-cols-2 gap-3 md:grid-cols-1"
         >
-          <div className="m-1">
+          <div class="m-1">
             <img src="/aboutUsFinal.svg" alt="" id={styles.about_image} />
           </div>
           <div id={styles.about_video}></div>

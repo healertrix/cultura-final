@@ -7,7 +7,11 @@ export default function Footer() {
       <Head>
         <title>Home App</title>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+          rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossOrigin="anonymous "
+        />
         <link
           href="https://fonts.googleapis.com/css2?family=Sancreek&display=swap"
           rel="stylesheet"
@@ -17,7 +21,7 @@ export default function Footer() {
           rel="stylesheet"
         />
       </Head>
-      <div className="container mx-[1rem] pt-[3rem] pb-[2rem]">
+      <div class="container mx-[1rem] pt-[3rem] pb-[2rem]">
         <img src="/Cultura22.svg" alt="" id={styles.addresslogo_image} />
         <img src="/address.svg" alt="" />
       </div>

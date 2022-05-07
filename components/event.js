@@ -5,7 +5,11 @@ export default function Event() {
       <Head>
         <title>Home App</title>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+          rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossOrigin="anonymous "
+        />
         <link
           href="https://fonts.googleapis.com/css2?family=Sancreek&display=swap"
           rel="stylesheet"
@@ -15,17 +19,17 @@ export default function Event() {
           rel="stylesheet"
         />
       </Head>
-      <div className="container py-[6rem] mx-[1rem]">
+      <div class="container py-[6rem] mx-[1rem]">
         <>
-          <p className="text-2xl font-medium uppercase text-white mb-[1.1rem]">
+          <p class="text-2xl font-medium uppercase text-white mb-[1.1rem]">
             Events{" "}
           </p>
-          <p className="highlight text-6xl mb-[1.5rem]">
+          <p class="highlight text-6xl mb-[1.5rem]">
             HUNT FOR THE <br />
-            <span className="text-7xl">LOST TREASURE</span>
+            <span class="text-7xl">LOST TREASURE</span>
           </p>
         </>
-        <div className="grid sm:grid-2 lg:grid-cols-4 gap-3 md:grid-cols-2">
+        <div class="grid sm:grid-2 lg:grid-cols-4 gap-3 md:grid-cols-2">
           <a href="./events">
             <img id="wooden" src="/artsWoodenCard.svg" />
           </a>
