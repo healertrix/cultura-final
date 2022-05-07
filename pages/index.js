@@ -3,7 +3,6 @@ import styles from "../styles/Home.module.css";
 import style from "../styles/EventDetails.module.css";
 
 import Event from "../components/event";
-import { Guest } from "../components/Guest";
 import About from "../components/About";
 import Footer from "../components/Footer";
 import HeroSection from "../components/homepage";
