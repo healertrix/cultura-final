@@ -21,9 +21,6 @@ export default function Footer() {
         <img src="/Cultura22.svg" alt="" id={styles.addresslogo_image} />
         <img src="/address.svg" alt="" />
       </div>
-  
-        
-      
     </div>
   );
 }

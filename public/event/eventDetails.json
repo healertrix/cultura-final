@@ -1,508 +1,508 @@
 {
-	"Photography": [
-		{
-			"Category": "Photography",
-			"Event": "DSLR Photography",
-			"Registration": 150,
-			"Payment": "https://imjo.in/uru2M8",
-			"Description": "Portray your perspective",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Photography",
-			"Event": "Mobile Photography",
-			"Registration": 100,
-			"Payment": "https://imjo.in/QazBYC",
-			"Description": "A glimpse through the lens",
-			"Venue": "",
-			"Time": ""
-		}
-	],
-	"Music": [
-		{
-			"Category": "Music",
-			"Event": "Solo Singing (Indian)",
-			"Registration": 150,
-			"Payment": "https://imjo.in/Mv26MG",
-			"Description": "Showcase your musical abilities in the Indian genre.",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Music",
-			"Event": "Solo Singing (Western)",
-			"Registration": 150,
-			"Payment": "https://imjo.in/YDEmup",
-			"Description": "Drift into the music",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Music",
-			"Event": "Instrumental",
-			"Registration": 150,
-			"Payment": "https://imjo.in/PSmqrm",
-			"Description": "Instrumentation is to music what color is to painting, let your soul sing without words",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Music",
-			"Event": "Battle of Bands",
-			"Registration": 1500,
-			"Payment": "https://imjo.in/4zngYP",
-			"Description": "Rock off and Rave On!!",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Music",
-			"Event": "Rap Battle",
-			"Registration": 150,
-			"Payment": "https://imjo.in/cwWNs8",
-			"Description": "Hip Hop is what makes the World go Round",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Music",
-			"Event": "Duet Singing",
-			"Registration": 300,
-			"Payment": "https://imjo.in/VdNBna",
-			"Description": "The man that hath no music in himself, nor is not moved with concord of sweet sounds, is fit for treasons, stratagems and spoils",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Music",
-			"Event": "Group singing",
-			"Registration": 500,
-			"Payment": "https://imjo.in/hVXUWM",
-			"Description": "Tap your feet and hold your heartbeat",
-			"Venue": "",
-			"Time": ""
-		}
-	],
-	"Muses": [
-		{
-			"Category": "Muses",
-			"Event": "Logo Redesign",
-			"Registration": 100,
-			"Payment": "https://imjo.in/ezdFhW",
-			"Description": "Redesign the logo of a classic company!",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Muses",
-			"Event": "Reel it",
-			"Registration": 100,
-			"Payment": "https://imjo.in/Xgxzkq",
-			"Description": "Make an Instagram reel in a jiffy!",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Muses",
-			"Event": "MS paint",
-			"Registration": 100,
-			"Payment": "https://imjo.in/FpQNXK",
-			"Description": "Use the most trivial graphic software to create a masterpiece!",
-			"Venue": "",
-			"Time": ""
-		}
-	],
-	"Theatre": [
-		{
-			"Category": "Theatre",
-			"Event": "Improv",
-			"Registration": 300,
-			"Payment": "https://imjo.in/nkAxgS",
-			"Description": "Make a scene on the spot.",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Theatre",
-			"Event": "Streetplay",
-			"Registration": 500,
-			"Payment": "https://imjo.in/SvTNcg",
-			"Description": "Hit the streets and act out loud!",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Theatre",
-			"Event": "Mime",
-			"Registration": 500,
-			"Payment": "https://imjo.in/Ntr64R",
-			"Description": "Silently amaze the crowd.",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Theatre",
-			"Event": "Monologue",
-			"Registration": 150,
-			"Payment": "https://imjo.in/YCcptP",
-			"Description": "Filmy Buzz!",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Theatre",
-			"Event": "Mad Ads",
-			"Registration": 500,
-			"Payment": "https://imjo.in/Qv7Edh",
-			"Description": "Bring out the madness in drama!",
-			"Venue": "",
-			"Time": ""
-		}
-	],
-	"Dance": [
-		{
-			"Category": "Dance",
-			"Event": "Kick n Crew(western group dance)",
-			"Registration": 600,
-			"Payment": "https://imjo.in/J2saA4",
-			"Description": "Put on your dancing shoes along with your team and shake a leg to your favorite western beats",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Dance",
-			"Event": "Two for Tango",
-			"Registration": 300,
-			"Payment": "https://imjo.in/GZMrKq",
-			"Description": "Two souls, one performance. Put on your duet shoes and set the stage on fire.",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Dance",
-			"Event": "Switch Foot",
-			"Registration": 150,
-			"Payment": "https://imjo.in/fFNSVU",
-			"Description": "Our Songs, Your Moves! This event lets you freestyle to multiple songs in one performance.",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Dance",
-			"Event": "1 vs 1",
-			"Registration": 150,
-			"Payment": "https://imjo.in/RzCHg5",
-			"Description": "A 1 vs 1 showdown to prove who is the best hip-hopper",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Dance",
-			"Event": "Kinkini(classical solo)",
-			"Registration": 150,
-			"Payment": "https://imjo.in/UzzWYV",
-			"Description": "India is a land of amazing classical art forms. Carry on the legacy by putting on a classical performance leaving everyone in awe.",
-			"Venue": "",
-			"Time": ""
-		}
-	],
-	"Literary": [
-		{
-			"Category": "Literary",
-			"Event": "Trivia Island",
-			"Registration": 300,
-			"Payment": "https://imjo.in/QzqCcM",
-			"Description": "Think you're a TV Buzz? This one's for you",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Literary",
-			"Event": "Battle of 30 seconds",
-			"Registration": 150,
-			"Payment": "https://imjo.in/dtHq5q",
-			"Description": "Can you make it through thirty seconds of non-stop talking without repetition, stopping or stumbling?",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Literary",
-			"Event": "El Tale Mocktail",
-			"Registration": 150,
-			"Payment": "https://imjo.in/awnNDc",
-			"Description": "A Plot-Twist Writing Competition",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Literary",
-			"Event": "War of Words",
-			"Registration": 300,
-			"Payment": "https://imjo.in/sdUNQ3",
-			"Description": "A debate about an issue or a resolution.",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Gaming",
-			"Event": "Call of Duty Mobile",
-			"Registration": 150,
-			"Payment": "https://imjo.in/yxtMj7",
-			"Description": "A single player Death Match",
-			"Venue": "",
-			"Time": ""
-		}
-	],
-	"Gaming": [
-		{
-			"Category": "Gaming",
-			"Event": "Counter Strike",
-			"Registration": 500,
-			"Payment": "https://imjo.in/pnrP3y",
-			"Description": "Headshot, Disarm, Survive",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Gaming",
-			"Event": "NFS",
-			"Registration": 150,
-			"Payment": "https://imjo.in/GpPmb4",
-			"Description": "Do you think you have the Need For Speed to be the Most Wanted racer?",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Gaming",
-			"Event": "FIFA",
-			"Registration": 150,
-			"Payment": "https://imjo.in/wbt8Kn",
-			"Description": "Stun everyone with your skill!",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Gaming",
-			"Event": "BGMI",
-			"Registration": 400,
-			"Payment": "https://imjo.in/a6Bc2A",
-			"Description": "Treat your squad to a chicken dinner, if you can earn it.",
-			"Venue": "",
-			"Time": ""
-		}
-	],
-	"Fashion": [
-		{
-			"Category": "Fashion",
-			"Event": "Fashion Show",
-			"Registration": 2000,
-			"Payment": "https://imjo.in/9NyJPb",
-			"Description": "The stage is set, the spotlight is on you!",
-			"Venue": "",
-			"Time": ""
-		}
-	],
-	"Informal": [
-		{
-			"Category": "Informal",
-			"Event": "Mr. Fit",
-			"Registration": 150,
-			"Payment": "https://imjo.in/8cSdQp",
-			"Description": "Survival of the fittest",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Informal",
-			"Event": "Food Hunt",
-			"Registration": 300,
-			"Payment": "https://imjo.in/TeYMTT",
-			"Description": "",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Informal",
-			"Event": "Hogathon",
-			"Registration": 150,
-			"Payment": "https://imjo.in/JWfMua",
-			"Description": "Invoke the Bakasur in you!",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Informal",
-			"Event": "Stand-up Comedy",
-			"Registration": 150,
-			"Payment": "https://imjo.in/CGbyRR",
-			"Description": "",
-			"Venue": "",
-			"Time": ""
-		}
-	],
-	"Kannada": [
-		{
-			"Category": "Kannada",
-			"Event": "Best Puneeth Impression",
-			"Registration": 100,
-			"Payment": "https://imjo.in/BUEj7y",
-			"Description": "",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Kannada",
-			"Event": "KGF",
-			"Registration": 100,
-			"Payment": "https://imjo.in/ARjZUQ",
-			"Description": "",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Kannada",
-			"Event": "Hemmeya Kannadiga",
-			"Registration": 200,
-			"Payment": "https://imjo.in/tc5sFx",
-			"Description": "",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Kannada",
-			"Event": "Bhaavasangama",
-			"Registration": 200,
-			"Payment": "https://imjo.in/m9qMW2",
-			"Description": "",
-			"Venue": "",
-			"Time": ""
-		}
-	],
-	"Art": [
-		{
-			"Category": "Art",
-			"Event": "Face Painting",
-			"Registration": 150,
-			"Payment": "https://imjo.in/tcC5nV",
-			"Description": "",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Art",
-			"Event": "Book Cover",
-			"Registration": 150,
-			"Payment": "https://imjo.in/c2fT9a",
-			"Description": "",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Art",
-			"Event": "Ditch your brush",
-			"Registration": 150,
-			"Payment": "https://imjo.in/77NsPm",
-			"Description": "",
-			"Venue": "",
-			"Time": ""
-		},
-		{
-			"Category": "Art",
-			"Event": "Charcoal Art",
-			"Registration": 150,
-			"Payment": "https://imjo.in/AYsZ6x",
-			"Description": "",
-			"Venue": "",
-			"Time": ""
-		}
-	],
-	"CSE": [
-		{
-			"Category": "CSE",
-			"Event": "Code Raiders",
-			"Registration": 300,
-			"Payment": "",
-			"Description": "",
-			"Venue": "",
-			"Time": ""
-		}
-	],
-	"ISE": [
-		{
-			"Category": "ISE",
-			"Event": "Codical Chairs",
-			"Registration": 200,
-			"Payment": "https://imjo.in/zQNhru",
-			"Description": "",
-			"Venue": "",
-			"Time": ""
-		}
-	],
-	"ECE": [
-		{
-			"Category": "ECE",
-			"Event": "Circuit Hunt",
-			"Registration": 300,
-			"Payment": "https://imjo.in/pbbC6T",
-			"Description": "",
-			"Venue": "",
-			"Time": ""
-		}
-	],
-	"EEE": [
-		{
-			"Category": "EEE",
-			"Event": "Debate on EV's",
-			"Registration": 300,
-			"Payment": "",
-			"Description": "",
-			"Venue": "",
-			"Time": ""
-		}
-	],
-	"CIVIL": [
-		{
-			"Category": "CIVIL",
-			"Event": "Autocad",
-			"Registration": 150,
-			"Payment": "",
-			"Description": "",
-			"Venue": "",
-			"Time": ""
-		}
-	],
-	"MECH": [
-		{
-			"Category": "MECH",
-			"Event": "Robo Ignitors",
-			"Registration": 500,
-			"Payment": "https://imjo.in/p4bmf8",
-			"Description": "",
-			"Venue": "",
-			"Time": ""
-		}
-	],
-	"MBA": [
-		{
-			"Category": "MBA",
-			"Event": "Best Manager",
-			"Registration": 200,
-			"Payment": "https://imjo.in/25mQWD",
-			"Description": "",
-			"Venue": "",
-			"Time": ""
-		}
-	],
-	"MCA": [
-		{
-			"Category": "MCA",
-			"Event": "Digital Scavenger",
-			"Registration": 200,
-			"Payment": "",
-			"Description": "",
-			"Venue": "",
-			"Time": ""
-		}
-	]
+  "Photography": [
+    {
+      "Category": "Photography",
+      "Event": "DSLR Photography",
+      "Registration": 150,
+      "Payment": "https://imjo.in/uru2M8",
+      "Description": "Portray your perspective",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Photography",
+      "Event": "Mobile Photography",
+      "Registration": 100,
+      "Payment": "https://imjo.in/QazBYC",
+      "Description": "A glimpse through the lens",
+      "Venue": "",
+      "Time": ""
+    }
+  ],
+  "Music": [
+    {
+      "Category": "Music",
+      "Event": "Solo Singing (Indian)",
+      "Registration": 150,
+      "Payment": "https://imjo.in/Mv26MG",
+      "Description": "Showcase your musical abilities in the Indian genre.",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Music",
+      "Event": "Solo Singing (Western)",
+      "Registration": 150,
+      "Payment": "https://imjo.in/YDEmup",
+      "Description": "Drift into the music",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Music",
+      "Event": "Instrumental",
+      "Registration": 150,
+      "Payment": "https://imjo.in/PSmqrm",
+      "Description": "Instrumentation is to music what color is to painting, let your soul sing without words",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Music",
+      "Event": "Battle of Bands",
+      "Registration": 1500,
+      "Payment": "https://imjo.in/4zngYP",
+      "Description": "Rock off and Rave On!!",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Music",
+      "Event": "Rap Battle",
+      "Registration": 150,
+      "Payment": "https://imjo.in/cwWNs8",
+      "Description": "Hip Hop is what makes the World go Round",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Music",
+      "Event": "Duet Singing",
+      "Registration": 300,
+      "Payment": "https://imjo.in/VdNBna",
+      "Description": "The man that hath no music in himself, nor is not moved with concord of sweet sounds, is fit for treasons, stratagems and spoils",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Music",
+      "Event": "Group singing",
+      "Registration": 500,
+      "Payment": "https://imjo.in/hVXUWM",
+      "Description": "Tap your feet and hold your heartbeat",
+      "Venue": "",
+      "Time": ""
+    }
+  ],
+  "Muses": [
+    {
+      "Category": "Muses",
+      "Event": "Logo Redesign",
+      "Registration": 100,
+      "Payment": "https://imjo.in/ezdFhW",
+      "Description": "Redesign the logo of a classNameic company!",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Muses",
+      "Event": "Reel it",
+      "Registration": 100,
+      "Payment": "https://imjo.in/Xgxzkq",
+      "Description": "Make an Instagram reel in a jiffy!",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Muses",
+      "Event": "MS paint",
+      "Registration": 100,
+      "Payment": "https://imjo.in/FpQNXK",
+      "Description": "Use the most trivial graphic software to create a masterpiece!",
+      "Venue": "",
+      "Time": ""
+    }
+  ],
+  "Theatre": [
+    {
+      "Category": "Theatre",
+      "Event": "Improv",
+      "Registration": 300,
+      "Payment": "https://imjo.in/nkAxgS",
+      "Description": "Make a scene on the spot.",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Theatre",
+      "Event": "Streetplay",
+      "Registration": 500,
+      "Payment": "https://imjo.in/SvTNcg",
+      "Description": "Hit the streets and act out loud!",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Theatre",
+      "Event": "Mime",
+      "Registration": 500,
+      "Payment": "https://imjo.in/Ntr64R",
+      "Description": "Silently amaze the crowd.",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Theatre",
+      "Event": "Monologue",
+      "Registration": 150,
+      "Payment": "https://imjo.in/YCcptP",
+      "Description": "Filmy Buzz!",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Theatre",
+      "Event": "Mad Ads",
+      "Registration": 500,
+      "Payment": "https://imjo.in/Qv7Edh",
+      "Description": "Bring out the madness in drama!",
+      "Venue": "",
+      "Time": ""
+    }
+  ],
+  "Dance": [
+    {
+      "Category": "Dance",
+      "Event": "Kick n Crew(western group dance)",
+      "Registration": 600,
+      "Payment": "https://imjo.in/J2saA4",
+      "Description": "Put on your dancing shoes along with your team and shake a leg to your favorite western beats",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Dance",
+      "Event": "Two for Tango",
+      "Registration": 300,
+      "Payment": "https://imjo.in/GZMrKq",
+      "Description": "Two souls, one performance. Put on your duet shoes and set the stage on fire.",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Dance",
+      "Event": "Switch Foot",
+      "Registration": 150,
+      "Payment": "https://imjo.in/fFNSVU",
+      "Description": "Our Songs, Your Moves! This event lets you freestyle to multiple songs in one performance.",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Dance",
+      "Event": "1 vs 1",
+      "Registration": 150,
+      "Payment": "https://imjo.in/RzCHg5",
+      "Description": "A 1 vs 1 showdown to prove who is the best hip-hopper",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Dance",
+      "Event": "Kinkini(classNameical solo)",
+      "Registration": 150,
+      "Payment": "https://imjo.in/UzzWYV",
+      "Description": "India is a land of amazing classNameical art forms. Carry on the legacy by putting on a classNameical performance leaving everyone in awe.",
+      "Venue": "",
+      "Time": ""
+    }
+  ],
+  "Literary": [
+    {
+      "Category": "Literary",
+      "Event": "Trivia Island",
+      "Registration": 300,
+      "Payment": "https://imjo.in/QzqCcM",
+      "Description": "Think you're a TV Buzz? This one's for you",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Literary",
+      "Event": "Battle of 30 seconds",
+      "Registration": 150,
+      "Payment": "https://imjo.in/dtHq5q",
+      "Description": "Can you make it through thirty seconds of non-stop talking without repetition, stopping or stumbling?",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Literary",
+      "Event": "El Tale Mocktail",
+      "Registration": 150,
+      "Payment": "https://imjo.in/awnNDc",
+      "Description": "A Plot-Twist Writing Competition",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Literary",
+      "Event": "War of Words",
+      "Registration": 300,
+      "Payment": "https://imjo.in/sdUNQ3",
+      "Description": "A debate about an issue or a resolution.",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Gaming",
+      "Event": "Call of Duty Mobile",
+      "Registration": 150,
+      "Payment": "https://imjo.in/yxtMj7",
+      "Description": "A single player Death Match",
+      "Venue": "",
+      "Time": ""
+    }
+  ],
+  "Gaming": [
+    {
+      "Category": "Gaming",
+      "Event": "Counter Strike",
+      "Registration": 500,
+      "Payment": "https://imjo.in/pnrP3y",
+      "Description": "Headshot, Disarm, Survive",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Gaming",
+      "Event": "NFS",
+      "Registration": 150,
+      "Payment": "https://imjo.in/GpPmb4",
+      "Description": "Do you think you have the Need For Speed to be the Most Wanted racer?",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Gaming",
+      "Event": "FIFA",
+      "Registration": 150,
+      "Payment": "https://imjo.in/wbt8Kn",
+      "Description": "Stun everyone with your skill!",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Gaming",
+      "Event": "BGMI",
+      "Registration": 400,
+      "Payment": "https://imjo.in/a6Bc2A",
+      "Description": "Treat your squad to a chicken dinner, if you can earn it.",
+      "Venue": "",
+      "Time": ""
+    }
+  ],
+  "Fashion": [
+    {
+      "Category": "Fashion",
+      "Event": "Fashion Show",
+      "Registration": 2000,
+      "Payment": "https://imjo.in/9NyJPb",
+      "Description": "The stage is set, the spotlight is on you!",
+      "Venue": "",
+      "Time": ""
+    }
+  ],
+  "Informal": [
+    {
+      "Category": "Informal",
+      "Event": "Mr. Fit",
+      "Registration": 150,
+      "Payment": "https://imjo.in/8cSdQp",
+      "Description": "Survival of the fittest",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Informal",
+      "Event": "Food Hunt",
+      "Registration": 300,
+      "Payment": "https://imjo.in/TeYMTT",
+      "Description": "",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Informal",
+      "Event": "Hogathon",
+      "Registration": 150,
+      "Payment": "https://imjo.in/JWfMua",
+      "Description": "Invoke the Bakasur in you!",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Informal",
+      "Event": "Stand-up Comedy",
+      "Registration": 150,
+      "Payment": "https://imjo.in/CGbyRR",
+      "Description": "",
+      "Venue": "",
+      "Time": ""
+    }
+  ],
+  "Kannada": [
+    {
+      "Category": "Kannada",
+      "Event": "Best Puneeth Impression",
+      "Registration": 100,
+      "Payment": "https://imjo.in/BUEj7y",
+      "Description": "",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Kannada",
+      "Event": "KGF",
+      "Registration": 100,
+      "Payment": "https://imjo.in/ARjZUQ",
+      "Description": "",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Kannada",
+      "Event": "Hemmeya Kannadiga",
+      "Registration": 200,
+      "Payment": "https://imjo.in/tc5sFx",
+      "Description": "",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Kannada",
+      "Event": "Bhaavasangama",
+      "Registration": 200,
+      "Payment": "https://imjo.in/m9qMW2",
+      "Description": "",
+      "Venue": "",
+      "Time": ""
+    }
+  ],
+  "Art": [
+    {
+      "Category": "Art",
+      "Event": "Face Painting",
+      "Registration": 150,
+      "Payment": "https://imjo.in/tcC5nV",
+      "Description": "",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Art",
+      "Event": "Book Cover",
+      "Registration": 150,
+      "Payment": "https://imjo.in/c2fT9a",
+      "Description": "",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Art",
+      "Event": "Ditch your brush",
+      "Registration": 150,
+      "Payment": "https://imjo.in/77NsPm",
+      "Description": "",
+      "Venue": "",
+      "Time": ""
+    },
+    {
+      "Category": "Art",
+      "Event": "Charcoal Art",
+      "Registration": 150,
+      "Payment": "https://imjo.in/AYsZ6x",
+      "Description": "",
+      "Venue": "",
+      "Time": ""
+    }
+  ],
+  "CSE": [
+    {
+      "Category": "CSE",
+      "Event": "Code Raiders",
+      "Registration": 300,
+      "Payment": "",
+      "Description": "",
+      "Venue": "",
+      "Time": ""
+    }
+  ],
+  "ISE": [
+    {
+      "Category": "ISE",
+      "Event": "Codical Chairs",
+      "Registration": 200,
+      "Payment": "https://imjo.in/zQNhru",
+      "Description": "",
+      "Venue": "",
+      "Time": ""
+    }
+  ],
+  "ECE": [
+    {
+      "Category": "ECE",
+      "Event": "Circuit Hunt",
+      "Registration": 300,
+      "Payment": "https://imjo.in/pbbC6T",
+      "Description": "",
+      "Venue": "",
+      "Time": ""
+    }
+  ],
+  "EEE": [
+    {
+      "Category": "EEE",
+      "Event": "Debate on EV's",
+      "Registration": 300,
+      "Payment": "",
+      "Description": "",
+      "Venue": "",
+      "Time": ""
+    }
+  ],
+  "CIVIL": [
+    {
+      "Category": "CIVIL",
+      "Event": "Autocad",
+      "Registration": 150,
+      "Payment": "",
+      "Description": "",
+      "Venue": "",
+      "Time": ""
+    }
+  ],
+  "MECH": [
+    {
+      "Category": "MECH",
+      "Event": "Robo Ignitors",
+      "Registration": 500,
+      "Payment": "https://imjo.in/p4bmf8",
+      "Description": "",
+      "Venue": "",
+      "Time": ""
+    }
+  ],
+  "MBA": [
+    {
+      "Category": "MBA",
+      "Event": "Best Manager",
+      "Registration": 200,
+      "Payment": "https://imjo.in/25mQWD",
+      "Description": "",
+      "Venue": "",
+      "Time": ""
+    }
+  ],
+  "MCA": [
+    {
+      "Category": "MCA",
+      "Event": "Digital Scavenger",
+      "Registration": 200,
+      "Payment": "",
+      "Description": "",
+      "Venue": "",
+      "Time": ""
+    }
+  ]
 }

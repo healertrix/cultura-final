@@ -1,8 +1,11 @@
 import Head from "next/head";
 import styles from "../styles/HeroSection.module.css";
-import Footer from "../components/footer";
+import { useCountdown } from "../hooks/useCountdown";
 
 export default function Main() {
+  const d = new Date(2022, 5, 17, 0, 0, 0, 0);
+  const [days, hours, minutes, seconds] = useCountdown(d);
+  console.log([days, hours, minutes, seconds]);
   return (
     <>
       <div className={styles.container}>
@@ -20,6 +23,7 @@ export default function Main() {
           />
           <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
         </Head>
+        <div>data</div>
       </div>
     </>
   );

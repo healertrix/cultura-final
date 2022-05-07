@@ -19,8 +19,13 @@ export const Guest = () => {
       </Head>
 
       <div id={styles.guest_container}>
-        <p id={styles.guest_text} className="text-2xl md:text-[36px]	events-letter-spacing p-2.5 py-5 mx-10 ">Guests</p>
-        <div className="grid sm:grid-2 mx-12 lg:grid-cols-4 gap-3 md:grid-cols-2 p-2">
+        <p
+          id={styles.guest_text}
+          class="text-2xl md:text-[36px]	events-letter-spacing p-2.5 py-5 mx-10 "
+        >
+          Guests
+        </p>
+        <div class="grid sm:grid-2 mx-12 lg:grid-cols-4 gap-3 md:grid-cols-2 p-2">
           <a href="#">
             <img id="wooden" src="/guestCard.svg" />
           </a>
