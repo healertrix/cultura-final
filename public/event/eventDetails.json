@@ -1,508 +1,661 @@
 {
-  "Photography": [
-    {
-      "Category": "Photography",
-      "Event": "DSLR Photography",
-      "Registration": 150,
-      "Payment": "https://imjo.in/uru2M8",
-      "Description": "Portray your perspective",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Photography",
-      "Event": "Mobile Photography",
-      "Registration": 100,
-      "Payment": "https://imjo.in/QazBYC",
-      "Description": "A glimpse through the lens",
-      "Venue": "",
-      "Time": ""
-    }
-  ],
-  "Music": [
-    {
-      "Category": "Music",
-      "Event": "Solo Singing (Indian)",
-      "Registration": 150,
-      "Payment": "https://imjo.in/Mv26MG",
-      "Description": "Showcase your musical abilities in the Indian genre.",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Music",
-      "Event": "Solo Singing (Western)",
-      "Registration": 150,
-      "Payment": "https://imjo.in/YDEmup",
-      "Description": "Drift into the music",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Music",
-      "Event": "Instrumental",
-      "Registration": 150,
-      "Payment": "https://imjo.in/PSmqrm",
-      "Description": "Instrumentation is to music what color is to painting, let your soul sing without words",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Music",
-      "Event": "Battle of Bands",
-      "Registration": 1500,
-      "Payment": "https://imjo.in/4zngYP",
-      "Description": "Rock off and Rave On!!",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Music",
-      "Event": "Rap Battle",
-      "Registration": 150,
-      "Payment": "https://imjo.in/cwWNs8",
-      "Description": "Hip Hop is what makes the World go Round",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Music",
-      "Event": "Duet Singing",
-      "Registration": 300,
-      "Payment": "https://imjo.in/VdNBna",
-      "Description": "The man that hath no music in himself, nor is not moved with concord of sweet sounds, is fit for treasons, stratagems and spoils",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Music",
-      "Event": "Group singing",
-      "Registration": 500,
-      "Payment": "https://imjo.in/hVXUWM",
-      "Description": "Tap your feet and hold your heartbeat",
-      "Venue": "",
-      "Time": ""
-    }
-  ],
-  "Muses": [
-    {
-      "Category": "Muses",
-      "Event": "Logo Redesign",
-      "Registration": 100,
-      "Payment": "https://imjo.in/ezdFhW",
-      "Description": "Redesign the logo of a classic company!",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Muses",
-      "Event": "Reel it",
-      "Registration": 100,
-      "Payment": "https://imjo.in/Xgxzkq",
-      "Description": "Make an Instagram reel in a jiffy!",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Muses",
-      "Event": "MS paint",
-      "Registration": 100,
-      "Payment": "https://imjo.in/FpQNXK",
-      "Description": "Use the most trivial graphic software to create a masterpiece!",
-      "Venue": "",
-      "Time": ""
-    }
-  ],
-  "Theatre": [
-    {
-      "Category": "Theatre",
-      "Event": "Improv",
-      "Registration": 300,
-      "Payment": "https://imjo.in/nkAxgS",
-      "Description": "Make a scene on the spot.",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Theatre",
-      "Event": "Streetplay",
-      "Registration": 500,
-      "Payment": "https://imjo.in/SvTNcg",
-      "Description": "Hit the streets and act out loud!",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Theatre",
-      "Event": "Mime",
-      "Registration": 500,
-      "Payment": "https://imjo.in/Ntr64R",
-      "Description": "Silently amaze the crowd.",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Theatre",
-      "Event": "Monologue",
-      "Registration": 150,
-      "Payment": "https://imjo.in/YCcptP",
-      "Description": "Filmy Buzz!",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Theatre",
-      "Event": "Mad Ads",
-      "Registration": 500,
-      "Payment": "https://imjo.in/Qv7Edh",
-      "Description": "Bring out the madness in drama!",
-      "Venue": "",
-      "Time": ""
-    }
-  ],
-  "Dance": [
-    {
-      "Category": "Dance",
-      "Event": "Kick n Crew(western group dance)",
-      "Registration": 600,
-      "Payment": "https://imjo.in/J2saA4",
-      "Description": "Put on your dancing shoes along with your team and shake a leg to your favorite western beats",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Dance",
-      "Event": "Two for Tango",
-      "Registration": 300,
-      "Payment": "https://imjo.in/GZMrKq",
-      "Description": "Two souls, one performance. Put on your duet shoes and set the stage on fire.",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Dance",
-      "Event": "Switch Foot",
-      "Registration": 150,
-      "Payment": "https://imjo.in/fFNSVU",
-      "Description": "Our Songs, Your Moves! This event lets you freestyle to multiple songs in one performance.",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Dance",
-      "Event": "1 vs 1",
-      "Registration": 150,
-      "Payment": "https://imjo.in/RzCHg5",
-      "Description": "A 1 vs 1 showdown to prove who is the best hip-hopper",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Dance",
-      "Event": "Kinkini(classical solo)",
-      "Registration": 150,
-      "Payment": "https://imjo.in/UzzWYV",
-      "Description": "India is a land of amazing classical art forms. Carry on the legacy by putting on a classical performance leaving everyone in awe.",
-      "Venue": "",
-      "Time": ""
-    }
-  ],
-  "Literary": [
-    {
-      "Category": "Literary",
-      "Event": "Trivia Island",
-      "Registration": 300,
-      "Payment": "https://imjo.in/QzqCcM",
-      "Description": "Think you're a TV Buzz? This one's for you",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Literary",
-      "Event": "Battle of 30 seconds",
-      "Registration": 150,
-      "Payment": "https://imjo.in/dtHq5q",
-      "Description": "Can you make it through thirty seconds of non-stop talking without repetition, stopping or stumbling?",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Literary",
-      "Event": "El Tale Mocktail",
-      "Registration": 150,
-      "Payment": "https://imjo.in/awnNDc",
-      "Description": "A Plot-Twist Writing Competition",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Literary",
-      "Event": "War of Words",
-      "Registration": 300,
-      "Payment": "https://imjo.in/sdUNQ3",
-      "Description": "A debate about an issue or a resolution.",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Gaming",
-      "Event": "Call of Duty Mobile",
-      "Registration": 150,
-      "Payment": "https://imjo.in/yxtMj7",
-      "Description": "A single player Death Match",
-      "Venue": "",
-      "Time": ""
-    }
-  ],
-  "Gaming": [
-    {
-      "Category": "Gaming",
-      "Event": "Counter Strike",
-      "Registration": 500,
-      "Payment": "https://imjo.in/pnrP3y",
-      "Description": "Headshot, Disarm, Survive",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Gaming",
-      "Event": "NFS",
-      "Registration": 150,
-      "Payment": "https://imjo.in/GpPmb4",
-      "Description": "Do you think you have the Need For Speed to be the Most Wanted racer?",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Gaming",
-      "Event": "FIFA",
-      "Registration": 150,
-      "Payment": "https://imjo.in/wbt8Kn",
-      "Description": "Stun everyone with your skill!",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Gaming",
-      "Event": "BGMI",
-      "Registration": 400,
-      "Payment": "https://imjo.in/a6Bc2A",
-      "Description": "Treat your squad to a chicken dinner, if you can earn it.",
-      "Venue": "",
-      "Time": ""
-    }
-  ],
-  "Fashion": [
-    {
-      "Category": "Fashion",
-      "Event": "Fashion Show",
-      "Registration": 2000,
-      "Payment": "https://imjo.in/9NyJPb",
-      "Description": "The stage is set, the spotlight is on you!",
-      "Venue": "",
-      "Time": ""
-    }
-  ],
-  "Informal": [
-    {
-      "Category": "Informal",
-      "Event": "Mr. Fit",
-      "Registration": 150,
-      "Payment": "https://imjo.in/8cSdQp",
-      "Description": "Survival of the fittest",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Informal",
-      "Event": "Food Hunt",
-      "Registration": 300,
-      "Payment": "https://imjo.in/TeYMTT",
-      "Description": "",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Informal",
-      "Event": "Hogathon",
-      "Registration": 150,
-      "Payment": "https://imjo.in/JWfMua",
-      "Description": "Invoke the Bakasur in you!",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Informal",
-      "Event": "Stand-up Comedy",
-      "Registration": 150,
-      "Payment": "https://imjo.in/CGbyRR",
-      "Description": "",
-      "Venue": "",
-      "Time": ""
-    }
-  ],
-  "Kannada": [
-    {
-      "Category": "Kannada",
-      "Event": "Best Puneeth Impression",
-      "Registration": 100,
-      "Payment": "https://imjo.in/BUEj7y",
-      "Description": "",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Kannada",
-      "Event": "KGF",
-      "Registration": 100,
-      "Payment": "https://imjo.in/ARjZUQ",
-      "Description": "",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Kannada",
-      "Event": "Hemmeya Kannadiga",
-      "Registration": 200,
-      "Payment": "https://imjo.in/tc5sFx",
-      "Description": "",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Kannada",
-      "Event": "Bhaavasangama",
-      "Registration": 200,
-      "Payment": "https://imjo.in/m9qMW2",
-      "Description": "",
-      "Venue": "",
-      "Time": ""
-    }
-  ],
-  "Art": [
-    {
-      "Category": "Art",
-      "Event": "Face Painting",
-      "Registration": 150,
-      "Payment": "https://imjo.in/tcC5nV",
-      "Description": "",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Art",
-      "Event": "Book Cover",
-      "Registration": 150,
-      "Payment": "https://imjo.in/c2fT9a",
-      "Description": "",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Art",
-      "Event": "Ditch your brush",
-      "Registration": 150,
-      "Payment": "https://imjo.in/77NsPm",
-      "Description": "",
-      "Venue": "",
-      "Time": ""
-    },
-    {
-      "Category": "Art",
-      "Event": "Charcoal Art",
-      "Registration": 150,
-      "Payment": "https://imjo.in/AYsZ6x",
-      "Description": "",
-      "Venue": "",
-      "Time": ""
-    }
-  ],
-  "CSE": [
-    {
-      "Category": "CSE",
-      "Event": "Code Raiders",
-      "Registration": 300,
-      "Payment": "",
-      "Description": "",
-      "Venue": "",
-      "Time": ""
-    }
-  ],
-  "ISE": [
-    {
-      "Category": "ISE",
-      "Event": "Codical Chairs",
-      "Registration": 200,
-      "Payment": "https://imjo.in/zQNhru",
-      "Description": "",
-      "Venue": "",
-      "Time": ""
-    }
-  ],
-  "ECE": [
-    {
-      "Category": "ECE",
-      "Event": "Circuit Hunt",
-      "Registration": 300,
-      "Payment": "https://imjo.in/pbbC6T",
-      "Description": "",
-      "Venue": "",
-      "Time": ""
-    }
-  ],
-  "EEE": [
-    {
-      "Category": "EEE",
-      "Event": "Debate on EV's",
-      "Registration": 300,
-      "Payment": "",
-      "Description": "",
-      "Venue": "",
-      "Time": ""
-    }
-  ],
-  "CIVIL": [
-    {
-      "Category": "CIVIL",
-      "Event": "Autocad",
-      "Registration": 150,
-      "Payment": "",
-      "Description": "",
-      "Venue": "",
-      "Time": ""
-    }
-  ],
-  "MECH": [
-    {
-      "Category": "MECH",
-      "Event": "Robo Ignitors",
-      "Registration": 500,
-      "Payment": "https://imjo.in/p4bmf8",
-      "Description": "",
-      "Venue": "",
-      "Time": ""
-    }
-  ],
-  "MBA": [
-    {
-      "Category": "MBA",
-      "Event": "Best Manager",
-      "Registration": 200,
-      "Payment": "https://imjo.in/25mQWD",
-      "Description": "",
-      "Venue": "",
-      "Time": ""
-    }
-  ],
-  "MCA": [
-    {
-      "Category": "MCA",
-      "Event": "Digital Scavenger",
-      "Registration": 200,
-      "Payment": "",
-      "Description": "",
-      "Venue": "",
-      "Time": ""
-    }
-  ]
+	"Photography": [
+		{
+			"Category": "Photography",
+			"Event": "DSLR Photography",
+			"Registration": 150,
+			"Payment": "https://imjo.in/uru2M8",
+			"Description": "Portray your perspective",
+			"Venue": "AV Hall (Ground Floor)",
+			"Time": "10am-11am",
+			"Day": "Day 1",
+			"Rules": "No of participants : 1\n• All the photos should be taken within the college campus. \n• The pictures shot should be based on the given topic or theme and must be submitted within the time limit \n• The photos must be shot only using a DSLR\n• Post processing/ editing of the picture is not allowed. \n• Unlimited entries per college\n• RAW images aren't accepted. \n• The judge’s decision is final",
+			"Poster": "https://drive.google.com/file/d/16hRhFo8nVuNPs3yhAiPOzx-i2f0tJ_ao/view?usp=sharing"
+		},
+		{
+			"Category": "Photography",
+			"Event": "Mobile Photography",
+			"Registration": 100,
+			"Payment": "https://imjo.in/QazBYC",
+			"Description": "A glimpse through the lens",
+			"Venue": "AV Hall (Ground Floor)",
+			"Time": "11am-12pm",
+			"Day": "Day 1",
+			"Rule": "No of participants: 1\n• All the photos should be taken within the college campus. \n• The pictures shot should be based on the given topic or theme and must be submitted within the time limit \n• The photos must be shot only using mobile\n• Post processing/ editing of the picture is not allowed. \n• Unlimited entries per college\n• The judge’s decision is final",
+			"Poster": "https://drive.google.com/file/d/1pkEcGOkNHo5N6097s_0wmux1skzWJFqU/view?usp=sharing"
+		}
+	],
+	"Music": [
+		{
+			"Category": "Music",
+			"Event": "Solo Singing (Indian)",
+			"Registration": 150,
+			"Payment": "https://imjo.in/Mv26MG",
+			"Description": "Showcase your musical abilities in the Indian genre.",
+			"Venue": "Dhwani",
+			"Time": "12pm-1:30pm",
+			"Day": "Day 1",
+			"Rule": "No of participants:1\nThere will be two rounds - a preliminary round and a finale. \nDuration: 2+1 minutes for prelims. 3+1 minutes for finals. \n Choice of song is open to the participants, but should fall into the Indian style of music: Classical (Hindustani Carnatic), semi-classical, Bollywood, etc. (Also,the song should not have any slangs or derogatory language) \nThe participants are allowed to use one accompanying instrument if required. \nKaraoke and Shruthi box are allowed. Karaoke must be submitted at the venue 30 minutes before the start of the event. \nThe participants will be judged on the song selection,voice quality, clarity, rhythm, pitch and their appeal to the audience. \nThe decision of the judges will be final and binding under all circumstances.\nPoints will be deducted on exceeding the time limit",
+			"Poster": "https://drive.google.com/file/d/1n8dc8ET4G-A9vzrZjGaBp1zLt105mh2u/view?usp=sharing"
+		},
+		{
+			"Category": "Music",
+			"Event": "Solo Singing (Western)",
+			"Registration": 150,
+			"Payment": "https://imjo.in/YDEmup",
+			"Description": "Drift into the music",
+			"Venue": "Dhwani",
+			"Time": "1:30pm-3pm",
+			"Day": "Day 1",
+			"Rule": "No of participants:1\nTime limit - 2 + 1 - preliminary round and 3 + 1 - final round \nThere will be 2 rounds - preliminary and final \nInstruments can be used if required. \nJudging criteria: Tonal quality, Rhythm, Pitch, Choice of song, selection of raga, Overall performance. \nKaraoke is allowed and should be submitted 30 mins before the event. 7. Only western is allowed. \nOriginal compositions are allowed. \nViolation of rules would lead to disqualification. \nThe decision of the judge will be considered final. \nTime limit must be strictly followed.",
+			"Poster": "https://drive.google.com/file/d/1pTw9MHiTfOvToLnnji9ggkdXVUCsICaX/view?usp=sharing"
+		},
+		{
+			"Category": "Music",
+			"Event": "Instrumental",
+			"Registration": 150,
+			"Payment": "https://imjo.in/PSmqrm",
+			"Description": "Instrumentation is to music what color is to painting, let your soul sing without words",
+			"Venue": "Dhwani",
+			"Time": "3pm-5pm",
+			"Day": "Day 1",
+			"Rule": "No of participants:1\nParticipation is open to all individuals. \nPerformance Time Limit: First round: 2+1 minutes (not to be exceeded); Second round: 3+1(not to be exceeded) \nPre recorded audio is not allowed. \nElectronic tanpura can be used. \nJudging Criteria: Quality of performance, Clarity, Rhythm, Pitch, Choice of music, Overall performance. \nPoints will be deducted on exceeding the time limit. \nFailure to meet these rules will result in IMMEDIATE DISQUALIFICATION. \nJudges' decisions will be FINAL and cannot be APPEALED.",
+			"Poster": "https://drive.google.com/file/d/1l5wxD83tivEdXAf_JiBKKGEeTdNVWHdH/view?usp=sharing"
+		},
+		{
+			"Category": "Music",
+			"Event": "Battle of Bands",
+			"Registration": 1500,
+			"Payment": "https://imjo.in/4zngYP",
+			"Description": "Rock off and Rave On!!",
+			"Venue": "Main Stage",
+			"Time": "1:30pm-5pm",
+			"Day": "Day 2",
+			"Rule": "No of participants:10+2\n Songs of any language and genre are welcome in the competition \n Bands are required to bring their own instruments/gears/add-ons. Only drum kit will be provided (Excluding Kick Pedals) \nMinimum 3 band members are required to be eligible for participation, Time limit 12+4 mins(4 mins for stage set up). \n Permission for usage of any kind of programmed/pre-recorded music must be requested from the organizers before registration. \n All bands must register online prior to commencement of the competition. However, there will only be a limited number of bands competing. The selection will be on a first-come first-serve basis. Also, registration is subjected to being closed at the fulfillment of vacancies. \nExplicit or offensive lyrics/gestures/misconduct will guarantee immediate disqualification from the competition and will lead to immediate expulsion from the stage. \n Depending upon circumstances, some rules or decisions may be imposed by the judges during the competition and all participating bands shall have to follow the same.\n Decisions of the judges will be final under all circumstances.\nOne representative of the performing team must be present at the console during the performance.",
+			"Poster": "https://drive.google.com/file/d/1IgLb6DbyzkTTOGyKLs7HfRvCR5RXHtpW/view?usp=sharing"
+		},
+		{
+			"Category": "Music",
+			"Event": "Rap Battle",
+			"Registration": 150,
+			"Payment": "https://imjo.in/cwWNs8",
+			"Description": "Hip Hop is what makes the World go Round",
+			"Venue": "Side Stage",
+			"Time": "12:30pm-2pm",
+			"Day": "Day 1",
+			"Rule": "No of Participants:1\n1. The event will be split into three rounds: Preliminary round, semifinals and finals. In the preliminary round, each participant will be given ONE minute to showcase their talent. \n2. Participants are to perform an original composition in terms of lyrics over any instrumental track of their choice. This track must be submitted at the console ahead of the preliminary round. \n3. At the end of this round, semi finalists will be selected based on judging criteria.\n4. Semifinalists once paired up, will compete head to head with a time limit of 1 minute, 15 seconds per contestant. For this round, an instrumental track will be provided on the spot. \n5. Based on the outcome of the semi finals, finalists will be selected to battle it out for first and second place with a time limit of 2 minutes per contestant. \n6. Usage of ANY racial slurs, plagiarism or ‘biting' will lead to disqualification. \n7. Contestants will be judged on: lyrics, sense of rhythm and flow, stage",
+			"Poster": "https://drive.google.com/file/d/1XKRmvb0rFEQBgF6QBNpro7kchxD8teGW/view?usp=sharing"
+		},
+		{
+			"Category": "Music",
+			"Event": "Duet Singing",
+			"Registration": 300,
+			"Payment": "https://imjo.in/VdNBna",
+			"Description": "The man that hath no music in himself, nor is not moved with concord of sweet sounds, is fit for treasons, stratagems and spoils",
+			"Venue": "AV Hall (3rd Floor)",
+			"Time": "10am-11:30am",
+			"Day": "Day 1",
+			"Rule": "No of participants: 2\nThis is a duo event and participants must be from the same college. \nKaraoke is not allowed, however, a shruti box is acceptable. \nAny one instrument is compulsory. \nParticipants can sing in any language (Regional/English) and the set can be of any genre. \nJudging criteria: Tonal quality, Rhythm,Tempo, Pitch, Choice of song, Overall performance.\nTime limit 3+2 including stage setup. Exceeding the time limit will lead to reduction in points. \nVulgarity, Abusive language and personal attacks will lead to immediate disqualification.",
+			"Poster": "https://drive.google.com/file/d/1RSDuYeWmMWnMqAsLvBiUjPBekVNIuQ8X/view?usp=sharing"
+		},
+		{
+			"Category": "Music",
+			"Event": "Group singing",
+			"Registration": 500,
+			"Payment": "https://imjo.in/hVXUWM",
+			"Description": "Tap your feet and hold your heartbeat",
+			"Venue": "Dhwani",
+			"Time": "10am-11:30am",
+			"Day": "Day 2",
+			"Rule": "No of participants:4-10\nThis is a group event and all participants must be from the same college.\nKaraoke is not allowed, however, a shruti box is acceptable. \nA minimum of 4 and a maximum of 10 participants are allowed including minimum 2 accompanists. \nParticipants can sing in any language (Regional/English) and the set can be of any genre.\nJudging criteria: Tonal quality, Rhythm,Tempo, Pitch, Choice of song, Overall performance.\nTime limit 7+2 including stage setup. Exceeding the time limit will lead to reduction in points.\nVulgarity, Abusive language and personal attacks will lead to immediate disqualification.",
+			"Poster": "https://drive.google.com/file/d/1Z82BRTBgEDNhH22Kx3TuJ4YXynRewrca/view?usp=sharing"
+		}
+	],
+	"Muses": [
+		{
+			"Category": "Muses",
+			"Event": "Logo Redesign",
+			"Registration": 100,
+			"Payment": "https://imjo.in/ezdFhW",
+			"Description": "Redesign the logo of a classic company!",
+			"Venue": "BS 102 Classroom",
+			"Time": "10am-11am",
+			"Day": "Day 1",
+			"Rule": "No of participants: 01\nRules:\n Participants should carry their own devices (laptops, tablets, etc.)\n The logo that’s to be redesigned will be revealed 15 minutes prior to the\ncommencement of the event.\n Participants are expected to be present at the venue at least 15 minutes prior.\n Judges’ decision is final.\n Any form of vulgarity or violence would lead to direct disqualification.\n Plagiarism of any form will not be tolerated.\n Screenshot of the workflow along with the submissions have to be submitted.\n Multiple submissions are allowed.",
+			"Poster": "https://drive.google.com/file/d/1S0MzacBkfmx14PHGBGScMYJSGXhuZhT0/view?usp=sharing"
+		},
+		{
+			"Category": "Muses",
+			"Event": "Reel it",
+			"Registration": 100,
+			"Payment": "https://imjo.in/Xgxzkq",
+			"Description": "Make an Instagram reel in a jiffy!",
+			"Venue": "BS 102 Classroom",
+			"Time": "11am-12:30pm",
+			"Day": "Day 1",
+			"Rule": "No of participants: 01\nRules:\n Participants should carry their own devices (laptops, tablets, etc.)\n Theme will be revealed 15 minutes prior to the commencement of the event.\n Participants are expected to be present at the venue at least 15 minutes prior.\n The clips for the reel will be provided.\n Judges’ decision is final.\n The reel video should be within 1 min duration.\n Presets are allowed.\n Any form of vulgarity or violence would lead to direct disqualification.\n Plagiarism of any form will not be tolerated.\n Screenshot of the workflow along with the submissions have to be submitted.\n Multiple submissions are allowed.",
+			"Poster": "https://drive.google.com/file/d/1XKvEeguZ8TjgCu7yxsEOz1jnRTvJyiCM/view?usp=sharing"
+		},
+		{
+			"Category": "Muses",
+			"Event": "MS paint",
+			"Registration": 100,
+			"Payment": "https://imjo.in/FpQNXK",
+			"Description": "Use the most trivial graphic software to create a masterpiece!",
+			"Venue": "BS Lab 01",
+			"Time": "12:30pm-1:30pm",
+			"Day": "Day 1",
+			"Rule": "No of participants: 01\nRules:\n Participants should carry their own devices (laptops, tablets, etc.)\n Mouse, touchpad, drawing tablets, etc are allowed.\n Theme will be revealed 15 minutes prior to the commencement of the event.\n Participants are expected to be present at the venue at least 15 minutes prior.\n Judges’ decision is final.\n Any form of vulgarity or violence would lead to direct disqualification.\n Plagiarism of any form will not be tolerated.\n References are allowed.\n Screenshot of the workflow along with the submissions have to be submitted.\n Multiple submissions are allowed.",
+			"Poster": "https://drive.google.com/file/d/1Lpqv2cS79N7IWQ29RYdg3ogj3yTGFgLn/view?usp=sharing"
+		}
+	],
+	"Theatre": [
+		{
+			"Category": "Theatre",
+			"Event": "Improv",
+			"Registration": 300,
+			"Payment": "https://imjo.in/nkAxgS",
+			"Description": "Make a scene on the spot.",
+			"Venue": "AV Hall (3rd Floor)",
+			"Time": "12pm-1:30pm",
+			"Day": "Day 1",
+			"Rule": "No. of participants: 2-4 members per team.\n\nRules & Regulations:\n● Do not bite(copy) your competitor’s work.\n● No. of rounds will be decided prior to the event based\non number of participants.\n● The event will be split into prelims, semi-finals and\nfinals.\n● Judging Criteria will be based on technique, rhythm,\noriginality, creativity and interaction with the crowd.\n● Any malpractice will lead to disqualification.\n● Decision of the judges will be final.\n● Time limit 5+1 min",
+			"Poster": "https://drive.google.com/file/d/14o4QkdbLebU4jX1IW_2_Ekvz8j6SmWwV/view?usp=sharing"
+		},
+		{
+			"Category": "Theatre",
+			"Event": "Streetplay",
+			"Registration": 500,
+			"Payment": "https://imjo.in/SvTNcg",
+			"Description": "Hit the streets and act out loud!",
+			"Venue": "Parking Lot",
+			"Time": "11am-12pm",
+			"Day": "Day 1",
+			"Rule": "No. of participants: 10+2\nRules & Regulations:\n\n● Team size minimum 10, maximum 12 including all\nmusic accompaniments.\n● The essence of the play should be brought in English,\nHindi or Kannada.\n● Pre-recorded music and speakers are not allowed.\n● No usage of foul language\n● Duration – 10+2 minutes.\n● Any malpractice will lead to disqualification.\n● Get your own props and instruments (percussion and\nacoustic).\n● Decision of the judges will be final.",
+			"Poster": "https://drive.google.com/file/d/1dEe4AKtCtV8ukmjyZV9cyOxJbxnBkaVs/view?usp=sharing"
+		},
+		{
+			"Category": "Theatre",
+			"Event": "Mimica",
+			"Registration": 500,
+			"Payment": "https://imjo.in/Ntr64R",
+			"Description": "Silently amaze the crowd.",
+			"Venue": "Side Stage",
+			"Time": "2pm-3:30pm",
+			"Day": "Day 2",
+			"Rule": "No. of participants: 7+2\nRules & Regulations :\n\n● No dialogues allowed in the music.\n● Duration: 8+2 minutes.\n● No props allowed.\n● Participants should bring their own colours for\nmake-up.\n● Any malpractice will lead to disqualification.\n● Decision of the judges will be final.",
+			"Poster": "https://drive.google.com/file/d/1QqqrkqoMTg5SXKEakQciS2Bx1B_FpADz/view?usp=sharing"
+		},
+		{
+			"Category": "Theatre",
+			"Event": "Monologue",
+			"Registration": 150,
+			"Payment": "https://imjo.in/YCcptP",
+			"Description": "Filmy Buzz!",
+			"Venue": "AV Hall (3rd Floor)",
+			"Time": "1:30pm-3pm",
+			"Day": "Day 1",
+			"Rule": "No. of participants: 7+2\nRules & Regulations :\n\n● No dialogues allowed in the music.\n● Duration: 8+2 minutes.\n● No props allowed.\n● Participants should bring their own colours for\nmake-up.\n● Any malpractice will lead to disqualification.\n● Decision of the judges will be final.",
+			"Poster": "https://drive.google.com/file/d/13NdATHZg0eYlyAeYptv2AGNWGc57NsFI/view?usp=sharing"
+		},
+		{
+			"Category": "Theatre",
+			"Event": "Mad Ads",
+			"Registration": 500,
+			"Payment": "https://imjo.in/Qv7Edh",
+			"Description": "Bring out the madness in drama!",
+			"Venue": "Main Stage",
+			"Time": "12:00pm-1:30pm",
+			"Day": "Day 1",
+			"Rule": "No of participants: 8+2\n\nRules:\n● Vulgarity of any form and offensive remarks will lead to disqualification. \n● Duration: 10+2 minutes.\n● The decision of the judges will be final.",
+			"Poster": "https://drive.google.com/file/d/1qeS13Pm4Peid-EtR4r2-Iva5OKqcDAFV/view?usp=sharing"
+		}
+	],
+	"Dance": [
+		{
+			"Category": "Dance",
+			"Event": "Kick n Crew(western group dance)",
+			"Registration": 600,
+			"Payment": "https://imjo.in/J2saA4",
+			"Description": "Put on your dancing shoes along with your team and shake a leg to your favorite western beats",
+			"Venue": "Main Stage",
+			"Time": "10am-11:30am",
+			"Day": "Day 2",
+			"Rule": "No. of participants:12+5 \n• The length of the performance must not exceed 5+2 min including stage set up. \n• Multiple teams  from the same institution are not allowed. \n• The teams are expected to be in the college premises  around 2 hours before the start of the event. \n• A green room will be provided if necessary.\n •  Participants must bring their music in a pen drive and hand it over to the corresponding EC at least  an hour prior to the start of the event. \n• Any form of vulgarity in movements or costume will lead to  disqualification. \n• The decision of the judges will be final and binding.",
+			"Poster": "https://drive.google.com/file/d/1b2bW9yQfW42_YdG8Rd2o_-6Ohf3U47_f/view?usp=sharing"
+		},
+		{
+			"Category": "Dance",
+			"Event": "Two for Tango",
+			"Registration": 300,
+			"Payment": "https://imjo.in/GZMrKq",
+			"Description": "Two souls, one performance. Put on your duet shoes and set the stage on fire.",
+			"Venue": "Main Stage",
+			"Time": "11am-12pm",
+			"Day": "Day 1",
+			"Rule": "No. of participants : 02 \n• The length of the performance should not exceed 3+2 min including stage set up. \n• Participants can perform any form of dance. \n• Both members must belong to the same institution. \n• The teams are expected to be in the college premises around 2 hours before the start of the event.  • A green room will be provided if necessary. \n• Participants must bring their music in a pen drive and  \nhand it over to the corresponding EC at least an hour prior to the start of the event. \n• Any form of  vulgarity in movements or costume will lead to disqualification. \n• The decision of the judges will be  final and binding.",
+			"Poster": ""
+		},
+		{
+			"Category": "Dance",
+			"Event": "Switch Foot",
+			"Registration": 150,
+			"Payment": "https://imjo.in/fFNSVU",
+			"Description": "Our Songs, Your Moves! This event lets you freestyle to multiple songs in one performance.",
+			"Venue": "Main Stage",
+			"Time": "2pm-3:30pm",
+			"Day": "Day 1",
+			"Rule": "No. of participants:01 \n• Number of rounds: 3 \n• Participants will be given 2 minutes to perform. In the span of 2 minutes, multiple songs will be  played of different styles. \n• The second round and third round will be face off where 2 participants  will perform head to head. \n• Any form of vulgarity in movements or costume will lead to  disqualification. \n• The decision of the judges will be final and binding.",
+			"Poster": "https://drive.google.com/file/d/1dyMmjx4F8bUXM-qNWLr5BULHJn9tPyLy/view?usp=sharing"
+		},
+		{
+			"Category": "Dance",
+			"Event": "1 vs 1",
+			"Registration": 150,
+			"Payment": "https://imjo.in/RzCHg5",
+			"Description": "A 1 vs 1 showdown to prove who is the best hip-hopper",
+			"Venue": "Side stage",
+			"Time": "12pm-2pm",
+			"Day": "Day 2",
+			"Rule": "No of participants: 1 \n• Number of rounds: 3\n• Participants will have to battle with another competitor on the same  track. \n• The final round will contain 3 battles. \n• The music will be played by the DJ and no requests  are allowed. \n• Any form of vulgarity in movements or costume will lead to disqualification. \n• The  decision of the judges will be final and binding.",
+			"Poster": "https://drive.google.com/file/d/1zvCK70ediM5E4bNvvqziKGpe-Hy290be/view?usp=sharing"
+		},
+		{
+			"Category": "Dance",
+			"Event": "Kinkini(classical solo)",
+			"Registration": 150,
+			"Payment": "https://imjo.in/UzzWYV",
+			"Description": "India is a land of amazing classical art forms. Carry on the legacy by putting on a classical performance leaving everyone in awe.",
+			"Venue": "Main Stage",
+			"Time": "10am-11am",
+			"Day": "Day 1",
+			"Rule": "No of participants: 1\n• The length of the performance should not exceed 3+1 min including stage set up. \n• Number  of rounds: 1 \n• Participants may perform any type of classical dance form. \n• The teams are expected to be in the  college premises around 2 hours before the start of the event. • A green room will be provided if  necessary. \n• Participants must bring their music in a pen drive and hand it over to the corresponding  EC at least an hour prior to the start of the event. \n• Any form of vulgarity in movements or costume will lead to disqualification.\n• The  decision of the judges will be final and binding",
+			"Poster": "https://drive.google.com/file/d/1YYMSiTEmOJ7yepFfnbacUsK2SGcwOCtH/view?usp=sharing"
+		}
+	],
+	"Literary": [
+		{
+			"Category": "Literary",
+			"Event": "Trivia Island",
+			"Registration": 300,
+			"Payment": "https://imjo.in/QzqCcM",
+			"Description": "Think you're a TV Buzz? This one's for you",
+			"Venue": "AV Hall (Ground Floor)",
+			"Time": "10:30am-12pm",
+			"Day": "Day 2",
+			"Rule": "No of participants: 02\nRound 1- All participants will get general trivia questions. Qualified participants will be promoted to round 2\nRound 2- This round will be an audio/video round and consisting of movie/music clips.\nRound 3- A rapid fire round. Participants will have 5 seconds to answer the questions.\nMobile Phones are not allowed.\nDecision of the judge will be final.\nNo vulgar language.\nNo discussion with other participants.\nNo cheating, if found then will be disqualified.",
+			"Poster": "https://drive.google.com/file/d/1_TECzONmTtJrAOuCwPTpHqQUOY79-RLf/view?usp=sharing"
+		},
+		{
+			"Category": "Literary",
+			"Event": "Battle of 30 seconds",
+			"Registration": 150,
+			"Payment": "https://imjo.in/dtHq5q",
+			"Description": "Can you make it through thirty seconds of non-stop talking without repetition, stopping or stumbling?",
+			"Venue": "LH 501 (CSE) (Classroom)",
+			"Time": "10:30am-11:30pm",
+			"Day": "Day 1",
+			"Rule": "No. of participants: 01\n1. Individual event, multiple rounds.\n2. You have to speak for 30 seconds straight on a given topic.\n3. Topics will be randomly provided then and there.\n4. Repeating sentences is not allowed.\n5. Stopping or Stumbling even for once is not accepted.\n6. No usage of mobile or other technologies to collect information on the topic\n7. Foul language/insensitive material will lead to immediate disqualification.\n8. No questions or arguments once the final decision is made by the judge.",
+			"Poster": "https://drive.google.com/file/d/1qQCGZZ7StGZ79JhppCX61KAPUpl5eYAa/view?usp=sharing"
+		},
+		{
+			"Category": "Literary",
+			"Event": "El Tale Mocktail",
+			"Registration": 150,
+			"Payment": "https://imjo.in/awnNDc",
+			"Description": "A Plot-Twist Writing Competition",
+			"Venue": "LH 501 (CSE) (Classroom)",
+			"Time": "11:30am-12:30pm",
+			"Day": "Day 1",
+			"Rule": "No of participants: 1\nYou have to combine two movie plots out of the given movies and make a story. \nYou can mix more than two plots, for which you will get bonus points. The Bonus points depend on the number of plots you combine.\nYou cannot combine more than four plots. You are not allowed to use any movie plots that are not among the given movies list.\nYou can add or remove characters from the original plot, or create new characters as you wish.\nYou can make slight changes to the storyline, but the plot should largely be a mashup/mocktail of two plots you have chosen. All elements of two plots do not need to be included.\nOne Liner Plots will not be considered, if done negative points will be rewarded.\nThe given movies in the movies list are from Hindi, English and Kannada movies, but your submission must be in English. You can choose any combination of plots: Hindi-English, English-English, Hindi-Hindi, English-Kannada, Hindi-Kannada.\nPlagiarism and Vulgarity will lead to disqualification.\nJudge’s decision will be considered as the final decision.",
+			"Poster": "https://drive.google.com/file/d/1kCQaQcuU6J5-2HwGWRtJA7hh8D8L0A8g/view?usp=sharing"
+		},
+		{
+			"Category": "Literary",
+			"Event": "War of Words",
+			"Registration": 300,
+			"Payment": "https://imjo.in/sdUNQ3",
+			"Description": "A debate about an issue or a resolution.",
+			"Venue": "AV Hall (3rd floor)",
+			"Time": "1pm-2:30pm",
+			"Day": "Day 2",
+			"Rule": "Rules:\n• The topic will be disclosed 5 hours prior to the event via registered email.\n• The individual topic, for or against the motion will be decided at the time of the event through a\nlucky draw.\n• Time allotted for initial statement and affirmative or negative constructive per individual: 3 + 2\nminutes.\n• A speaker in favour of the motion will be the first one to speak followed by a speaker against\nthe motion, and so on.\n• The speaker after completing their statement will be answerable to the opponent if they wish to\ncross examine or\nquestion the speaker only based on their statements.\n• There will be a final rebuttal round of 20 minutes, after the constructive round, wherein the\nteammates will be allowed to open debate, discuss, question, cross and attack on the\nconstructive and rebuttal statements of the opponent.\n• No unparliamentary language to be used. Usage of phones to collect information/content is not\nallowed during the\nrounds.\n• The decision of the judges will be final and irrevocable.",
+			"Poster": "https://drive.google.com/file/d/1T5_krdTS5fUen6Q_XDzZVtJ0CUtAWTmW/view?usp=sharing"
+		}
+	],
+	"Gaming": [
+		{
+			"Category": "Gaming",
+			"Event": "Call of Duty Mobile",
+			"Registration": 150,
+			"Payment": "https://imjo.in/yxtMj7",
+			"Description": "A single player Death Match",
+			"Venue": "LH 506",
+			"Time": "11am-4pm",
+			"Day": "Day 1",
+			"Rule": "",
+			"Poster": ""
+		},
+		{
+			"Category": "Gaming",
+			"Event": "Counter Strike",
+			"Registration": 500,
+			"Payment": "https://imjo.in/pnrP3y",
+			"Description": "Headshot, Disarm, Survive",
+			"Venue": "Lab 503",
+			"Time": "11am-4pm",
+			"Day": "Day 1",
+			"Rule": "No of participants: 5(in a team)\n\nRules:\nA game consists of 2 periods, each period including 8 rounds. A round lasts 3:00 minutes. One period as terrorists and the other as counter-terrorists for each team.\nIn the incident of a tie, there will be a tie breaker match. In the tournament, maps are to be chosen by dropping unwanted maps.\nA knife-round is used to decide which team plays Counter-Terrorist and which team plays Terrorist. The winner of the knife-round picks their role before the first half of the match. Roles switch in the second half of the match. \nIf a team is not present on the tournament server at the start of the scheduled time, the other team chooses the map and the side (CT or T). \nTeam members may not communicate (speak) when he or she is 'dead' in the game. The only exception is when all team members are eliminated in the game. \nOnly the team captains are allowed to send public messages (message mode1 or 'y') during the game. The rest of the players are not allowed to use message mode1; failure to meet this rule would lead to team penalties. The players can send only team messages (message mode2 or 'u') during the match.\nThe below items are considered as cheating: \n○ Using cheat software \n○ Intentional disconnection \n○ Using any settings other than standard and permitted \n○ Using game map bugs",
+			"Poster": "https://drive.google.com/file/d/1SeyRGmSVF9WPkGLP9Eqi0Czqu1ezdN-8/view?usp=sharing"
+		},
+		{
+			"Category": "Gaming",
+			"Event": "NFS",
+			"Registration": 150,
+			"Payment": "https://imjo.in/GpPmb4",
+			"Description": "Do you think you have the Need For Speed to be the Most Wanted racer?",
+			"Venue": "Lab 506",
+			"Time": "11am-4pm",
+			"Day": "Day 1",
+			"Rule": "Rules:\n• The game can be played on Keyboard as well as controllers.(Controllers are allowed. The default\nsettings for the keyboard controls will be applied, but it can be changed before the start of the\ncompetition, after intimating the volunteers about the same.)\n• Tournament Rules: A particular number of players will form a set.\nThese players will compete with the members of each set. The emerging winner of each set, will\nthen move to the next round. The race type will be disclosed to you on spot. (Circuit/Sprint/Speed\nRun). At the end of each match, the players must retain the confirmation screen, and show it to the\nreferee.\n• Car settings: All cars will be unlocked.\nA specified time (to be disclosed on spot) will be given for the participants to free roam and select\nthe car of their choice. Only the DEFAULT settings of the car will be applicable. Any modifications\nwhatsoever, will lead to disqualification.Junkman is NOT allowed. Personal save profile is strictly\nprohibited.\n• The race mode will be intimated on the spot. • All other settings related to the UI is left to the\nparticipants discretion, and can be changed for simulating personal experiences.",
+			"Poster": "https://drive.google.com/file/d/1Sy9YxpNKgxw44eIRcXzwKALYpbjpGFaU/view?usp=sharing"
+		},
+		{
+			"Category": "Gaming",
+			"Event": "FIFA",
+			"Registration": 150,
+			"Payment": "https://imjo.in/wbt8Kn",
+			"Description": "Stun everyone with your skill!",
+			"Venue": "Lab 504",
+			"Time": "11am-4pm",
+			"Day": "Day 1",
+			"Rule": "",
+			"Poster": ""
+		},
+		{
+			"Category": "Gaming",
+			"Event": "BGMI",
+			"Registration": 400,
+			"Payment": "https://imjo.in/a6Bc2A",
+			"Description": "Treat your squad to a chicken dinner, if you can earn it.",
+			"Venue": "LH 505",
+			"Time": "11am-4pm",
+			"Day": "Day 1",
+			"Rule": "No of participants: 1-4\nRules:\n● You are free to play with squads, duo or solo.\n● No cheating (Use of aim bots, wall hacks, speed hacks, etc.) All players will be\nclosely monitored and if anyone is caught cheating, that team will be disqualified and\nbanned from the tournament.\n● Team killing is strictly prohibited and if anyone is seen fooling around with teammates\nusing grenades, that team will be disqualified.\n● Each team will be given 2 matches according to which points table will be prepared\nand top 16 teams will play the final match.( Number of matches will depend upon the\nnumber of teams registered*)\n● Mobile data required.\n● Map: ERANGEL &amp; MIRAMAR\n● Points distribution: 1 Point for each kill.",
+			"Poster": "https://drive.google.com/file/d/1AZUcBXE1RGh3xeirW1Ldb-4q92iny6f2/view?usp=sharing"
+		}
+	],
+	"Fashion": [
+		{
+			"Category": "Fashion",
+			"Event": "Fashion Show",
+			"Registration": 2000,
+			"Payment": "https://imjo.in/9NyJPb",
+			"Description": "The stage is set, the spotlight is on you!",
+			"Venue": "Main Stage",
+			"Time": "4pm-7pm",
+			"Day": "Day 1",
+			"Rule": "Rules & Regulations:\nIt is a team event. A team can have 6 - 12 members.\nTheme selection is open to the team.\nTime limit for every team would be 10 minutes (Including both the setup\nand the performance).\nNegative marking if participants exceed time limit.\nShould carry their tracks in pen drive and should be submitted in advance.\nTeams will be judged on costumes, theme, walking stance, attitude and tag\nline.\nEach group should have one tag line representing their group.\nDecision of the judges will be final and binding.\nAll costumes are permitted, which maintain decency including original\ncostumes and fashion designs.\nPurchased, professionally made, or rented costumes are permitted.",
+			"Poster": ""
+		}
+	],
+	"Informal": [
+		{
+			"Category": "Informal",
+			"Event": "Mr. Fit",
+			"Registration": 150,
+			"Payment": "https://imjo.in/8cSdQp",
+			"Description": "Survival of the fittest",
+			"Venue": "Main Stage",
+			"Time": "12pm-1pm",
+			"Day": "Day 2",
+			"Rule": "No. of participants: 1\nRules:\nRound one : • (Flex Round ) • The participants will be asked to do pushups. The contestants who do the maximum number of pushups in the given time will be promoted to next round. \n• The participants would have to stay in squat position\nfor as long as they can. 15 kg weight would be given . The top 6 who endurestill the end will be\npromoted to round two.\n• Round two: One Vs one : The top 6 would fight a one on one battle with each other showcasing their\nbest talent , challenging their competitor to prove that they are better at it. The contestant who proves\nthat he is the best is declared winner.\n• Optional Round ( If the contestants crowd is huge) Question and answer session : Best answer to a\ngiven question wins.",
+			"Poster": "https://drive.google.com/file/d/1k0iturM1HrGSKQwcNWrC1YCaFO5UVEDd/view?usp=sharing"
+		},
+		{
+			"Category": "Informal",
+			"Event": "Food Hunt",
+			"Registration": 300,
+			"Payment": "https://imjo.in/TeYMTT",
+			"Description": "",
+			"Venue": "",
+			"Time": "",
+			"Day": "",
+			"Rule": "",
+			"Poster": ""
+		},
+		{
+			"Category": "Informal",
+			"Event": "Hogathon",
+			"Registration": 150,
+			"Payment": "https://imjo.in/JWfMua",
+			"Description": "Invoke the Bakasur in you!",
+			"Venue": "Side Stage",
+			"Time": "2:30pm-3:30pm",
+			"Day": "Day 1",
+			"Rule": "Rules:\n➢ 2 rounds will be held\n➢ In the 1st round, a team of 5 participants is made\n➢ 1 participant will qualify for next round\n➢ In last round whoever finishes early he will be the\nwinner\n➢ The final call regarding competition lies with organizers",
+			"Poster": "https://drive.google.com/file/d/1BiY2DTBhrVkoTBMn7BPIvD2KvZoByNAM/view?usp=sharing"
+		},
+		{
+			"Category": "Informal",
+			"Event": "Stand-up Comedy",
+			"Registration": 150,
+			"Payment": "https://imjo.in/CGbyRR",
+			"Description": "",
+			"Venue": "AV Hall (3rd floor)",
+			"Time": "11am-12pm",
+			"Day": "Day 2",
+			"Rule": "No of participants: 01\n\nRules:\n● Individual event.\n● Time limit is 5 Minutes.\n● Use of props or music is allowed.\n● Participants can speak in Hindi, English or Kannada.\n● Participants will be judged on the basis of content, fluency, spontaneity, presentation &amp;\nsense of humor.\n● No religious or political opinion will be entertained.\n● Unparliamentary language is strictly not allowed.\n● Decision of the judges will be final.",
+			"Poster": "https://drive.google.com/file/d/1_qfcJkFxhZWC3Xolvj58lzzy5aajdr4f/view?usp=sharing"
+		}
+	],
+	"Kannada": [
+		{
+			"Category": "Kannada",
+			"Event": "Best Puneeth Impression",
+			"Registration": 100,
+			"Payment": "https://imjo.in/BUEj7y",
+			"Description": "",
+			"Venue": "",
+			"Time": "",
+			"Day": "",
+			"Rule": "",
+			"Poster": ""
+		},
+		{
+			"Category": "Kannada",
+			"Event": "KGF",
+			"Registration": 200,
+			"Payment": "https://imjo.in/ARjZUQ",
+			"Description": "",
+			"Venue": "",
+			"Time": "",
+			"Day": "",
+			"Rule": "",
+			"Poster": ""
+		},
+		{
+			"Category": "Kannada",
+			"Event": "Hemmeya Kannadiga",
+			"Registration": 200,
+			"Payment": "https://imjo.in/tc5sFx",
+			"Description": "",
+			"Venue": "",
+			"Time": "",
+			"Day": "",
+			"Rule": "",
+			"Poster": ""
+		},
+		{
+			"Category": "Kannada",
+			"Event": "Bhaavasangama",
+			"Registration": 200,
+			"Payment": "https://imjo.in/m9qMW2",
+			"Description": "",
+			"Venue": "",
+			"Time": "",
+			"Day": "",
+			"Rule": "",
+			"Poster": ""
+		}
+	],
+	"Art": [
+		{
+			"Category": "Art",
+			"Event": "Face Painting",
+			"Registration": 150,
+			"Payment": "https://imjo.in/tcC5nV",
+			"Description": "",
+			"Venue": "Volleyball Court",
+			"Time": "2:30pm-3:30pm",
+			"Day": "Day 1",
+			"Rule": "No of participants:\n2 (per team)\nRules:\n● Participants should bring their own materials.\n● The time limit of the competition is 90 mins.\n● The theme will be given on spot.\n● The judges will make the final decision.",
+			"Poster": "https://drive.google.com/file/d/1JJ1bwzL5wIuMrTBl50h9GDrQJnbn-n_I/view?usp=sharing"
+		},
+		{
+			"Category": "Art",
+			"Event": "Book Cover",
+			"Registration": 150,
+			"Payment": "https://imjo.in/c2fT9a",
+			"Description": "",
+			"Venue": "BS 101 (Classroom)",
+			"Time": "10am-11:30am",
+			"Day": "Day 1",
+			"Rule": "No. of participants:01\nRules:\n• Participants should carry their own materials for the event.\n• Topic will be given on the spot.\n• Duration - 90 minutes.\n• Decision of the judges will be final and binding.",
+			"Poster": "https://drive.google.com/file/d/1MsVNY-XuyvJ5tUVMQzvwVkBS4DdhVWwi/view?usp=sharing"
+		},
+		{
+			"Category": "Art",
+			"Event": "Ditch your brush",
+			"Registration": 150,
+			"Payment": "https://imjo.in/77NsPm",
+			"Description": "",
+			"Venue": "BS 102 (Classroom)",
+			"Time": "11am-12pm",
+			"Day": "Day 2",
+			"Rule": "No. of participants: 1 (individual event)\n\nRules:\nParticipants can make use of any object/material to paint except a brush.\nParticipants should carry their own materials for the event.\nDrawing sheets will be provided to paint on.\nTheme/topic will be selected on spot by picking up chits\nDuration: 90 mins\nDecision of the judges will be final",
+			"Poster": "https://drive.google.com/file/d/1yQLbrMQpX0A8fx3aYZ0foDWaPnMwADPp/view?usp=sharing"
+		},
+		{
+			"Category": "Art",
+			"Event": "Charcoal Art",
+			"Registration": 150,
+			"Payment": "https://imjo.in/AYsZ6x",
+			"Description": "",
+			"Venue": "BS 102 (Classroom)",
+			"Time": "1pm-2pm",
+			"Day": "Day 2",
+			"Rule": "No.of participants:01\nRules:\n The topic will be given on-spot.\n Participants should get their own materials.\n Duration: 90 minutes\n The decision of the judges will be final and\nbinding.",
+			"Poster": "https://drive.google.com/file/d/1ZCzn2lj9bKKCdkBXA8XrSCPsnNFs2B8k/view?usp=sharing"
+		}
+	],
+	"CSE": [
+		{
+			"Category": "CSE",
+			"Event": "Code Raiders",
+			"Registration": 300,
+			"Payment": "",
+			"Description": "",
+			"Venue": "",
+			"Time": "",
+			"Day": "",
+			"Rule": "",
+			"Poster": ""
+		}
+	],
+	"ISE": [
+		{
+			"Category": "ISE",
+			"Event": "Codical Chairs",
+			"Registration": 200,
+			"Payment": "https://imjo.in/zQNhru",
+			"Description": "",
+			"Venue": "",
+			"Time": "",
+			"Day": "",
+			"Rule": "",
+			"Poster": ""
+		}
+	],
+	"ECE": [
+		{
+			"Category": "EEE",
+			"Event": "Debate on EV's",
+			"Registration": 300,
+			"Payment": "",
+			"Description": "",
+			"Venue": "",
+			"Time": "",
+			"Day": "",
+			"Rule": "",
+			"Poster": ""
+		}
+	],
+	"EEE": [
+		{
+			"Category": "EEE",
+			"Event": "Debate on EV's",
+			"Registration": 300,
+			"Payment": "",
+			"Description": "",
+			"Venue": "",
+			"Time": ""
+		}
+	],
+	"CIVIL": [
+		{
+			"Category": "CIVIL",
+			"Event": "Autocad",
+			"Registration": 150,
+			"Payment": "",
+			"Description": "",
+			"Venue": "",
+			"Time": "",
+			"Day": "",
+			"Rule": "",
+			"Poster": ""
+		}
+	],
+	"MECH": [
+		{
+			"Category": "MECH",
+			"Event": "Robo Ignitors",
+			"Registration": 500,
+			"Payment": "https://imjo.in/p4bmf8",
+			"Description": "",
+			"Venue": "",
+			"Time": "",
+			"Day": "",
+			"Rule": "",
+			"Poster": ""
+		}
+	],
+	"MBA": [
+		{
+			"Category": "MBA",
+			"Event": "Best Manager",
+			"Registration": 200,
+			"Payment": "https://imjo.in/25mQWD",
+			"Description": "",
+			"Venue": "",
+			"Time": "",
+			"Day": "",
+			"Rule": "",
+			"Poster": ""
+		}
+	],
+	"MCA": [
+		{
+			"Category": "MCA",
+			"Event": "Digital Scavenger",
+			"Registration": 200,
+			"Payment": "",
+			"Description": "",
+			"Venue": "",
+			"Time": "",
+			"Day": "",
+			"Rule": "",
+			"Poster": ""
+		}
+	]
 }
