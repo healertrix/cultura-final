@@ -19,17 +19,17 @@ export default function Event() {
           rel="stylesheet"
         />
       </Head>
-      <div class="container py-[6rem] mx-[1rem]">
+      <div className="container py-[6rem] mx-[1rem]">
         <>
-          <p class="text-2xl font-medium uppercase text-white mb-[1.1rem]">
+          <p className="text-2xl font-medium uppercase text-white mb-[1.1rem]">
             Events{" "}
           </p>
-          <p class="highlight text-6xl mb-[1.5rem]">
+          <p className="highlight text-6xl mb-[1.5rem]">
             HUNT FOR THE <br />
-            <span class="text-7xl">LOST TREASURE</span>
+            <span className="text-7xl">LOST TREASURE</span>
           </p>
         </>
-        <div class="grid sm:grid-2 lg:grid-cols-4 gap-3 md:grid-cols-2">
+        <div className="grid sm:grid-2 lg:grid-cols-4 gap-3 md:grid-cols-2">
           <a href="./events">
             <img id="wooden" src="/artsWoodenCard.svg" />
           </a>

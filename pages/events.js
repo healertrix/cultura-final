@@ -5,7 +5,7 @@ import EventDetails from "../components/eventPage";
 export default function Main() {
 	return (
     <>
-      <div class={styles.container}>
+      <div className={styles.container}>
         <Head>
           <title>Cultura 2022</title>
           <meta name="description" content="CMRIT Cultura 2022" />

@@ -21,7 +21,7 @@ export default function Footer() {
           rel="stylesheet"
         />
       </Head>
-      <div class="container mx-[1rem] pt-[3rem] pb-[2rem]">
+      <div className="container mx-[1rem] pt-[3rem] pb-[2rem]">
         <img src="/Cultura22.svg" alt="" id={styles.addresslogo_image} />
         <img src="/address.svg" alt="" />
       </div>
