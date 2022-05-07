@@ -5,7 +5,7 @@ export const Guest = () => {
   return (
     <>
       <Head>
-        <title>Home App</title>
+        <title>Cultura 2022</title>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           rel="preconnect"

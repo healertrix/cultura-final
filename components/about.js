@@ -6,7 +6,7 @@ export default function About() {
     <>
       <div id={styles.about_wrapper}>
         <Head>
-          <title>Home App</title>
+          <title>Cultura 2022</title>
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link
             rel="preconnect"

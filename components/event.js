@@ -3,7 +3,7 @@ export default function Event() {
 	return (
     <div id="event-container">
       <Head>
-        <title>Home App</title>
+        <title>Cultura 2022</title>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           rel="preconnect"
