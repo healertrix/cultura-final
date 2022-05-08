@@ -1,9 +1,9 @@
 .eventContainer {
-	background-image: url("/PaperBackground.png");
+	background-image: url("../public/event/components/bg-texture.png");
 	background-position: center;
-	background-repeat: no-repeat;
 	background-size: cover;
-	padding: 4rem 2rem;
+	padding: 1rem 1rem;
+	border-radius: 1rem;
 }
 .repeatBackground {
 	background-image: url("/Background.png");

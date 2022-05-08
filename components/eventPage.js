@@ -7,6 +7,9 @@ import NavBar from "./navbar";
 import Link from "next/link";
 import { useState, useEffect } from "react";
 import Router from "next/router";
+import Image from "next/image";
+
+import registerButton from "../public/event/components/Register.svg";
 
 function dataBhejo(data) {
 	Router.push({
@@ -104,7 +107,7 @@ export default function EventDetails() {
 				<div className="max-w-[1440px] m-auto">
 					<NavBar />
 				</div>
-				<div className="flex flex-row justify-center content-center h-[30rem] w-full">
+				<div className="flex flex-row justify-center content-center w-full h-[24rem]">
 					<div className="container">
 						<div className={styles.wrapper}>
 							<div className={styles.one}>
@@ -204,68 +207,12 @@ export default function EventDetails() {
 									Art
 								</button>
 							</Link>
-							<Link href="#CSE">
+							<Link href="#Department">
 								<button
 									className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-sm px-4 py-2.5 text-center inline-flex items-center mt-4 mr-4"
 									type="button"
 								>
-									CSE
-								</button>
-							</Link>
-							<Link href="#ISE">
-								<button
-									className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-sm px-4 py-2.5 text-center inline-flex items-center mt-4 mr-4"
-									type="button"
-								>
-									ISE
-								</button>
-							</Link>
-							<Link href="#ECE">
-								<button
-									className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-sm px-4 py-2.5 text-center inline-flex items-center mt-4 mr-4"
-									type="button"
-								>
-									ECE
-								</button>
-							</Link>
-							<Link href="#EEE">
-								<button
-									className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-sm px-4 py-2.5 text-center inline-flex items-center mt-4 mr-4"
-									type="button"
-								>
-									EEE
-								</button>
-							</Link>
-							<Link href="#MECh">
-								<button
-									className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-sm px-4 py-2.5 text-center inline-flex items-center mt-4 mr-4"
-									type="button"
-								>
-									MECH
-								</button>
-							</Link>
-							<Link href="#CIVIL">
-								<button
-									className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-sm px-4 py-2.5 text-center inline-flex items-center mt-4 mr-4"
-									type="button"
-								>
-									CIVIL
-								</button>
-							</Link>
-							<Link href="#MBA">
-								<button
-									className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-sm px-4 py-2.5 text-center inline-flex items-center mt-4 mr-4"
-									type="button"
-								>
-									MBA
-								</button>
-							</Link>
-							<Link href="#MCA">
-								<button
-									className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-sm px-4 py-2.5 text-center inline-flex items-center mt-4 mr-4"
-									type="button"
-								>
-									MCA
+									Departments
 								</button>
 							</Link>
 						</div>
@@ -275,23 +222,29 @@ export default function EventDetails() {
 				<div className="flex flex-row w-full">
 					<div className="container">
 						<section id="Photography">
-							<h2 className="text-4xl font-bold text-white tracking-wider">
+							<h2 className="text-4xl highlight uppercase font-bold text-white tracking-wider">
 								Photography
 							</h2>
 							<div className="flex flex-wrap -m-4 mt-[0.25rem] mb-[3rem]">
 								{photographyData.map((eventInfo, index) => (
 									<>
 										<a
-											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-5"
+											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className={style.eventContainer}>
-												<h3 className="text-xl font-semibold text-black">
-													{eventInfo.Event}
-												</h3>
-												<p className="description text-black">
-													{eventInfo.Description}
-												</p>
+											<div className="py-2 px-2 cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+												<div className={style.eventContainer}>
+													<h3 className="text-3xl mb-2 font-bold text-white">
+														{eventInfo.Event}
+													</h3>
+													<p className="text-lg font-semibold text-white mb-4">
+														{eventInfo.Description}
+													</p>
+													<Image
+														className="scale-90 hover:scale-100"
+														src={registerButton}
+													></Image>
+												</div>
 											</div>
 										</a>
 									</>
@@ -299,23 +252,29 @@ export default function EventDetails() {
 							</div>
 						</section>
 						<section id="Music">
-							<h2 className="text-4xl font-bold text-white tracking-wider">
+							<h2 className="text-4xl highlight font-bold text-white tracking-wider">
 								Music
 							</h2>
 							<div className="flex flex-wrap -m-4 mt-[0.25rem] mb-[3rem]">
 								{musicData.map((eventInfo, index) => (
 									<>
 										<a
-											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-5"
+											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className={style.eventContainer}>
-												<h3 className="text-xl font-semibold text-black">
-													{eventInfo.Event}
-												</h3>
-												<p className="description text-black">
-													{eventInfo.Description}
-												</p>
+											<div className="py-2 px-2 cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+												<div className={style.eventContainer}>
+													<h3 className="text-3xl mb-2 font-bold text-white">
+														{eventInfo.Event}
+													</h3>
+													<p className="text-lg font-semibold text-white mb-4">
+														{eventInfo.Description}
+													</p>
+													<Image
+														className="scale-90 hover:scale-100"
+														src={registerButton}
+													></Image>
+												</div>
 											</div>
 										</a>
 									</>
@@ -323,23 +282,29 @@ export default function EventDetails() {
 							</div>
 						</section>
 						<section id="Muses">
-							<h2 className="text-4xl font-bold text-white tracking-wider">
+							<h2 className="text-4xl highlight font-bold text-white tracking-wider">
 								Muses
 							</h2>
 							<div className="flex flex-wrap -m-4 mt-[0.25rem] mb-[3rem]">
 								{musesData.map((eventInfo, index) => (
 									<>
 										<a
-											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-5"
+											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className={style.eventContainer}>
-												<h3 className="text-xl font-semibold text-black">
-													{eventInfo.Event}
-												</h3>
-												<p className="description text-black">
-													{eventInfo.Description}
-												</p>
+											<div className="py-2 px-2 cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+												<div className={style.eventContainer}>
+													<h3 className="text-3xl mb-2 font-bold text-white">
+														{eventInfo.Event}
+													</h3>
+													<p className="text-lg font-semibold text-white mb-4">
+														{eventInfo.Description}
+													</p>
+													<Image
+														className="scale-90 hover:scale-100"
+														src={registerButton}
+													></Image>
+												</div>
 											</div>
 										</a>
 									</>
@@ -347,23 +312,29 @@ export default function EventDetails() {
 							</div>
 						</section>
 						<section id="Theatre">
-							<h2 className="text-4xl font-bold text-white tracking-wider">
+							<h2 className="text-4xl highlight font-bold text-white tracking-wider">
 								Theatre
 							</h2>
 							<div className="flex flex-wrap -m-4 mt-[0.25rem] mb-[3rem]">
 								{theatreData.map((eventInfo, index) => (
 									<>
 										<a
-											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-5"
+											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className={style.eventContainer}>
-												<h3 className="text-xl font-semibold text-black">
-													{eventInfo.Event}
-												</h3>
-												<p className="description text-black">
-													{eventInfo.Description}
-												</p>
+											<div className="py-2 px-2 cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+												<div className={style.eventContainer}>
+													<h3 className="text-3xl mb-2 font-bold text-white">
+														{eventInfo.Event}
+													</h3>
+													<p className="text-lg font-semibold text-white mb-4">
+														{eventInfo.Description}
+													</p>
+													<Image
+														className="scale-90 hover:scale-100"
+														src={registerButton}
+													></Image>
+												</div>
 											</div>
 										</a>
 									</>
@@ -371,23 +342,29 @@ export default function EventDetails() {
 							</div>
 						</section>
 						<section id="Dance">
-							<h2 className="text-4xl font-bold text-white tracking-wider">
+							<h2 className="text-4xl highlight font-bold text-white tracking-wider">
 								Dance
 							</h2>
 							<div className="flex flex-wrap -m-4 mt-[0.25rem] mb-[3rem]">
 								{danceData.map((eventInfo, index) => (
 									<>
 										<a
-											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-5"
+											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className={style.eventContainer}>
-												<h3 className="text-xl font-semibold text-black">
-													{eventInfo.Event}
-												</h3>
-												<p className="description text-black">
-													{eventInfo.Description}
-												</p>
+											<div className="py-2 px-2 cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+												<div className={style.eventContainer}>
+													<h3 className="text-3xl mb-2 font-bold text-white">
+														{eventInfo.Event}
+													</h3>
+													<p className="text-lg font-semibold text-white mb-4">
+														{eventInfo.Description}
+													</p>
+													<Image
+														className="scale-90 hover:scale-100"
+														src={registerButton}
+													></Image>
+												</div>
 											</div>
 										</a>
 									</>
@@ -395,23 +372,29 @@ export default function EventDetails() {
 							</div>
 						</section>
 						<section id="Literary">
-							<h2 className="text-4xl font-bold text-white tracking-wider">
+							<h2 className="text-4xl highlight font-bold text-white tracking-wider">
 								Literary
 							</h2>
 							<div className="flex flex-wrap -m-4 mt-[0.25rem] mb-[3rem]">
 								{literaryData.map((eventInfo, index) => (
 									<>
 										<a
-											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-5"
+											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className={style.eventContainer}>
-												<h3 className="text-xl font-semibold text-black">
-													{eventInfo.Event}
-												</h3>
-												<p className="description text-black">
-													{eventInfo.Description}
-												</p>
+											<div className="py-2 px-2 cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+												<div className={style.eventContainer}>
+													<h3 className="text-3xl mb-2 font-bold text-white">
+														{eventInfo.Event}
+													</h3>
+													<p className="text-lg font-semibold text-white mb-4">
+														{eventInfo.Description}
+													</p>
+													<Image
+														className="scale-90 hover:scale-100"
+														src={registerButton}
+													></Image>
+												</div>
 											</div>
 										</a>
 									</>
@@ -419,23 +402,29 @@ export default function EventDetails() {
 							</div>
 						</section>
 						<section id="Gaming">
-							<h2 className="text-4xl font-bold text-white tracking-wider">
+							<h2 className="text-4xl highlight font-bold text-white tracking-wider">
 								Gaming
 							</h2>
 							<div className="flex flex-wrap -m-4 mt-[0.25rem] mb-[3rem]">
 								{gamingData.map((eventInfo, index) => (
 									<>
 										<a
-											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-5"
+											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className={style.eventContainer}>
-												<h3 className="text-xl font-semibold text-black">
-													{eventInfo.Event}
-												</h3>
-												<p className="description text-black">
-													{eventInfo.Description}
-												</p>
+											<div className="py-2 px-2 cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+												<div className={style.eventContainer}>
+													<h3 className="text-3xl mb-2 font-bold text-white">
+														{eventInfo.Event}
+													</h3>
+													<p className="text-lg font-semibold text-white mb-4">
+														{eventInfo.Description}
+													</p>
+													<Image
+														className="scale-90 hover:scale-100"
+														src={registerButton}
+													></Image>
+												</div>
 											</div>
 										</a>
 									</>
@@ -443,23 +432,29 @@ export default function EventDetails() {
 							</div>
 						</section>
 						<section id="Fashion">
-							<h2 className="text-4xl font-bold text-white tracking-wider">
+							<h2 className="text-4xl highlight font-bold text-white tracking-wider">
 								Fashion
 							</h2>
 							<div className="flex flex-wrap -m-4 mt-[0.25rem] mb-[3rem]">
 								{fashionData.map((eventInfo, index) => (
 									<>
 										<a
-											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-5"
+											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className={style.eventContainer}>
-												<h3 className="text-xl font-semibold text-black">
-													{eventInfo.Event}
-												</h3>
-												<p className="description text-black">
-													{eventInfo.Description}
-												</p>
+											<div className="py-2 px-2 cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+												<div className={style.eventContainer}>
+													<h3 className="text-3xl mb-2 font-bold text-white">
+														{eventInfo.Event}
+													</h3>
+													<p className="text-lg font-semibold text-white mb-4">
+														{eventInfo.Description}
+													</p>
+													<Image
+														className="scale-90 hover:scale-100"
+														src={registerButton}
+													></Image>
+												</div>
 											</div>
 										</a>
 									</>
@@ -467,23 +462,29 @@ export default function EventDetails() {
 							</div>
 						</section>
 						<section id="Informal">
-							<h2 className="text-4xl font-bold text-white tracking-wider">
+							<h2 className="text-4xl highlight font-bold text-white tracking-wider">
 								Informal
 							</h2>
 							<div className="flex flex-wrap -m-4 mt-[0.25rem] mb-[3rem]">
 								{informalData.map((eventInfo, index) => (
 									<>
 										<a
-											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-5"
+											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className={style.eventContainer}>
-												<h3 className="text-xl font-semibold text-black">
-													{eventInfo.Event}
-												</h3>
-												<p className="description text-black">
-													{eventInfo.Description}
-												</p>
+											<div className="py-2 px-2 cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+												<div className={style.eventContainer}>
+													<h3 className="text-3xl mb-2 font-bold text-white">
+														{eventInfo.Event}
+													</h3>
+													<p className="text-lg font-semibold text-white mb-4">
+														{eventInfo.Description}
+													</p>
+													<Image
+														className="scale-90 hover:scale-100"
+														src={registerButton}
+													></Image>
+												</div>
 											</div>
 										</a>
 									</>
@@ -491,23 +492,29 @@ export default function EventDetails() {
 							</div>
 						</section>
 						<section id="Kannada">
-							<h2 className="text-4xl font-bold text-white tracking-wider">
+							<h2 className="text-4xl highlight font-bold text-white tracking-wider">
 								Kannada
 							</h2>
 							<div className="flex flex-wrap -m-4 mt-[0.25rem] mb-[3rem]">
 								{kannadaData.map((eventInfo, index) => (
 									<>
 										<a
-											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-5"
+											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className={style.eventContainer}>
-												<h3 className="text-xl font-semibold text-black">
-													{eventInfo.Event}
-												</h3>
-												<p className="description text-black">
-													{eventInfo.Description}
-												</p>
+											<div className="py-2 px-2 cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+												<div className={style.eventContainer}>
+													<h3 className="text-3xl mb-2 font-bold text-white">
+														{eventInfo.Event}
+													</h3>
+													<p className="text-lg font-semibold text-white mb-4">
+														{eventInfo.Description}
+													</p>
+													<Image
+														className="scale-90 hover:scale-100"
+														src={registerButton}
+													></Image>
+												</div>
 											</div>
 										</a>
 									</>
@@ -515,215 +522,220 @@ export default function EventDetails() {
 							</div>
 						</section>
 						<section id="Art">
-							<h2 className="text-4xl font-bold text-white tracking-wider">
+							<h2 className="text-4xl highlight font-bold text-white tracking-wider">
 								Art
 							</h2>
 							<div className="flex flex-wrap -m-4 mt-[0.25rem] mb-[3rem]">
 								{artData.map((eventInfo, index) => (
 									<>
 										<a
-											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-5"
+											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className={style.eventContainer}>
-												<h3 className="text-xl font-semibold text-black">
-													{eventInfo.Event}
-												</h3>
-												<p className="description text-black">
-													{eventInfo.Description}
-												</p>
+											<div className="py-2 px-2 cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+												<div className={style.eventContainer}>
+													<h3 className="text-3xl mb-2 font-bold text-white">
+														{eventInfo.Event}
+													</h3>
+													<p className="text-lg font-semibold text-white mb-4">
+														{eventInfo.Description}
+													</p>
+													<Image
+														className="scale-90 hover:scale-100"
+														src={registerButton}
+													></Image>
+												</div>
 											</div>
 										</a>
 									</>
 								))}
 							</div>
 						</section>
-						<section id="CSE">
-							<h2 className="text-4xl font-bold text-white tracking-wider">
-								CSE
+						<section id="Department">
+							<h2 className="text-4xl highlight font-bold text-white tracking-wider">
+								DEPARTMENTS
 							</h2>
 							<div className="flex flex-wrap -m-4 mt-[0.25rem] mb-[3rem]">
 								{cseData.map((eventInfo, index) => (
 									<>
 										<a
-											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-5"
+											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className={style.eventContainer}>
-												<h3 className="text-xl font-semibold text-black">
-													{eventInfo.Event}
-												</h3>
-												<p className="description text-black">
-													{eventInfo.Description}
-												</p>
+											<div className="py-2 px-2 cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+												<div className={style.eventContainer}>
+													<h3 className="text-3xl mb-2 font-bold text-white">
+														{eventInfo.Event}
+													</h3>
+													<p className="text-lg font-semibold text-white mb-4">
+														{eventInfo.Description}
+													</p>
+													<Image
+														className="scale-90 hover:scale-100"
+														src={registerButton}
+													></Image>
+												</div>
 											</div>
 										</a>
 									</>
 								))}
-							</div>
-						</section>
-						<section id="ISE">
-							<h2 className="text-4xl font-bold text-white tracking-wider">
-								ISE
-							</h2>
-							<div className="flex flex-wrap -m-4 mt-[0.25rem] mb-[3rem]">
 								{iseData.map((eventInfo, index) => (
 									<>
 										<a
-											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-5"
+											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className={style.eventContainer}>
-												<h3 className="text-xl font-semibold text-black">
-													{eventInfo.Event}
-												</h3>
-												<p className="description text-black">
-													{eventInfo.Description}
-												</p>
+											<div className="py-2 px-2 cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+												<div className={style.eventContainer}>
+													<h3 className="text-3xl mb-2 font-bold text-white">
+														{eventInfo.Event}
+													</h3>
+													<p className="text-lg font-semibold text-white mb-4">
+														{eventInfo.Description}
+													</p>
+													<Image
+														className="scale-90 hover:scale-100"
+														src={registerButton}
+													></Image>
+												</div>
 											</div>
 										</a>
 									</>
 								))}
-							</div>
-						</section>
-						<section id="ECE">
-							<h2 className="text-4xl font-bold text-white tracking-wider">
-								ECE
-							</h2>
-							<div className="flex flex-wrap -m-4 mt-[0.25rem] mb-[3rem]">
 								{eceData.map((eventInfo, index) => (
 									<>
 										<a
-											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-5"
+											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className={style.eventContainer}>
-												<h3 className="text-xl font-semibold text-black">
-													{eventInfo.Event}
-												</h3>
-												<p className="description text-black">
-													{eventInfo.Description}
-												</p>
+											<div className="py-2 px-2 cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+												<div className={style.eventContainer}>
+													<h3 className="text-3xl mb-2 font-bold text-white">
+														{eventInfo.Event}
+													</h3>
+													<p className="text-lg font-semibold text-white mb-4">
+														{eventInfo.Description}
+													</p>
+													<Image
+														className="scale-90 hover:scale-100"
+														src={registerButton}
+													></Image>
+												</div>
 											</div>
 										</a>
 									</>
 								))}
-							</div>
-						</section>
-						<section id="EEE">
-							<h2 className="text-4xl font-bold text-white tracking-wider">
-								EEE
-							</h2>
-							<div className="flex flex-wrap -m-4 mt-[0.25rem] mb-[3rem]">
 								{eeeData.map((eventInfo, index) => (
 									<>
 										<a
-											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-5"
+											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className={style.eventContainer}>
-												<h3 className="text-xl font-semibold text-black">
-													{eventInfo.Event}
-												</h3>
-												<p className="description text-black">
-													{eventInfo.Description}
-												</p>
+											<div className="py-2 px-2 cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+												<div className={style.eventContainer}>
+													<h3 className="text-3xl mb-2 font-bold text-white">
+														{eventInfo.Event}
+													</h3>
+													<p className="text-lg font-semibold text-white mb-4">
+														{eventInfo.Description}
+													</p>
+													<Image
+														className="scale-90 hover:scale-100"
+														src={registerButton}
+													></Image>
+												</div>
 											</div>
 										</a>
 									</>
 								))}
-							</div>
-						</section>
-						<section id="MECH">
-							<h2 className="text-4xl font-bold text-white tracking-wider">
-								MECH
-							</h2>
-							<div className="flex flex-wrap -m-4 mt-[0.25rem] mb-[3rem]">
 								{mechData.map((eventInfo, index) => (
 									<>
 										<a
-											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-5"
+											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className={style.eventContainer}>
-												<h3 className="text-xl font-semibold text-black">
-													{eventInfo.Event}
-												</h3>
-												<p className="description text-black">
-													{eventInfo.Description}
-												</p>
+											<div className="py-2 px-2 cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+												<div className={style.eventContainer}>
+													<h3 className="text-3xl mb-2 font-bold text-white">
+														{eventInfo.Event}
+													</h3>
+													<p className="text-lg font-semibold text-white mb-4">
+														{eventInfo.Description}
+													</p>
+													<Image
+														className="scale-90 hover:scale-100"
+														src={registerButton}
+													></Image>
+												</div>
 											</div>
 										</a>
 									</>
 								))}
-							</div>
-						</section>
-						<section id="CIVIL">
-							<h2 className="text-4xl font-bold text-white tracking-wider">
-								CIVL
-							</h2>
-							<div className="flex flex-wrap -m-4 mt-[0.25rem] mb-[3rem]">
 								{civilData.map((eventInfo, index) => (
 									<>
 										<a
-											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-5"
+											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className={style.eventContainer}>
-												<h3 className="text-xl font-semibold text-black">
-													{eventInfo.Event}
-												</h3>
-												<p className="description text-black">
-													{eventInfo.Description}
-												</p>
+											<div className="py-2 px-2 cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+												<div className={style.eventContainer}>
+													<h3 className="text-3xl mb-2 font-bold text-white">
+														{eventInfo.Event}
+													</h3>
+													<p className="text-lg font-semibold text-white mb-4">
+														{eventInfo.Description}
+													</p>
+													<Image
+														className="scale-90 hover:scale-100"
+														src={registerButton}
+													></Image>
+												</div>
 											</div>
 										</a>
 									</>
 								))}
-							</div>
-						</section>
-						<section id="MBA">
-							<h2 className="text-4xl font-bold text-white tracking-wider">
-								MBA
-							</h2>
-							<div className="flex flex-wrap -m-4 mt-[0.25rem] mb-[3rem]">
 								{mbaData.map((eventInfo, index) => (
 									<>
 										<a
-											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-5"
+											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className={style.eventContainer}>
-												<h3 className="text-xl font-semibold text-black">
-													{eventInfo.Event}
-												</h3>
-												<p className="description text-black">
-													{eventInfo.Description}
-												</p>
+											<div className="py-2 px-2 cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+												<div className={style.eventContainer}>
+													<h3 className="text-3xl mb-2 font-bold text-white">
+														{eventInfo.Event}
+													</h3>
+													<p className="text-lg font-semibold text-white mb-4">
+														{eventInfo.Description}
+													</p>
+													<Image
+														className="scale-90 hover:scale-100"
+														src={registerButton}
+													></Image>
+												</div>
 											</div>
 										</a>
 									</>
 								))}
-							</div>
-						</section>
-						<section id="MCA">
-							<h2 className="text-4xl font-bold text-white tracking-wider">
-								MCA
-							</h2>
-							<div className="flex flex-wrap -m-4 mt-[0.25rem] mb-[3rem]">
 								{mcaData.map((eventInfo, index) => (
 									<>
 										<a
-											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-5"
+											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className={style.eventContainer}>
-												<h3 className="text-xl font-semibold text-black">
-													{eventInfo.Event}
-												</h3>
-												<p className="description text-black">
-													{eventInfo.Description}
-												</p>
+											<div className="py-2 px-2 cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+												<div className={style.eventContainer}>
+													<h3 className="text-3xl mb-2 font-bold text-white">
+														{eventInfo.Event}
+													</h3>
+													<p className="text-lg font-semibold text-white mb-4">
+														{eventInfo.Description}
+													</p>
+													<Image
+														className="scale-90 hover:scale-100"
+														src={registerButton}
+													></Image>
+												</div>
 											</div>
 										</a>
 									</>
