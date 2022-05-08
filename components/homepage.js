@@ -4,6 +4,7 @@ import styles from "../styles/HeroSection.module.css";
 
 import NavBar from "../components/navbar";
 import { useCountdown } from "../hooks/useCountdown";
+
 export default function HeroSection() {
 	const [days, hours, minutes, seconds] = useCountdown(
 		new Date(2022, 5, 17, 0, 0, 0, 0)
@@ -84,6 +85,7 @@ export default function HeroSection() {
 							<video
 								className="border-8 border-white rounded-2xl shadow-xl"
 								autoPlay
+								controls
 								loop
 								src="./reveal.mp4"
 							></video>
