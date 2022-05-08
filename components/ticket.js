@@ -58,28 +58,42 @@ export default function Ticket() {
 								{Description}
 							</p>
 							<a href={Payment}>
-								<button className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-bold rounded-lg text-md px-4 py-2.5 text-center inline-flex items-center mt-4 shadow-lg hover:shadow-2xl">
+								<button className="bg-amber-700 text-white hover:bg-amber-600 focus:ring-4 focus:ring-orange-300 font-bold rounded-lg text-md px-4 py-2.5 text-center inline-flex mt-4 shadow-lg hover:shadow-2xl ">
 									Get your Ticket!
 								</button>
 							</a>
-							<div className="mt-8">
-								<p className="uppercase tracking-wider font-bold mb-1">
-									Rules and Regulations
-								</p>
-								<p className="mb-4 text-lg">{Rule}</p>
-								<p className="uppercase tracking-wider font-bold mb-1">
-									Date & Time
-									<br />
-								</p>
-								<p className="mb-4 text-lg">
-									{Day} {Time}
-								</p>
-								<p className="uppercase tracking-wider font-bold mb-1">Venue</p>
-								<p className="mb-4 text-lg">{Venue}</p>
-								<p className="uppercase tracking-wider font-bold mb-1">
-									Ticket Price
-								</p>
-								<p className="mb-4 text-lg">₹{Registration}</p>
+							<div className="text-black py-2 px-2 mt-8 cursor-pointer bg-white/25 rounded-2xl">
+								<div className="bg-white p-4 rounded-2xl">
+									<div className="border-b-2 mb-4">
+										<p className="tracking-wider font-bold text-lg sm:text-xl">
+											Rules and Regulations
+										</p>
+										<p className="mb-4 text-base">{Rule}</p>
+									</div>
+									<div className="grid grid-cols-3 divide-x">
+										<div>
+											<p className="text-lg sm:text-xl tracking-wider font-bold mb-1">
+												Date & Time
+												<br />
+											</p>
+											<p className="mb-2 text-base">
+												{Day} & {Time}
+											</p>
+										</div>
+										<div className="px-2">
+											<p className="text-lg sm:text-xl tracking-wider font-bold mb-1">
+												Venue
+											</p>
+											<p className="mb-4 text-base">{Venue}</p>
+										</div>
+										<div className="px-2">
+											<p className="text-lg sm:text-xl tracking-wider font-bold mb-1">
+												Ticket Price
+											</p>
+											<p className="mb-4 text-base">₹{Registration}</p>
+										</div>
+									</div>
+								</div>
 							</div>
 						</div>
 					</div>

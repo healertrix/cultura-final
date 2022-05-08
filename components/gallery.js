@@ -1,7 +1,7 @@
 export default function Gallery() {
 	return (
 		<>
-			<div className="py-[4rem] text-white">
+			<div id="Gallery" className="py-[4rem] text-white">
 				<div className="container py-[6rem] mx-[1rem]">
 					<>
 						<p className="text-2xl font-medium uppercase mb-[1rem]">Gallery</p>
