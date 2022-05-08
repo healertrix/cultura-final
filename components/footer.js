@@ -38,6 +38,7 @@ export default function Footer() {
 								className="mx-2"
 								href="https://www.google.com/maps?ll=12.967483,77.713987&z=15&t=m&hl=en&gl=IN&mapclient=embed&cid=8408994954485607565"
 								target="_blank"
+								rel="noopener noreferrer"
 							>
 								<Image width={36} height={36} src={maps}></Image>
 							</a>
@@ -45,6 +46,7 @@ export default function Footer() {
 								className="mx-2"
 								href="https://www.facebook.com/culturacmrit"
 								target="_blank"
+								rel="noopener noreferrer"
 							>
 								<Image width={36} height={36} src={facebook}></Image>
 							</a>
@@ -52,6 +54,7 @@ export default function Footer() {
 								className="mx-2"
 								href="https://www.instagram.com/culturacmrit"
 								target="_blank"
+								rel="noopener noreferrer"
 							>
 								<Image width={36} height={36} src={instagram}></Image>
 							</a>
@@ -59,6 +62,7 @@ export default function Footer() {
 								className="mx-2"
 								href="https://www.twitter.com/culturacmrit"
 								target="_blank"
+								rel="noopener noreferrer"
 							>
 								<Image width={36} height={36} src={twitter}></Image>
 							</a>
