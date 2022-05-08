@@ -113,13 +113,8 @@ export default function EventDetails() {
 									<br />
 									<span className="text-8xl tracking-wider">CATEGORIES</span>
 								</p>
-								<p className="text-xl font-medium text-white">
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-									Quisque integer purus eu nisi, ut arcu.
-								</p>
 							</div>
 						</div>
-						<p className="mt-[2.5rem] font-semibold text-md">Categories</p>
 						<div className="flex flex-row flex-wrap">
 							<Link href="#Photography">
 								<button

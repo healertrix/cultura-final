@@ -1,10 +1,11 @@
 import Head from "next/head";
 import Image from "next/image";
 import { useRouter } from "next/router";
+import Link from "next/link";
 
 import styles from "../styles/HeroSection.module.css";
 import style from "../styles/Ticket.module.css";
-import eventPoster from "../public/posters/art-bc.png";
+import eventPoster from "../public/posters/iris-dslr.png";
 
 import NavBar from "./navbar";
 
@@ -44,46 +45,41 @@ export default function Ticket() {
 				<div className="max-w-[1440px] m-auto">
 					<NavBar />
 				</div>
-				<div className="flex flex-row justify-center content-center h-[90vh] w-full">
-					<div className="container">
-						<div className={styles.wrapper}>
-							<div className={styles.one}>
-								<div className="flex flex-row max-w-xl h-auto justify-center content-center border-solid border-4 border-white rounded-[2rem] overflow-hidden ">
-									<Image src={eventPoster}></Image>
-								</div>
-							</div>
-							<div className={styles.two}>
-								<p className="highlight tracking-wider uppercase text-7xl">
-									{Event}
+				<div className="min-h-screen flex items-center justify-center container">
+					<div className="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-8">
+						<div className="flex flex-row max-w-xl h-auto justify-center content-center border-solid border-4 border-white rounded-[2rem] overflow-hidden ">
+							<Image width={720} height={720} src={eventPoster}></Image>
+						</div>
+						<div>
+							<p className="highlight tracking-wider uppercase text-4xl md:text-7xl sm:text-4xl">
+								{Event}
+							</p>
+							<p className="text-xl md:text-2xl lg:text-2xl font-semibold tracking-wide capitalize text-white mt-2">
+								{Description}
+							</p>
+							<a href={Payment}>
+								<button className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-bold rounded-lg text-md px-4 py-2.5 text-center inline-flex items-center mt-4 shadow-lg hover:shadow-2xl">
+									Get your Ticket!
+								</button>
+							</a>
+							<div className="mt-8">
+								<p className="uppercase tracking-wider font-bold mb-1">
+									Rules and Regulations
 								</p>
-								<p className="text-2xl font-semibold tracking-wide capitalize text-white mt-2">
-									{Description}
+								<p className="mb-4 text-lg">{Rule}</p>
+								<p className="uppercase tracking-wider font-bold mb-1">
+									Date & Time
+									<br />
 								</p>
-								<a href={Payment}>
-									<button className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-bold rounded-lg text-md px-4 py-2.5 text-center inline-flex items-center mt-4 shadow-lg hover:shadow-2xl">
-										Get your Ticket!
-									</button>
-								</a>
-								<div className="mt-8">
-									<p className="uppercase tracking-wider font-bold mb-1">
-										Rules and Regulations
-									</p>
-									<p className="mb-4 text-lg">{Rule}</p>
-									<p className="uppercase tracking-wider font-bold mb-1">
-										Date & Time
-									</p>
-									<p className="mb-4 text-lg">
-										{Day} {Time}
-									</p>
-									<p className="uppercase tracking-wider font-bold mb-1">
-										Venue
-									</p>
-									<p className="mb-4 text-lg">{Venue}</p>
-									<p className="uppercase tracking-wider font-bold mb-1">
-										Ticket Price
-									</p>
-									<p className="mb-4 text-lg">₹{Registration}</p>
-								</div>
+								<p className="mb-4 text-lg">
+									{Day} {Time}
+								</p>
+								<p className="uppercase tracking-wider font-bold mb-1">Venue</p>
+								<p className="mb-4 text-lg">{Venue}</p>
+								<p className="uppercase tracking-wider font-bold mb-1">
+									Ticket Price
+								</p>
+								<p className="mb-4 text-lg">₹{Registration}</p>
 							</div>
 						</div>
 					</div>

@@ -30,8 +30,8 @@
 	background-image: url("/woodenBoard.svg");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 33rem;
-	height: 11rem;
+	width: 100%;
+	height: 100%;
 	padding: 0rem 2rem;
 	display: flex;
 	flex-direction: row;
@@ -42,6 +42,4 @@
 .video {
 	width: 100%;
 	height: 100%;
-	background-color: rgba(255, 255, 255, 0.25);
-	border-radius: 2rem;
 }

@@ -24,14 +24,17 @@ export default function Event() {
 					<p className="text-2xl font-medium uppercase text-white mb-[1.1rem]">
 						Events
 					</p>
-					<p className="highlight text-6xl mb-[1.5rem]">
+					<p className="highlight text-5xl md:text-6xl mb-[1.5rem]">
 						HUNT FOR THE <br />
-						<span className="text-7xl">LOST TREASURE</span>
+						<span className="text-6xl md:text-7xl">LOST TREASURE</span>
 					</p>
 				</>
-				<div className="grid sm:grid-2 lg:grid-cols-4 gap-3 md:grid-cols-2">
-					<a href="./events#Photography">
+				<div className="grid grid-cols-2 sm:grid-2 lg:grid-cols-4 gap-3 md:grid-cols-2">
+					<a className="col-span-2" href="./events#Photography">
 						<img id="category" src="./category/Photography.png" />
+					</a>
+					<a className="col-span-2" href="./events#CSE">
+						<img id="category" src="./category/Departments.png" />
 					</a>
 					<a href="./events#Music">
 						<img id="category" src="./category/Music.png" />
@@ -59,9 +62,6 @@ export default function Event() {
 					</a>
 					<a href="./events#Informal">
 						<img id="category" src="./category/Informal.png" />
-					</a>
-					<a href="./events#CSE">
-						<img id="category" src="./category/Departments.png" />
 					</a>
 				</div>
 			</div>
