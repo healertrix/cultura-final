@@ -30,10 +30,10 @@ export default function Event() {
 					</p>
 				</>
 				<div className="grid grid-cols-2 sm:grid-2 lg:grid-cols-4 gap-3 md:grid-cols-2">
-					<a className="col-span-2" href="./events#Photography">
+					<a className="col-span-2 sm:col-span-1" href="./events#Photography">
 						<img id="category" src="./category/Photography.png" />
 					</a>
-					<a className="col-span-2" href="./events#CSE">
+					<a className="col-span-2 sm:col-span-1" href="./events#CSE">
 						<img id="category" src="./category/Departments.png" />
 					</a>
 					<a href="./events#Music">

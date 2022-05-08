@@ -88,18 +88,6 @@
 		},
 		{
 			"Category": "Music",
-			"Event": "Duet Singing",
-			"Registration": 300,
-			"Payment": "https://imjo.in/VdNBna",
-			"Description": "The man that hath no music in himself, nor is not moved with concord of sweet sounds, is fit for treasons, stratagems and spoils",
-			"Venue": "AV Hall (3rd Floor)",
-			"Time": "10am-11:30am",
-			"Day": "Day 1",
-			"Rule": "No of participants: 2\nThis is a duo event and participants must be from the same college. \nKaraoke is not allowed, however, a shruti box is acceptable. \nAny one instrument is compulsory. \nParticipants can sing in any language (Regional/English) and the set can be of any genre. \nJudging criteria: Tonal quality, Rhythm,Tempo, Pitch, Choice of song, Overall performance.\nTime limit 3+2 including stage setup. Exceeding the time limit will lead to reduction in points. \nVulgarity, Abusive language and personal attacks will lead to immediate disqualification.",
-			"Poster": "https://drive.google.com/file/d/1RSDuYeWmMWnMqAsLvBiUjPBekVNIuQ8X/view?usp=sharing"
-		},
-		{
-			"Category": "Music",
 			"Event": "Group singing",
 			"Registration": 500,
 			"Payment": "https://imjo.in/hVXUWM",
@@ -109,6 +97,18 @@
 			"Day": "Day 2",
 			"Rule": "No of participants:4-10\nThis is a group event and all participants must be from the same college.\nKaraoke is not allowed, however, a shruti box is acceptable. \nA minimum of 4 and a maximum of 10 participants are allowed including minimum 2 accompanists. \nParticipants can sing in any language (Regional/English) and the set can be of any genre.\nJudging criteria: Tonal quality, Rhythm,Tempo, Pitch, Choice of song, Overall performance.\nTime limit 7+2 including stage setup. Exceeding the time limit will lead to reduction in points.\nVulgarity, Abusive language and personal attacks will lead to immediate disqualification.",
 			"Poster": "https://drive.google.com/file/d/1Z82BRTBgEDNhH22Kx3TuJ4YXynRewrca/view?usp=sharing"
+		},
+		{
+			"Category": "Music",
+			"Event": "Duet Singing",
+			"Registration": 300,
+			"Payment": "https://imjo.in/VdNBna",
+			"Description": "The man that hath no music in himself, nor is not moved with concord of sweet sounds, is fit for treasons, stratagems and spoils",
+			"Venue": "AV Hall (3rd Floor)",
+			"Time": "10am-11:30am",
+			"Day": "Day 1",
+			"Rule": "No of participants: 2\nThis is a duo event and participants must be from the same college. \nKaraoke is not allowed, however, a shruti box is acceptable. \nAny one instrument is compulsory. \nParticipants can sing in any language (Regional/English) and the set can be of any genre. \nJudging criteria: Tonal quality, Rhythm,Tempo, Pitch, Choice of song, Overall performance.\nTime limit 3+2 including stage setup. Exceeding the time limit will lead to reduction in points. \nVulgarity, Abusive language and personal attacks will lead to immediate disqualification.",
+			"Poster": "https://drive.google.com/file/d/1RSDuYeWmMWnMqAsLvBiUjPBekVNIuQ8X/view?usp=sharing"
 		}
 	],
 	"Muses": [
@@ -226,15 +226,15 @@
 		},
 		{
 			"Category": "Dance",
-			"Event": "Two for Tango",
-			"Registration": 300,
-			"Payment": "https://imjo.in/GZMrKq",
-			"Description": "Two souls, one performance. Put on your duet shoes and set the stage on fire.",
+			"Event": "Kinkini(classical solo)",
+			"Registration": 150,
+			"Payment": "https://imjo.in/UzzWYV",
+			"Description": "India is a land of amazing classical art forms. Carry on the legacy by putting on a classical performance leaving everyone in awe.",
 			"Venue": "Main Stage",
-			"Time": "11am-12pm",
+			"Time": "10am-11am",
 			"Day": "Day 1",
-			"Rule": "No. of participants : 02 \n• The length of the performance should not exceed 3+2 min including stage set up. \n• Participants can perform any form of dance. \n• Both members must belong to the same institution. \n• The teams are expected to be in the college premises around 2 hours before the start of the event.  • A green room will be provided if necessary. \n• Participants must bring their music in a pen drive and  \nhand it over to the corresponding EC at least an hour prior to the start of the event. \n• Any form of  vulgarity in movements or costume will lead to disqualification. \n• The decision of the judges will be  final and binding.",
-			"Poster": ""
+			"Rule": "No of participants: 1\n• The length of the performance should not exceed 3+1 min including stage set up. \n• Number  of rounds: 1 \n• Participants may perform any type of classical dance form. \n• The teams are expected to be in the  college premises around 2 hours before the start of the event. • A green room will be provided if  necessary. \n• Participants must bring their music in a pen drive and hand it over to the corresponding  EC at least an hour prior to the start of the event. \n• Any form of vulgarity in movements or costume will lead to disqualification.\n• The  decision of the judges will be final and binding",
+			"Poster": "https://drive.google.com/file/d/1YYMSiTEmOJ7yepFfnbacUsK2SGcwOCtH/view?usp=sharing"
 		},
 		{
 			"Category": "Dance",
@@ -262,15 +262,15 @@
 		},
 		{
 			"Category": "Dance",
-			"Event": "Kinkini(classical solo)",
-			"Registration": 150,
-			"Payment": "https://imjo.in/UzzWYV",
-			"Description": "India is a land of amazing classical art forms. Carry on the legacy by putting on a classical performance leaving everyone in awe.",
+			"Event": "Two for Tango",
+			"Registration": 300,
+			"Payment": "https://imjo.in/GZMrKq",
+			"Description": "Two souls, one performance. Put on your duet shoes and set the stage on fire.",
 			"Venue": "Main Stage",
-			"Time": "10am-11am",
+			"Time": "11am-12pm",
 			"Day": "Day 1",
-			"Rule": "No of participants: 1\n• The length of the performance should not exceed 3+1 min including stage set up. \n• Number  of rounds: 1 \n• Participants may perform any type of classical dance form. \n• The teams are expected to be in the  college premises around 2 hours before the start of the event. • A green room will be provided if  necessary. \n• Participants must bring their music in a pen drive and hand it over to the corresponding  EC at least an hour prior to the start of the event. \n• Any form of vulgarity in movements or costume will lead to disqualification.\n• The  decision of the judges will be final and binding",
-			"Poster": "https://drive.google.com/file/d/1YYMSiTEmOJ7yepFfnbacUsK2SGcwOCtH/view?usp=sharing"
+			"Rule": "No. of participants : 02 \n• The length of the performance should not exceed 3+2 min including stage set up. \n• Participants can perform any form of dance. \n• Both members must belong to the same institution. \n• The teams are expected to be in the college premises around 2 hours before the start of the event.  • A green room will be provided if necessary. \n• Participants must bring their music in a pen drive and  \nhand it over to the corresponding EC at least an hour prior to the start of the event. \n• Any form of  vulgarity in movements or costume will lead to disqualification. \n• The decision of the judges will be  final and binding.",
+			"Poster": ""
 		}
 	],
 	"Literary": [
@@ -286,18 +286,7 @@
 			"Rule": "No of participants: 02\nRound 1- All participants will get general trivia questions. Qualified participants will be promoted to round 2\nRound 2- This round will be an audio/video round and consisting of movie/music clips.\nRound 3- A rapid fire round. Participants will have 5 seconds to answer the questions.\nMobile Phones are not allowed.\nDecision of the judge will be final.\nNo vulgar language.\nNo discussion with other participants.\nNo cheating, if found then will be disqualified.",
 			"Poster": "https://drive.google.com/file/d/1_TECzONmTtJrAOuCwPTpHqQUOY79-RLf/view?usp=sharing"
 		},
-		{
-			"Category": "Literary",
-			"Event": "Battle of 30 seconds",
-			"Registration": 150,
-			"Payment": "https://imjo.in/dtHq5q",
-			"Description": "Can you make it through thirty seconds of non-stop talking without repetition, stopping or stumbling?",
-			"Venue": "LH 501 (CSE) (Classroom)",
-			"Time": "10:30am-11:30pm",
-			"Day": "Day 1",
-			"Rule": "No. of participants: 01\n1. Individual event, multiple rounds.\n2. You have to speak for 30 seconds straight on a given topic.\n3. Topics will be randomly provided then and there.\n4. Repeating sentences is not allowed.\n5. Stopping or Stumbling even for once is not accepted.\n6. No usage of mobile or other technologies to collect information on the topic\n7. Foul language/insensitive material will lead to immediate disqualification.\n8. No questions or arguments once the final decision is made by the judge.",
-			"Poster": "https://drive.google.com/file/d/1qQCGZZ7StGZ79JhppCX61KAPUpl5eYAa/view?usp=sharing"
-		},
+
 		{
 			"Category": "Literary",
 			"Event": "El Tale Mocktail",
@@ -321,6 +310,18 @@
 			"Day": "Day 2",
 			"Rule": "Rules:\n• The topic will be disclosed 5 hours prior to the event via registered email.\n• The individual topic, for or against the motion will be decided at the time of the event through a\nlucky draw.\n• Time allotted for initial statement and affirmative or negative constructive per individual: 3 + 2\nminutes.\n• A speaker in favour of the motion will be the first one to speak followed by a speaker against\nthe motion, and so on.\n• The speaker after completing their statement will be answerable to the opponent if they wish to\ncross examine or\nquestion the speaker only based on their statements.\n• There will be a final rebuttal round of 20 minutes, after the constructive round, wherein the\nteammates will be allowed to open debate, discuss, question, cross and attack on the\nconstructive and rebuttal statements of the opponent.\n• No unparliamentary language to be used. Usage of phones to collect information/content is not\nallowed during the\nrounds.\n• The decision of the judges will be final and irrevocable.",
 			"Poster": "https://drive.google.com/file/d/1T5_krdTS5fUen6Q_XDzZVtJ0CUtAWTmW/view?usp=sharing"
+		},
+		{
+			"Category": "Literary",
+			"Event": "Battle of 30 seconds",
+			"Registration": 150,
+			"Payment": "https://imjo.in/dtHq5q",
+			"Description": "Can you make it through thirty seconds of non-stop talking without repetition, stopping or stumbling?",
+			"Venue": "LH 501 (CSE) (Classroom)",
+			"Time": "10:30am-11:30pm",
+			"Day": "Day 1",
+			"Rule": "No. of participants: 01\n1. Individual event, multiple rounds.\n2. You have to speak for 30 seconds straight on a given topic.\n3. Topics will be randomly provided then and there.\n4. Repeating sentences is not allowed.\n5. Stopping or Stumbling even for once is not accepted.\n6. No usage of mobile or other technologies to collect information on the topic\n7. Foul language/insensitive material will lead to immediate disqualification.\n8. No questions or arguments once the final decision is made by the judge.",
+			"Poster": "https://drive.google.com/file/d/1qQCGZZ7StGZ79JhppCX61KAPUpl5eYAa/view?usp=sharing"
 		}
 	],
 	"Gaming": [
@@ -350,18 +351,6 @@
 		},
 		{
 			"Category": "Gaming",
-			"Event": "NFS",
-			"Registration": 150,
-			"Payment": "https://imjo.in/GpPmb4",
-			"Description": "Do you think you have the Need For Speed to be the Most Wanted racer?",
-			"Venue": "Lab 506",
-			"Time": "11am-4pm",
-			"Day": "Day 1",
-			"Rule": "Rules:\n• The game can be played on Keyboard as well as controllers.(Controllers are allowed. The default\nsettings for the keyboard controls will be applied, but it can be changed before the start of the\ncompetition, after intimating the volunteers about the same.)\n• Tournament Rules: A particular number of players will form a set.\nThese players will compete with the members of each set. The emerging winner of each set, will\nthen move to the next round. The race type will be disclosed to you on spot. (Circuit/Sprint/Speed\nRun). At the end of each match, the players must retain the confirmation screen, and show it to the\nreferee.\n• Car settings: All cars will be unlocked.\nA specified time (to be disclosed on spot) will be given for the participants to free roam and select\nthe car of their choice. Only the DEFAULT settings of the car will be applicable. Any modifications\nwhatsoever, will lead to disqualification.Junkman is NOT allowed. Personal save profile is strictly\nprohibited.\n• The race mode will be intimated on the spot. • All other settings related to the UI is left to the\nparticipants discretion, and can be changed for simulating personal experiences.",
-			"Poster": "https://drive.google.com/file/d/1Sy9YxpNKgxw44eIRcXzwKALYpbjpGFaU/view?usp=sharing"
-		},
-		{
-			"Category": "Gaming",
 			"Event": "FIFA",
 			"Registration": 150,
 			"Payment": "https://imjo.in/wbt8Kn",
@@ -383,6 +372,18 @@
 			"Day": "Day 1",
 			"Rule": "No of participants: 1-4\nRules:\n● You are free to play with squads, duo or solo.\n● No cheating (Use of aim bots, wall hacks, speed hacks, etc.) All players will be\nclosely monitored and if anyone is caught cheating, that team will be disqualified and\nbanned from the tournament.\n● Team killing is strictly prohibited and if anyone is seen fooling around with teammates\nusing grenades, that team will be disqualified.\n● Each team will be given 2 matches according to which points table will be prepared\nand top 16 teams will play the final match.( Number of matches will depend upon the\nnumber of teams registered*)\n● Mobile data required.\n● Map: ERANGEL &amp; MIRAMAR\n● Points distribution: 1 Point for each kill.",
 			"Poster": "https://drive.google.com/file/d/1AZUcBXE1RGh3xeirW1Ldb-4q92iny6f2/view?usp=sharing"
+		},
+		{
+			"Category": "Gaming",
+			"Event": "NFS",
+			"Registration": 150,
+			"Payment": "https://imjo.in/GpPmb4",
+			"Description": "Do you think you have the Need For Speed to be the Most Wanted racer?",
+			"Venue": "Lab 506",
+			"Time": "11am-4pm",
+			"Day": "Day 1",
+			"Rule": "Rules:\n• The game can be played on Keyboard as well as controllers.(Controllers are allowed. The default\nsettings for the keyboard controls will be applied, but it can be changed before the start of the\ncompetition, after intimating the volunteers about the same.)\n• Tournament Rules: A particular number of players will form a set.\nThese players will compete with the members of each set. The emerging winner of each set, will\nthen move to the next round. The race type will be disclosed to you on spot. (Circuit/Sprint/Speed\nRun). At the end of each match, the players must retain the confirmation screen, and show it to the\nreferee.\n• Car settings: All cars will be unlocked.\nA specified time (to be disclosed on spot) will be given for the participants to free roam and select\nthe car of their choice. Only the DEFAULT settings of the car will be applicable. Any modifications\nwhatsoever, will lead to disqualification.Junkman is NOT allowed. Personal save profile is strictly\nprohibited.\n• The race mode will be intimated on the spot. • All other settings related to the UI is left to the\nparticipants discretion, and can be changed for simulating personal experiences.",
+			"Poster": "https://drive.google.com/file/d/1Sy9YxpNKgxw44eIRcXzwKALYpbjpGFaU/view?usp=sharing"
 		}
 	],
 	"Fashion": [
@@ -414,18 +415,6 @@
 		},
 		{
 			"Category": "Informal",
-			"Event": "Food Hunt",
-			"Registration": 300,
-			"Payment": "https://imjo.in/TeYMTT",
-			"Description": "",
-			"Venue": "",
-			"Time": "",
-			"Day": "",
-			"Rule": "",
-			"Poster": ""
-		},
-		{
-			"Category": "Informal",
 			"Event": "Hogathon",
 			"Registration": 150,
 			"Payment": "https://imjo.in/JWfMua",
@@ -435,6 +424,18 @@
 			"Day": "Day 1",
 			"Rule": "Rules:\n➢ 2 rounds will be held\n➢ In the 1st round, a team of 5 participants is made\n➢ 1 participant will qualify for next round\n➢ In last round whoever finishes early he will be the\nwinner\n➢ The final call regarding competition lies with organizers",
 			"Poster": "https://drive.google.com/file/d/1BiY2DTBhrVkoTBMn7BPIvD2KvZoByNAM/view?usp=sharing"
+		},
+		{
+			"Category": "Informal",
+			"Event": "Food Hunt",
+			"Registration": 300,
+			"Payment": "https://imjo.in/TeYMTT",
+			"Description": "",
+			"Venue": "",
+			"Time": "",
+			"Day": "",
+			"Rule": "",
+			"Poster": ""
 		},
 		{
 			"Category": "Informal",
