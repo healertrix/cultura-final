@@ -28,10 +28,11 @@ export default function NavBar() {
 												About Us
 											</div>
 										</Link>
-
-										<div className="cursor-pointer hover:bg-amber-700  text-whitehover:text-white px-3 py-2 rounded-md text-lg font-semibold">
-											Gallery
-										</div>
+										<Link href={"./#Gallery"}>
+											<div className="cursor-pointer hover:bg-amber-700  text-whitehover:text-white px-3 py-2 rounded-md text-lg font-semibold">
+												Gallery
+											</div>
+										</Link>
 									</div>
 								</div>
 							</div>
