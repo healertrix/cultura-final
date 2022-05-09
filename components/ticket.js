@@ -1,11 +1,7 @@
 import Head from "next/head";
 import Image from "next/image";
 import { useRouter } from "next/router";
-import Link from "next/link";
-
-import styles from "../styles/HeroSection.module.css";
 import style from "../styles/Ticket.module.css";
-import eventPoster from "../public/post/iris-dslr.png";
 
 import NavBar from "./navbar";
 
