@@ -84,9 +84,7 @@ export default function HeroSection() {
 						<div className={styles.video}>
 							<video
 								className="border-8 border-white rounded-2xl shadow-xl"
-								autoPlay
 								controls
-								loop
 								src="./reveal.mp4"
 							></video>
 						</div>
