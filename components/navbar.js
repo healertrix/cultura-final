@@ -98,40 +98,45 @@ export default function NavBar() {
 									ref={ref}
 									className="bg-white px-2 pt-2 pb-3 space-y-1 sm:px-3"
 								>
-									<div
-										href="/about"
-										activeclass="about"
-										to="about"
-										smooth={true}
-										offset={50}
-										duration={500}
-										className="cursor-pointer hover:bg-amber-700  text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
-									>
-										Events
-									</div>
-
-									<div
-										href="/work"
-										activeclass="work"
-										to="work"
-										smooth={true}
-										offset={50}
-										duration={500}
-										className="cursor-pointer hover:bg-amber-700  text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
-									>
-										About Us
-									</div>
-									<div
-										href="/home"
-										activeclass="home"
-										to="home"
-										smooth={true}
-										offset={50}
-										duration={500}
-										className="cursor-pointer hover:bg-amber-700 text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
-									>
-										Gallery
-									</div>
+									<Link href={"./events"}>
+										<div
+											href="/about"
+											activeclass="about"
+											to="about"
+											smooth={true}
+											offset={50}
+											duration={500}
+											className="cursor-pointer hover:bg-amber-700  text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+										>
+											Events
+										</div>
+									</Link>
+									<Link href={"./#AboutUs"}>
+										<div
+											href="/work"
+											activeclass="work"
+											to="work"
+											smooth={true}
+											offset={50}
+											duration={500}
+											className="cursor-pointer hover:bg-amber-700  text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+										>
+											About Us
+										</div>
+									</Link>
+									<Link href={"./#About"}>
+										<div
+											href="/home"
+											activeclass="home"
+											to="home"
+											smooth={true}
+											offset={50}
+											duration={500}
+											className="cursor-pointer hover:bg-amber-700 text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+										>
+											Gallery
+										</div>
+									</Link>
 								</div>
 							</div>
 						)}
