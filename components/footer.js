@@ -52,7 +52,7 @@ export default function Footer() {
 							</a>
 							<a
 								className="mx-2"
-								href="https://www.instagram.com/culturacmrit"
+								href="https://www.instagram.com/cmritcultura"
 								target="_blank"
 								rel="noopener noreferrer"
 							>
