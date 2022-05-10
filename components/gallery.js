@@ -9,7 +9,7 @@ export default function Gallery() {
               Essence of <br />
               <span className="text-7xl">Cultura</span>
             </p>
-            <p className=" text-black	py-2 px-2 mt-8 cursor-pointer bg-amber-100/50	 rounded-2xl text-xl font-medium  ">
+            <p className=" text-black	py-2 px-2 mt-8 cursor-pointer bg-amber-100/75	 rounded-2xl text-xl font-medium  ">
                CMR Institute of Technology&apos;s
               Inter Collegiate Festival, Cultura, is to be celebrated on the
               17th and 18th of June 2022 in its 14th year showcasing skill,
