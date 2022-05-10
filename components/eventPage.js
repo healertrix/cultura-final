@@ -554,7 +554,7 @@ export default function EventDetails() {
 						</section>
 						<section id="Department">
 							<h2 className="text-2xl sm:text-4xl highlight font-bold text-white tracking-wider">
-								DEPARTMENTS
+								TECHNICAL
 							</h2>
 							<div className="flex flex-wrap -m-4 mt-[0.25rem] mb-[3rem]">
 								{cseData.map((eventInfo, index) => (
