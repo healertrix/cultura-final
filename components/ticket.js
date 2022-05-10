@@ -43,7 +43,7 @@ export default function Ticket() {
         </div>
         <div className="min-h-screen flex items-center justify-center container">
           <div className="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-8">
-            <div className="flex flex-row max-w-xl h-auto justify-center content-center border-solid border-4 border-white/85 rounded-[2rem] overflow-hidden ">
+            <div className="flex flex-row max-w-xl h-auto justify-center content-center border-solid border-4 border-white/85 rounded-[2rem] overflow-hidden self-center ">
               <Image width={720} height={720} src={Poster} priority></Image>
             </div>
             <div>
