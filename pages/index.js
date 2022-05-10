@@ -13,9 +13,9 @@ export default function Main() {
 		<div className={style.repeatBackground}>
 			<div className={styles.container}>
 				<Head>
+					<link rel="shortcut icon" href="/favicon.ico" />
 					<title>Cultura 2022</title>
 					<meta name="description" content="CMRIT Cultura 2022" />
-					<link rel="icon" href="/favicon.ico" />
 					<link
 						href="https://fonts.googleapis.com/css2?family=Sancreek&display=swap"
 						rel="stylesheet"
