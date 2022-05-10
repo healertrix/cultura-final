@@ -44,3 +44,7 @@
 	height: 100%;
 	margin-bottom: 100px;
 }
+.stroke{
+	-webkit-text-stroke: 0.08px black;
+    -webkit-text-fill-color: white;
+}

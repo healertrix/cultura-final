@@ -223,8 +223,8 @@ export default function EventDetails() {
         <div className="flex flex-row w-full">
           <div className="container">
             <section id="Photography">
-              <h2 className="text-2xl sm:text-4xl highlight uppercase font-bold text-white tracking-wider">
-                Photography
+              <h2 className="text-2xl sm:text-4xl highlight uppercase font-bold text-white tracking-wider outline-1">
+                <div className={styles.stroke}>Photography</div>
               </h2>
               <div className="flex flex-wrap -m-4 mt-[0.25rem] mb-[3rem]">
                 {photographyData.map((eventInfo, index) => (
@@ -235,10 +235,10 @@ export default function EventDetails() {
                     >
                       <div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-xl drop-shadow-xl">
                         <div className={style.eventContainer}>
-                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
+                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-black">
                             {eventInfo.Event}
                           </h3>
-                          <p className="text-lg font-medium sm:font-semibold text-white mb-4">
+                          <p className="text-lg font-medium sm:font-semibold text-black mb-4">
                             {eventInfo.Description}
                           </p>
                           <Image
@@ -265,10 +265,10 @@ export default function EventDetails() {
                     >
                       <div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl  drop-shadow-2xl ">
                         <div className={style.eventContainer}>
-                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
+                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-black">
                             {eventInfo.Event}
                           </h3>
-                          <p className="text-lg font-medium sm:font-semibold text-white mb-4">
+                          <p className="text-lg font-medium sm:font-semibold text-black mb-4">
                             {eventInfo.Description}
                           </p>
                           <Image
@@ -295,10 +295,13 @@ export default function EventDetails() {
                     >
                       <div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl drop-shadow-2xl ">
                         <div className={style.eventContainer}>
-                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
+                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-black">
                             {eventInfo.Event}
                           </h3>
-                          <p className="text-lg font-medium sm:font-semibold text-white mb-4">
+                          <p
+                            className="text-lg font-medium sm:font-semibold text-black
+                           mb-4"
+                          >
                             {eventInfo.Description}
                           </p>
                           <Image
@@ -325,10 +328,10 @@ export default function EventDetails() {
                     >
                       <div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl  drop-shadow-2xl">
                         <div className={style.eventContainer}>
-                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
+                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-black">
                             {eventInfo.Event}
                           </h3>
-                          <p className="text-lg font-medium sm:font-semibold text-white mb-4">
+                          <p className="text-lg font-medium sm:font-semibold text-black mb-4">
                             {eventInfo.Description}
                           </p>
                           <Image
@@ -355,10 +358,10 @@ export default function EventDetails() {
                     >
                       <div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl drop-shadow-2xl">
                         <div className={style.eventContainer}>
-                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
+                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-black">
                             {eventInfo.Event}
                           </h3>
-                          <p className="text-lg font-medium sm:font-semibold text-white mb-4">
+                          <p className="text-lg font-medium sm:font-semibold text-black mb-4">
                             {eventInfo.Description}
                           </p>
                           <Image
@@ -385,10 +388,10 @@ export default function EventDetails() {
                     >
                       <div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl drop-shadow-2xl">
                         <div className={style.eventContainer}>
-                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
+                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-black">
                             {eventInfo.Event}
                           </h3>
-                          <p className="text-lg font-medium sm:font-semibold text-white mb-4">
+                          <p className="text-lg font-medium sm:font-semibold text-black mb-4">
                             {eventInfo.Description}
                           </p>
                           <Image
@@ -415,10 +418,10 @@ export default function EventDetails() {
                     >
                       <div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl drop-shadow-2xl">
                         <div className={style.eventContainer}>
-                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
+                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-black">
                             {eventInfo.Event}
                           </h3>
-                          <p className="text-lg font-medium sm:font-semibold text-white mb-4">
+                          <p className="text-lg font-medium sm:font-semibold text-black mb-4">
                             {eventInfo.Description}
                           </p>
                           <Image
@@ -445,10 +448,10 @@ export default function EventDetails() {
                     >
                       <div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl drop-shadow-2xl">
                         <div className={style.eventContainer}>
-                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
+                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-black">
                             {eventInfo.Event}
                           </h3>
-                          <p className="text-lg font-medium sm:font-semibold text-white mb-4">
+                          <p className="text-lg font-medium sm:font-semibold text-black mb-4">
                             {eventInfo.Description}
                           </p>
                           <Image
@@ -475,10 +478,10 @@ export default function EventDetails() {
                     >
                       <div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl drop-shadow-2xl">
                         <div className={style.eventContainer}>
-                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
+                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-black">
                             {eventInfo.Event}
                           </h3>
-                          <p className="text-lg font-medium sm:font-semibold text-white mb-4">
+                          <p className="text-lg font-medium sm:font-semibold text-black mb-4">
                             {eventInfo.Description}
                           </p>
                           <Image
@@ -505,10 +508,10 @@ export default function EventDetails() {
                     >
                       <div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl drop-shadow-2xl">
                         <div className={style.eventContainer}>
-                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
+                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-black">
                             {eventInfo.Event}
                           </h3>
-                          <p className="text-lg font-medium sm:font-semibold text-white mb-4">
+                          <p className="text-lg font-medium sm:font-semibold text-black mb-4">
                             {eventInfo.Description}
                           </p>
                           <Image
@@ -535,10 +538,10 @@ export default function EventDetails() {
                     >
                       <div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl drop-shadow-2xl">
                         <div className={style.eventContainer}>
-                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
+                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-black">
                             {eventInfo.Event}
                           </h3>
-                          <p className="text-lg font-medium sm:font-semibold text-white mb-4">
+                          <p className="text-lg font-medium sm:font-semibold text-black mb-4">
                             {eventInfo.Description}
                           </p>
                           <Image
@@ -565,10 +568,10 @@ export default function EventDetails() {
                     >
                       <div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl drop-shadow-2xl">
                         <div className={style.eventContainer}>
-                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
+                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-black">
                             {eventInfo.Event}
                           </h3>
-                          <p className="text-lg font-medium sm:font-semibold text-white mb-4">
+                          <p className="text-lg font-medium sm:font-semibold text-black mb-4">
                             {eventInfo.Description}
                           </p>
                           <Image
@@ -588,10 +591,10 @@ export default function EventDetails() {
                     >
                       <div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl drop-shadow-2xl">
                         <div className={style.eventContainer}>
-                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
+                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-black">
                             {eventInfo.Event}
                           </h3>
-                          <p className="text-lg font-medium sm:font-semibold text-white mb-4">
+                          <p className="text-lg font-medium sm:font-semibold text-black mb-4">
                             {eventInfo.Description}
                           </p>
                           <Image
@@ -611,10 +614,10 @@ export default function EventDetails() {
                     >
                       <div className="p-1 sm:p-2cursor-pointer hover:bg-white/75 rounded-2xl drop-shadow-2xl">
                         <div className={style.eventContainer}>
-                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
+                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-black">
                             {eventInfo.Event}
                           </h3>
-                          <p className="text-lg font-medium sm:font-semibold text-white mb-4">
+                          <p className="text-lg font-medium sm:font-semibold text-black mb-4">
                             {eventInfo.Description}
                           </p>
                           <Image
@@ -634,10 +637,10 @@ export default function EventDetails() {
                     >
                       <div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl drop-shadow-2xl">
                         <div className={style.eventContainer}>
-                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
+                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-black">
                             {eventInfo.Event}
                           </h3>
-                          <p className="text-lg font-medium sm:font-semibold text-white mb-4">
+                          <p className="text-lg font-medium sm:font-semibold text-black mb-4">
                             {eventInfo.Description}
                           </p>
                           <Image
@@ -657,10 +660,10 @@ export default function EventDetails() {
                     >
                       <div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl drop-shadow-2xl">
                         <div className={style.eventContainer}>
-                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
+                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-black">
                             {eventInfo.Event}
                           </h3>
-                          <p className="text-lg font-medium sm:font-semibold text-white mb-4">
+                          <p className="text-lg font-medium sm:font-semibold text-black mb-4">
                             {eventInfo.Description}
                           </p>
                           <Image
@@ -680,10 +683,10 @@ export default function EventDetails() {
                     >
                       <div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl drop-shadow-2xl">
                         <div className={style.eventContainer}>
-                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
+                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-black">
                             {eventInfo.Event}
                           </h3>
-                          <p className="text-lg font-medium sm:font-semibold text-white mb-4">
+                          <p className="text-lg font-medium sm:font-semibold text-black mb-4">
                             {eventInfo.Description}
                           </p>
                           <Image
@@ -703,10 +706,10 @@ export default function EventDetails() {
                     >
                       <div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl drop-shadow-2xl">
                         <div className={style.eventContainer}>
-                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
+                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-black">
                             {eventInfo.Event}
                           </h3>
-                          <p className="text-lg font-medium sm:font-semibold text-white mb-4">
+                          <p className="text-lg font-medium sm:font-semibold text-black mb-4">
                             {eventInfo.Description}
                           </p>
                           <Image
@@ -726,10 +729,10 @@ export default function EventDetails() {
                     >
                       <div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl drop-shadow-2xl">
                         <div className={style.eventContainer}>
-                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
+                          <h3 className="text-2xl sm:text-4xl mb-2 font-bold text-black">
                             {eventInfo.Event}
                           </h3>
-                          <p className="text-lg font-medium sm:font-semibold text-white mb-4">
+                          <p className="text-lg font-medium sm:font-semibold text-black mb-4">
                             {eventInfo.Description}
                           </p>
                           <Image
