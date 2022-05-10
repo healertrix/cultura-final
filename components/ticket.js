@@ -50,7 +50,7 @@ export default function Ticket() {
               <p className="highlight tracking-wider uppercase text-4xl md:text-7xl sm:text-4xl">
                 {Event}
               </p>
-              <p className="text-xl md:text-2xl lg:text-2xl font-semibold tracking-wide capitalize text-white mt-2">
+              <p className="md:text-2xl lg:text-2xl font-semibold tracking-wide   bg-amber-100/75	 rounded-2xl  text-black	py-2 px-2 mt-8 cursor-pointer   ">
                 {Description}
               </p>
               <a href={Payment}>
