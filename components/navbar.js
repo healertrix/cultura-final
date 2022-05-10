@@ -11,11 +11,11 @@ export default function NavBar() {
 					<div className="w-full">
 						<div className="flex items-center h-20 w-full">
 							<div className="flex items-center   justify-between w-full">
-								<Link href={"./"}>
+								<a href={"./"}>
 									<div className="flex justify-center items-center flex-shrink-0 ">
 										<img src="/Cultura22.svg" />
 									</div>
-								</Link>
+								</a>
 								<div className="hidden md:block">
 									<div className="ml-10 flex items-baseline space-x-4">
 										<Link href={"./events"}>
