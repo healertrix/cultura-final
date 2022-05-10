@@ -87,62 +87,11 @@ export default function HeroSection() {
                 className="border-8 border-white rounded-2xl shadow-xl"
                 controls
                 src="./reveal.mp4"
-                muted
               ></video>
             </div>
           </div>
         </div>
-        <div className="flex flex-row justify-center content-center h-full w-full">
-          <div className="container">
-            <div className={styles.wrapper}>
-              <div className={styles.one}>
-                <p className="highlight text-6xl mb-[1rem]">
-                  THE ISLE
-                  <br />
-                  <span className="text-8xl">
-                    OF LOST
-                    <br />
-                    TREASURE
-                  </span>
-                </p>
-                <p className="text-5xl font-bold text-white mb-[1rem]">
-                  17th - 18th June
-                </p>
-              </div>
-              <div className={styles.two}>
-                <div className={styles.video}>
-                  <video autoPlay loop src="./reveal.mp4"></video>
-                </div>
-              </div>
-            </div>
-            <div className={styles.timer}>
-              <div className="">
-                <p className="text-6xl font-semibold" id="days">
-                  {days}
-                </p>
-                <p className="text-2xl font-bold">DAYS</p>
-              </div>
-              <div>
-                <p className="text-6xl font-semibold" id="hours">
-                  {hours}
-                </p>
-                <p className="text-2xl font-bold">HOURS</p>
-              </div>
-              <div>
-                <p className="text-6xl font-semibold" id="minutes">
-                  {minutes}
-                </p>
-                <p className="text-2xl font-bold">MINUTES</p>
-              </div>
-              <div>
-                <p className="text-6xl font-semibold" id="seconds">
-                  {seconds}
-                </p>
-                <p className="text-2xl font-bold">SECONDS</p>
-              </div>
-            </div>
-          </div>
-        </div>
+        
       </div>
     </div>
   );
