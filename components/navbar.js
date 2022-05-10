@@ -23,11 +23,11 @@ export default function NavBar() {
 												Events
 											</div>
 										</Link>
-										<Link href={"./#AboutUs"}>
+										{/* <Link href={"./#AboutUs"}>
 											<div className="cursor-pointer hover:bg-amber-700 text-white hover:text-white px-3 py-2 rounded-md text-lg font-semibold">
 												About Us
 											</div>
-										</Link>
+										</Link> */}
 										<Link href={"./#Gallery"}>
 											<div className="cursor-pointer hover:bg-amber-700  text-whitehover:text-white px-3 py-2 rounded-md text-lg font-semibold">
 												Gallery
