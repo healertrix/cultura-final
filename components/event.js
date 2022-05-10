@@ -34,7 +34,7 @@ export default function Event() {
 						<img id="category" src="./category/Photography.png" />
 					</a>
 					<a className="col-span-2 sm:col-span-1" href="./events#CSE">
-						<img id="category" src="./category/Departments.png" />
+						<img id="category" src="./category/Technical.svg" />
 					</a>
 					<a href="./events#Music">
 						<img id="category" src="./category/Music.png" />
