@@ -111,7 +111,7 @@ export default function NavBar() {
 											Events
 										</div>
 									</Link>
-									<Link href={"./#AboutUs"}>
+									{/* <Link href={"./#AboutUs"}>
 										<div
 											href="/work"
 											activeclass="work"
@@ -123,8 +123,8 @@ export default function NavBar() {
 										>
 											About Us
 										</div>
-									</Link>
-									<Link href={"./#About"}>
+									</Link> */}
+									<Link href={"./#Gallery"}>
 										<div
 											href="/home"
 											activeclass="home"
