@@ -9,4 +9,8 @@
 }
 .rules{
 white-space: break-spaces;
+/* white-space: nowrap; */
+-webkit-hyphens: none;
+-moz-hyphens: none;
+hyphens: none;
 }
