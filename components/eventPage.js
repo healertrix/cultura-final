@@ -122,7 +122,7 @@ export default function EventDetails() {
 						<div className="flex flex-row flex-wrap">
 							<Link href="#Photography">
 								<button
-									className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
+									className="text-black bg-amber-100/50 hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
 									type="button"
 								>
 									Photography
@@ -130,7 +130,7 @@ export default function EventDetails() {
 							</Link>
 							<Link href="#Music">
 								<button
-									className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
+									className="text-black bg-amber-100/50 hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
 									type="button"
 								>
 									Music
@@ -138,7 +138,7 @@ export default function EventDetails() {
 							</Link>
 							<Link href="#Muses">
 								<button
-									className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
+									className="text-black bg-amber-100/50 hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
 									type="button"
 								>
 									Muses
@@ -146,7 +146,7 @@ export default function EventDetails() {
 							</Link>
 							<Link href="#Theatre">
 								<button
-									className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
+									className="text-black bg-amber-100/50 hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
 									type="button"
 								>
 									Theatre
@@ -154,7 +154,7 @@ export default function EventDetails() {
 							</Link>
 							<Link href="#Dance">
 								<button
-									className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
+									className="text-black bg-amber-100/50 hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
 									type="button"
 								>
 									Dance
@@ -162,7 +162,7 @@ export default function EventDetails() {
 							</Link>
 							<Link href="#Literary">
 								<button
-									className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
+									className="text-black bg-amber-100/50 hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
 									type="button"
 								>
 									Literary
@@ -170,7 +170,7 @@ export default function EventDetails() {
 							</Link>
 							<Link href="#Gaming">
 								<button
-									className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
+									className="text-black bg-amber-100/50 hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
 									type="button"
 								>
 									Gaming
@@ -178,7 +178,7 @@ export default function EventDetails() {
 							</Link>
 							<Link href="#Fashion">
 								<button
-									className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
+									className="text-black bg-amber-100/50 hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
 									type="button"
 								>
 									Fashion
@@ -186,7 +186,7 @@ export default function EventDetails() {
 							</Link>
 							<Link href="#Kannada">
 								<button
-									className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
+									className="text-black bg-amber-100/50 hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
 									type="button"
 								>
 									Kannada
@@ -194,7 +194,7 @@ export default function EventDetails() {
 							</Link>
 							<Link href="#Informal">
 								<button
-									className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
+									className="text-black bg-amber-100/50 hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
 									type="button"
 								>
 									Informal
@@ -202,7 +202,7 @@ export default function EventDetails() {
 							</Link>
 							<Link href="#Art">
 								<button
-									className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
+									className="text-black bg-amber-100/50 hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
 									type="button"
 								>
 									Art
@@ -210,7 +210,7 @@ export default function EventDetails() {
 							</Link>
 							<Link href="#Department">
 								<button
-									className="text-black bg-white hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
+									className="text-black bg-amber-100/50 hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
 									type="button"
 								>
 									Departments
@@ -233,7 +233,7 @@ export default function EventDetails() {
 											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2 w-full"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className="p-1 sm:py-2 sm:px-2 cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl">
+											<div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-xl">
 												<div className={style.eventContainer}>
 													<h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
 														{eventInfo.Event}
@@ -263,7 +263,7 @@ export default function EventDetails() {
 											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2 w-full"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className="p-1 sm:p-2cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+											<div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl ">
 												<div className={style.eventContainer}>
 													<h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
 														{eventInfo.Event}
@@ -293,7 +293,7 @@ export default function EventDetails() {
 											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2 w-full"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className="p-1 sm:p-2cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+											<div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl ">
 												<div className={style.eventContainer}>
 													<h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
 														{eventInfo.Event}
@@ -323,7 +323,7 @@ export default function EventDetails() {
 											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2 w-full"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className="p-1 sm:p-2cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+											<div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl ">
 												<div className={style.eventContainer}>
 													<h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
 														{eventInfo.Event}
@@ -353,7 +353,7 @@ export default function EventDetails() {
 											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2 w-full"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className="p-1 sm:p-2cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+											<div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl ">
 												<div className={style.eventContainer}>
 													<h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
 														{eventInfo.Event}
@@ -383,7 +383,7 @@ export default function EventDetails() {
 											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2 w-full"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className="p-1 sm:p-2cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+											<div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl ">
 												<div className={style.eventContainer}>
 													<h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
 														{eventInfo.Event}
@@ -413,7 +413,7 @@ export default function EventDetails() {
 											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2 w-full"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className="p-1 sm:p-2cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+											<div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl ">
 												<div className={style.eventContainer}>
 													<h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
 														{eventInfo.Event}
@@ -443,7 +443,7 @@ export default function EventDetails() {
 											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2 w-full"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className="p-1 sm:p-2cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+											<div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl ">
 												<div className={style.eventContainer}>
 													<h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
 														{eventInfo.Event}
@@ -473,7 +473,7 @@ export default function EventDetails() {
 											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2 w-full"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className="p-1 sm:p-2cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+											<div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl ">
 												<div className={style.eventContainer}>
 													<h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
 														{eventInfo.Event}
@@ -503,7 +503,7 @@ export default function EventDetails() {
 											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2 w-full"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className="p-1 sm:p-2cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+											<div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl ">
 												<div className={style.eventContainer}>
 													<h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
 														{eventInfo.Event}
@@ -533,7 +533,7 @@ export default function EventDetails() {
 											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2 w-full"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className="p-1 sm:p-2cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+											<div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl ">
 												<div className={style.eventContainer}>
 													<h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
 														{eventInfo.Event}
@@ -563,7 +563,7 @@ export default function EventDetails() {
 											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2 w-full"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className="p-1 sm:p-2cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+											<div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl ">
 												<div className={style.eventContainer}>
 													<h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
 														{eventInfo.Event}
@@ -586,7 +586,7 @@ export default function EventDetails() {
 											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2 w-full"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className="p-1 sm:p-2cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+											<div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl ">
 												<div className={style.eventContainer}>
 													<h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
 														{eventInfo.Event}
@@ -609,7 +609,7 @@ export default function EventDetails() {
 											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2 w-full"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className="p-1 sm:p-2cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+											<div className="p-1 sm:p-2cursor-pointer hover:bg-white/75 rounded-2xl ">
 												<div className={style.eventContainer}>
 													<h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
 														{eventInfo.Event}
@@ -632,7 +632,7 @@ export default function EventDetails() {
 											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2 w-full"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className="p-1 sm:p-2cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+											<div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl ">
 												<div className={style.eventContainer}>
 													<h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
 														{eventInfo.Event}
@@ -655,7 +655,7 @@ export default function EventDetails() {
 											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2 w-full"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className="p-1 sm:p-2cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+											<div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl ">
 												<div className={style.eventContainer}>
 													<h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
 														{eventInfo.Event}
@@ -678,7 +678,7 @@ export default function EventDetails() {
 											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2 w-full"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className="p-1 sm:p-2cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+											<div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl ">
 												<div className={style.eventContainer}>
 													<h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
 														{eventInfo.Event}
@@ -701,7 +701,7 @@ export default function EventDetails() {
 											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2 w-full"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className="p-1 sm:p-2cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+											<div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl ">
 												<div className={style.eventContainer}>
 													<h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
 														{eventInfo.Event}
@@ -724,7 +724,7 @@ export default function EventDetails() {
 											className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2 w-full"
 											onClick={() => dataBhejo(eventInfo)}
 										>
-											<div className="p-1 sm:p-2cursor-pointer bg-white/25 hover:bg-white/75 rounded-2xl ">
+											<div className="p-1 sm:p-2cursor-pointer hover:bg-amber-100/50 rounded-2xl ">
 												<div className={style.eventContainer}>
 													<h3 className="text-2xl sm:text-4xl mb-2 font-bold text-white">
 														{eventInfo.Event}
