@@ -55,7 +55,7 @@ export default function Ticket() {
               </p>
               <a href={Payment}>
                 <button className="bg-amber-700 text-white hover:bg-amber-600 focus:ring-4 focus:ring-orange-300 font-bold rounded-lg text-md px-4 py-2.5 text-center inline-flex mt-4 shadow-lg hover:shadow-2xl ">
-                  Get your Ticket!
+                  Register Now!
                 </button>
               </a>
               <div className="text-black py-2 px-2 mt-8 cursor-pointer bg-white/25 rounded-2xl">

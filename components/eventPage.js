@@ -213,7 +213,7 @@ export default function EventDetails() {
 									className="text-black bg-amber-100/50 hover:bg-amber-700 hover:text-white focus:ring-4 focus:ring-orange-300 font-medium rounded-lg text-xs px-4 py-2 sm:text-sm sm:px-4 sm:py-2.5 text-center inline-flex items-center mt-4 mr-4"
 									type="button"
 								>
-									Departments
+									Technical
 								</button>
 							</Link>
 						</div>
