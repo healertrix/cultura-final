@@ -672,7 +672,7 @@ export default function EventDetails() {
                     </a>
                   </>
                 ))}
-                {civilData.map((eventInfo, index) => (
+                {/* {civilData.map((eventInfo, index) => (
                   <>
                     <a
                       className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2 w-full"
@@ -694,7 +694,7 @@ export default function EventDetails() {
                       </div>
                     </a>
                   </>
-                ))}
+                ))} */}
                 {mbaData.map((eventInfo, index) => (
                   <>
                     <a
@@ -718,7 +718,7 @@ export default function EventDetails() {
                     </a>
                   </>
                 ))}
-                {mcaData.map((eventInfo, index) => (
+                {/* {mcaData.map((eventInfo, index) => (
                   <>
                     <a
                       className="xl:w-1/3 md:w-1/3 sm:w-1/2 p-2 w-full"
@@ -740,7 +740,7 @@ export default function EventDetails() {
                       </div>
                     </a>
                   </>
-                ))}
+                ))} */}
               </div>
             </section>
           </div>
