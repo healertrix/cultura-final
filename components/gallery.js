@@ -10,10 +10,10 @@ export default function Gallery() {
               <span className="text-7xl">Cultura</span>
             </p>
             <p className="text-xl font-medium uppercase mb-[1rem]">
-              CMR Institute of Technology's Inter Collegiate Festival, Cultura,
-              is to be celebrated on the 17th and 18th of June 2022 in its 14th
-              year showcasing skill, talent and charisma. Cultura 2022 will
-              include Pro Nights, Dance events, Fashion show, Music events,
+              CMR Institute of Technology&apos;s Inter Collegiate Festival,
+              Cultura, is to be celebrated on the 17th and 18th of June 2022 in
+              its 14th year showcasing skill, talent and charisma. Cultura 2022
+              will include Pro Nights, Dance events, Fashion show, Music events,
               Theatre events, Gaming events, Technical events and 50+ exciting
               events.
             </p>
