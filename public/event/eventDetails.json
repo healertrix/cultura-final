@@ -430,11 +430,11 @@
 			"Event": "Food Hunt",
 			"Registration": 300,
 			"Payment": "https://imjo.in/TeYMTT",
-			"Description": "",
+			"Description": "Let your hunger bring out the hunter in you!",
 			"Venue": "",
 			"Time": "",
 			"Day": "",
-			"Rule": "",
+			"Rule": "No of Participants: 2\n• Time limit: Participants to be present at event venue 15 mins prior to the event\n• All the clues must be presented, missing clues will lead to disqualification\n• First team to reach the final location wins",
 			"Poster": "https://cmritcultura.com/post/informal/informal-fh.png"
 		},
 		{
@@ -456,11 +456,11 @@
 			"Event": "Best Puneeth Impression",
 			"Registration": 100,
 			"Payment": "https://imjo.in/BUEj7y",
-			"Description": "",
+			"Description": "A tribute to the memory of the esteemed Dr.Puneeth Raj Kumar.",
 			"Venue": "",
 			"Time": "",
 			"Day": "",
-			"Rule": "",
+			"Rule": "No. of participants: 1\nRules:\n• The event consists of Dance & Acting performances.\n• Participants have to choose either one of the categories mentioned above.\n• Participate have to perform the acting or dance, from Dr Puneet Raj Kumar Sir's movie songs or songs he has sung & Acting from his films(including dialogues & Mono acting).\n• The active participation of Dance or Acting should be min duration of 1.30min.\n• Decision of the judges will be final.\n• Usage of informal words and misbehaviour during the event is STRICTLY PROHIBITED.\n• Any form of vulgarity in movements or costume will lead to disqualification.",
 			"Poster": "https://cmritcultura.com/post/kannada/kannada-na.png"
 		},
 		{
@@ -468,11 +468,11 @@
 			"Event": "KGF",
 			"Registration": 200,
 			"Payment": "https://imjo.in/ARjZUQ",
-			"Description": "",
+			"Description": "An exclusive event on the Kannada Movie and Film Industry.",
 			"Venue": "",
 			"Time": "",
 			"Day": "",
-			"Rule": "",
+			"Rule": "No of participants: Group of 3\n\nRules:\n\n•Time limit to be followed strictly\n•Round 1: Guess the movie by seeing the tagline which is displayed. 1 min time duration will be given.\n•Teams with highest score will be proceeding to the next round.\n•Round 2: Two pictures will be displayed, the participant should mention any two movie names in which both the persons displayed on the screen have performed. 1 min time limit will be given\n•Elimination will be there after round 2.\n•Teams which whispers the answer to other Teams will be disqualified.\n•Round 3:Audio will be played for 30 secs and then questions will be asked based on the audio, the participants should answer within the allotted time.\n•Round 4 or Deciding Round: The participant should guess the movie name by drawing on the board without using any words or alphabets.\n•10 marks for each correct answer.\n•5 marks for the pass question.\n•Judges decision will be final.",
 			"Poster": "https://cmritcultura.com/post/kannada/kannada-kgf.png"
 		},
 		{
@@ -480,11 +480,11 @@
 			"Event": "Hemmeya Kannadiga",
 			"Registration": 200,
 			"Payment": "https://imjo.in/tc5sFx",
-			"Description": "",
+			"Description": "An oppurtunity to showcase your knowledge on Karnataka's rich cultural heritage",
 			"Venue": "",
 			"Time": "",
 			"Day": "",
-			"Rule": "",
+			"Rule": "No of participants: Group of 2\n\nRules:\n\n• Time limited to be followed strictly\n• Round 1: General questions about Karnataka will be asked with 30 seconds for each question.\n• Teams with highest score will be proceeding to the next round.\n• Round 2: Words will be displayed; participants should create a story by including all the words. Team with the highest score and the best storyline will move to the next round.\n• Round 3: Pick and speak, participants should speak about the topic that is given to them on spot. For usage of each English word marks will be deducted.\n• Teams which whisper the answer to other Teams will be disqualified.\n• 10 marks for each correct answer.\n• 5 marks for the pass question.\n• Judge's decision will be final.",
 			"Poster": "https://cmritcultura.com/post/kannada/kannada-hk.png"
 		},
 		{
@@ -498,6 +498,18 @@
 			"Day": "",
 			"Rule": "",
 			"Poster": "https://cmritcultura.com/post/kannada/kannada-bs.png"
+		},
+		{
+			"Category": "Kannada",
+			"Event": "Hosa Gaana Bajana",
+			"Registration": 200,
+			"Payment": "https://imjo.in/m9qMW2",
+			"Description": "Prove your knowledge of the melodies in Karnataka's film and music industry",
+			"Venue": "",
+			"Time": "",
+			"Day": "",
+			"Rule": "No of participants:2\nRules: \n• There will be 4 rounds.\n• Round 1: The lyrics of the song will be given, participants has to guess the song.\n• Round 2: The scene of the film will be played , participants should guess the film name and\nguess any 3 songs from the same film.\n•Round 3: Video clippings of song will be played, participants have to guess the correct lyrics\nof the song.\n•Round 4: Participants have to pick a chit and shall sing the song which starts from starting\nletter of the colour on that chit. Then should continue by singing a song which starts from\nending letter of the previous. This shall be carried for 2 mins duration and max no. of songs\nwill be considered.\n• Topic - all about Kannada films and songs\n• Use of mobile is prohibited.\n• Group of 2 in a Team\n• Time limited to be followed strictly\n• Teams with highest score will be proceeding to the next round.\n• Teams which whispers the answer to other Teams will be  disqualified.\n• 10 marks for each correct answer.\n• 5 marks for the pass question.\n• Judges decision will be final.",
+			"Poster": "https://cmritcultura.com/post/kannada/kannada-hk.png"
 		}
 	],
 	"Art": [
@@ -556,11 +568,11 @@
 			"Event": "Code Raiders",
 			"Registration": 300,
 			"Payment": "",
-			"Description": "",
+			"Description": "A Treasure hunt with a hint of coding.",
 			"Venue": "",
 			"Time": "",
 			"Day": "",
-			"Rule": "",
+			"Rule": "No of participants: 1 - 2 in a Team\nRules:\n•We can have a team of one or max two participants.\n•There will be six locations where our volunteers will be already present. Each team will\npick a chit which will have a number along with a hint which will lead them to a location.\nOn every location the volunteer will give them a code, if they give the correct output, the\nvolunteer will hand the participants the hint for next location.\n(The code will be simple, with an integer output, so that they don't have to carry laptop with\nthem, they can solve using the phone or just by reading)\n•The seventh location will be common, all the 6 locations will lead to the same final\ndestination.\n•The team which will reach first at the 7th location will get the final code which they have to\nexplain, and the team which explains the final code correctly will win the contest.",
 			"Poster": "https://cmritcultura.com/post/technical/technical-cr.png"
 		}
 	],
@@ -570,37 +582,39 @@
 			"Event": "Codical Chairs",
 			"Registration": 200,
 			"Payment": "https://imjo.in/zQNhru",
-			"Description": "",
+			"Description": "Speed and Effeciency are key not just for your code but you as well.",
 			"Venue": "",
 			"Time": "",
 			"Day": "",
-			"Rule": "",
+			"Rule": "No. of. Participants : 01\nRules:\n• Depending upon the number of participants, we will divide the\nparticipants in different groups with 10(max) participants each.\n• Thereafter, 9 chairs will be arranged in an order and participants are\nprovided with a problem.\n• After solving the problem they have to occupy any one chair kept over\nthere.\n• Each round we will remove one chair and one participants will be\neliminated.\n• Final round will be conducted, where winners of different groups will be\nparticipating for top two spots.\n• Participants need to bring their own laptops.\n• Languages that can be used in event: (java, C, C++, Python).\n• Participants to be present at the event venue 30 minutes prior to the\nevent.\n• There will be disqualification in case of any discussion with the other\nparticipants.\n• Other instructions will be given right before the event begins.\n• Decision of the judges will be final.",
 			"Poster": "https://cmritcultura.com/post/technical/technical-cc.png"
 		}
 	],
 	"ECE": [
 		{
-			"Category": "EEE",
-			"Event": "Debate on EV's",
+			"Category": "ECE",
+			"Event": "Circuit Hunt",
 			"Registration": 300,
-			"Payment": "",
-			"Description": "",
+			"Payment": "https://imjo.in/pbbC6T",
+			"Description": "Find the components, find the combination and you will find the prize",
 			"Venue": "",
 			"Time": "",
 			"Day": "",
-			"Rule": "",
+			"Rule": "No of participants: 2 for each team.\n• Each person will be given clues, using the clues they should go to a specific place and they should collect the component present there and similarly find the rest of the components.\n• Once the components are found they should bring it to the venue, if the components brought by the participant matches 50% of the components which is required to construct a desired circuit. The circuit will be given to them.\n• The participant should make use of these components and should build the circuit and should show a specific output.\n• First one to get the output wins!",
 			"Poster": "https://cmritcultura.com/post/technical/technical-cr.png"
 		}
 	],
 	"EEE": [
 		{
 			"Category": "EEE",
-			"Event": "Debate on EV's",
+			"Event": "EV wars",
 			"Registration": 300,
 			"Payment": "",
-			"Description": "",
+			"Time":"",
+			"Description": "Are EV's the go to mode of transport of  the future? Will they make our roads.\ngreen and clean? Or will they eat into our lithium supplies. A debate is in order",
 			"Venue": "",
-			"Time": "https://cmritcultura.com/post/technical/technical-cr.png"
+			"Rule": "No of participants: 2\nRules:\n● The individual group, for or against EV's will be decided at the time of the event through\na lucky draw.\n● The time allotted for initial statement and affirmative or negative constructive per\nindividual: 3+1 minutes.\n● The speaker in favor of EV’s will be the first to speak followed by a speaker against it,\nand so on.\n● The speaker after completing their statement will be answerable to the opponent if they\nwish to cross examine/ cross question the speaker based on their statements.\n● No unparliamentary language to be used. Use of phones to collect the information is not\nallowed during the event.\n● There will be a final rebuttal round of 20 minutes, after the constructive round, wherein\nthe teammates will be allowed to open debate, discuss, question, cross and attack on\nthe constructive and rebuttal statements of the opponents.\n● The decision of the judges is final and irrevocable.",
+			"Poster": "https://cmritcultura.com/post/technical/technical-cr.png"
 		}
 	],
 	"CIVIL": [
@@ -623,11 +637,11 @@
 			"Event": "Robo Ignitors",
 			"Registration": 500,
 			"Payment": "https://imjo.in/p4bmf8",
-			"Description": "",
+			"Description": "Gear up to see how Fast, Skillful and Power your car is and show that it is the best on the race track.",
 			"Venue": "",
 			"Time": "",
 			"Day": "",
-			"Rule": "",
+			"Rule": "No. of participants: 2-4 per team\n\nRules:\n• The RC car should maintain standard specification according to the\nregulations\n• To participate in the event, the car has to pass an initial inspection\nround\n• All participants to report 90 min prior to the start of the event.\n• Round 1 - “Who's the Fastest”, All RC cars will be put to race on the\nracetrack. Timing and speed will be noted.\n• Round 2 – “Can you Carry me”, All RC cars will have to carry the\nload in the racetrack, the timing and speed will be noted.\n• All participants need to prepare an intro of their RC cars for 2 min.\n• No test practice on the race track will be allowed\n• The RC car should not damage the arena\n• If the RC car crosses a checkpoint, and moves off track, then the RC\ncar would be placed back on the previous checkpoint crossed.\n• Once the race begins, three hand touches are allowed, if your\ntaking hand touch you have to start from last check point.\n• The decision of the judges will be final and abiding. Argument with\njudges in any form will lead to the disqualification of the team.\n• List of materials used must be brought along for the inspection round\n• RC car regulations:\n• Size of RC car 1/16- 25x25x25(length x width x height).\n• RC frequency to be under 50 MHz (4 channel).\n• Can be wired or wireless, if using wired the wire must cover the track and should remain slack while it's on the run.\n• The net weight is allowed up to 3kg.\n• The maximum voltage allowed is 24V.\n• Lego kits are not allowed in any form.\n• Wheel diameter must be under 80mm.",
 			"Poster": "https://cmritcultura.com/post/technical/technical-ri.png"
 		}
 	],
@@ -637,11 +651,11 @@
 			"Event": "Best Manager",
 			"Registration": 200,
 			"Payment": "https://imjo.in/25mQWD",
-			"Description": "",
+			"Description": "Are you ready to show your mettle to be the Ultimate Problem Solver.",
 			"Venue": "",
 			"Time": "",
 			"Day": "",
-			"Rule": "",
+			"Rule": "Number of participants: Individual participation\n\nInstructions for the event:\n•One copy of resume to be brought along.\n•Participants must carry their own laptops\n•Formal attire.\nGeneral Rules:\n•Individual event.\n•Judges' decisions will be final.\n•Only registered participants are allowed.\n•Instructions for each round will be given on spot.\n•Time and venue will be communicated later.",
 			"Poster": "https://cmritcultura.com/post/technical/technical-bm.png"
 		}
 	],
