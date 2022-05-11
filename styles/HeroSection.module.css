@@ -1,5 +1,5 @@
 .heroSection {
-	background-image: url("/Background.png");
+	/* background-image: url("/Background.png"); */
 	height: 100vh;
 	color: white;
 	background-position: center bottom;
@@ -44,8 +44,7 @@
 	height: 100%;
 	margin-bottom: 100px;
 }
-.stroke{
+.stroke {
 	/* -webkit-text-stroke: 0.08px black;
     -webkit-text-fill-color: white; */
-	
 }
