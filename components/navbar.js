@@ -13,7 +13,7 @@ export default function NavBar() {
               <div className="flex items-center   justify-between w-full">
                 <a href={"./"}>
                   <div className="flex justify-start items-center flex-shrink-0 ">
-                    <img src="/Cultura222.png" width="35%" className="navimg" />
+                    <img src="/Cultura222.png" width="25%" className="navimg" />
                   </div>
                 </a>
                 <div className="hidden md:block">
