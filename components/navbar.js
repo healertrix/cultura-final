@@ -12,8 +12,8 @@ export default function NavBar() {
 						<div className="flex items-center h-20 w-full">
 							<div className="flex items-center   justify-between w-full">
 								<a href={"./"}>
-									<div className="flex justify-center items-center flex-shrink-0 ">
-										<img src="/Cultura22.svg" />
+									<div className="flex justify-start items-center flex-shrink-0 ">
+										<img src="/Cultura222.png" width="25%" />
 									</div>
 								</a>
 								<div className="hidden md:block">
