@@ -67,3 +67,10 @@ hgroup {
 	border-width: 0.1rem;
 	border-color: white;
 }
+
+
+	@media only screen and (max-width: 600px) {
+  .navimg{
+	  width: 65%;
+  }
+}
