@@ -47,7 +47,7 @@ export default function Ticket() {
               <Image width={720} height={720} src={Poster} priority></Image>
             </div>
             <div>
-              <p className="highlight tracking-wider uppercase text-4xl md:text-7xl sm:text-4xl">
+              <p className="highlight tracking-wider uppercase text-3xl md:text-6xl sm:text-3xl">
                 {Event}
               </p>
               <p className="md:text-2xl lg:text-2xl font-semibold tracking-wide   bg-amber-100/75	 rounded-2xl  text-black	py-2 px-2 mt-8 cursor-pointer   ">
