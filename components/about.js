@@ -4,6 +4,7 @@ import Head from "next/head";
 export default function About() {
 	return (
     <>
+    
       <div id={styles.about_wrapper}>
         <Head>
           <title>Cultura 2022</title>
