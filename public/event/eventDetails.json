@@ -159,7 +159,7 @@
       "Venue": "AV Hall (3rd Floor)",
       "Time": "10am-11:30am",
       "Day": "Day 1",
-      "Rule": "No. of participants: 2-4 members per team.\n\n• Do not bite(copy) your competitor’s work.\n\n• No. of rounds will be decided prior to the event based\non number of participants.\n\n• The event will be split into prelims, semi-finals and\nfinals.\n\n• Judging Criteria will be based on technique, rhythm,\noriginality, creativity and interaction with the crowd.\n\n• Any malpractice will lead to disqualification.\n\n• Decision of the judges will be final.\n\n• Time limit 5+1 min",
+      "Rule": "No. of participants: 2 members per team.\n\n• Do not bite(copy) your competitor’s work.\n\n• No. of rounds will be decided prior to the event based\non number of participants.\n\n• The event will be split into prelims, semi-finals and\nfinals.\n\n• Judging Criteria will be based on technique, rhythm,\noriginality, creativity and interaction with the crowd.\n\n• Any malpractice will lead to disqualification.\n\n• Decision of the judges will be final.\n\n• Time limit 5+1 min",
       "Poster": "https://cmritcultura.com/post/theatre/theatre-i.png"
     },
     {
@@ -221,7 +221,7 @@
       "Venue": "Main Stage",
       "Time": "10am-11:30am",
       "Day": "Day 2",
-      "Rule": "No. of participants:12+5 \n\n• The length of the performance must not exceed 5+2 min including stage set up. \n\n• Multiple teams  from the same institution are not allowed. \n\n• The teams are expected to be in the college premises  around 2 hours before the start of the event. \n\n• A green room will be provided if necessary.\n\n•  Participants must bring their music in a pen drive and hand it over to the corresponding EC at least  an hour prior to the start of the event. \n\n• Any form of vulgarity in movements or costume will lead to  disqualification. \n\n• The decision of the judges will be final and binding.",
+      "Rule": "No. of participants:10+5 \n\n• The length of the performance must not exceed 5+2 min including stage set up. \n\n• Multiple teams  from the same institution are not allowed. \n\n• The teams are expected to be in the college premises  around 2 hours before the start of the event. \n\n• A green room will be provided if necessary.\n\n•  Participants must bring their music in a pen drive and hand it over to the corresponding EC at least  an hour prior to the start of the event. \n\n• Any form of vulgarity in movements or costume will lead to  disqualification. \n\n• The decision of the judges will be final and binding.",
       "Poster": "https://cmritcultura.com/post/dance/dance-knc.png"
     },
     {
@@ -382,7 +382,7 @@
       "Venue": "Lab 506",
       "Time": "11am-4pm",
       "Day": "Day 1",
-      "Rule": "Rules:\n\n• The game can be played on Keyboard as well as controllers.(Controllers are allowed. The default settings for the keyboard controls will be applied, but it can be changed before the start of the competition, after intimating the volunteers about the same.)\n\n• Tournament Rules: A particular number of players will form a set.\n\n•These players will compete with the members of each set. The emerging winner of each set, will then move to the next round. The race type will be disclosed to you on spot. (Circuit/Sprint/Speed Run). At the end of each match, the players must retain the confirmation screen, and show it to the referee.\n\n• Car settings: All cars will be unlocked.\n\n•A specified time (to be disclosed on spot) will be given for the participants to free roam and select the car of their choice. Only the DEFAULT settings of the car will be applicable. Any modification whatsoever, will lead to disqualification.Junkman is NOT allowed. Personal save profile is strictly prohibited.\n\n• The race mode will be intimated on the spot. • All other settings related to the UI is left to the participants discretion, and can be changed for simulating personal experiences.",
+      "Rule": "No of participants:1 \n\n• The game can be played on Keyboard as well as controllers.(Controllers are allowed. The default settings for the keyboard controls will be applied, but it can be changed before the start of the competition, after intimating the volunteers about the same.)\n\n• Tournament Rules: A particular number of players will form a set.\n\n•These players will compete with the members of each set. The emerging winner of each set, will then move to the next round. The race type will be disclosed to you on spot. (Circuit/Sprint/Speed Run). At the end of each match, the players must retain the confirmation screen, and show it to the referee.\n\n• Car settings: All cars will be unlocked.\n\n•A specified time (to be disclosed on spot) will be given for the participants to free roam and select the car of their choice. Only the DEFAULT settings of the car will be applicable. Any modification whatsoever, will lead to disqualification.Junkman is NOT allowed. Personal save profile is strictly prohibited.\n\n• The race mode will be intimated on the spot. • All other settings related to the UI is left to the participants discretion, and can be changed for simulating personal experiences.",
       "Poster": "https://cmritcultura.com/post/gaming/gaming-nfs.png"
     }
   ],
@@ -422,7 +422,7 @@
       "Venue": "Side Stage",
       "Time": "2:30pm-3:30pm",
       "Day": "Day 1",
-      "Rule": "\n• 2 rounds will be held\n\n• In the 1st round, a team of 5 participants is made\n\n•1 participant will qualify for next round\n\n•In last round whoever finishes early he will be the winner\n\n•The final call regarding competition lies with organizers",
+      "Rule": "No. of participants: 1\n\n• 2 rounds will be held\n\n• In the 1st round, a team of 5 participants is made\n\n•1 participant will qualify for next round\n\n•In last round whoever finishes early he will be the winner\n\n•The final call regarding competition lies with organizers",
       "Poster": "https://cmritcultura.com/post/informal/informal-hg.png"
     },
 
@@ -561,7 +561,7 @@
       "Venue": "ME 201",
       "Time": "12:30pm-2:30pm",
       "Day": "Day 1",
-      "Rule": "No of participants: 1 - 2 in a Team\n\n•We can have a team of one or max two participants.\n\n•There will be six locations where our volunteers will be already present. Each team will pick a chit which will have a number along with a hint which will lead them to a location.\n\n•On every location the volunteer will give them a code, if they give the correct output, the volunteer will hand the participants the hint for next location.(The code will be simple, with an integer output, so that they don't have to carry laptop with them, they can solve using the phone or just by reading)\n\n•The seventh location will be common, all the 6 locations will lead to the same final destination.\n\n•The team which will reach first at the 7th location will get the final code which they have to explain, and the team which explains the final code correctly will win the contest.",
+      "Rule": "No of participants: 1 / 2 in a Team\n\n•We can have a team of one or max two participants.\n\n•There will be six locations where our volunteers will be already present. Each team will pick a chit which will have a number along with a hint which will lead them to a location.\n\n•On every location the volunteer will give them a code, if they give the correct output, the volunteer will hand the participants the hint for next location.(The code will be simple, with an integer output, so that they don't have to carry laptop with them, they can solve using the phone or just by reading)\n\n•The seventh location will be common, all the 6 locations will lead to the same final destination.\n\n•The team which will reach first at the 7th location will get the final code which they have to explain, and the team which explains the final code correctly will win the contest.",
       "Poster": "https://cmritcultura.com/post/technical/technical-cr.png"
     }
   ],
@@ -603,7 +603,7 @@
       "Venue": "AV Hall(4th floor)",
       "Time": "12:30pm-2:30pm",
       "Day": "Day 1",
-      "Rule": "No of participants: 2\n\n● The individual group, for or against EV's will be decided at the time of the event through a lucky draw.\n\n● The time allotted for initial statement and affirmative or negative constructive per individual: 3+1 minutes.\n\n● The speaker in favor of EV’s will be the first to speak followed by a speaker against it,and so on.\n\n● The speaker after completing their statement will be answerable to the opponent if they wish to cross examine/ cross question the speaker based on their statements.\n\n● No unparliamentary language to be used. Use of phones to collect the information is not allowed during the event.\n\n● There will be a final rebuttal round of 20 minutes, after the constructive round, wherein the teammates will be allowed to open debate, discuss, question, cross and attack on the constructive and rebuttal statements of the opponents.\n\n● The decision of the judges is final and irrevocable.",
+      "Rule": "No of participants: 1\n\n● The individual group, for or against EV's will be decided at the time of the event through a lucky draw.\n\n● The time allotted for initial statement and affirmative or negative constructive per individual: 3+1 minutes.\n\n● The speaker in favor of EV’s will be the first to speak followed by a speaker against it,and so on.\n\n● The speaker after completing their statement will be answerable to the opponent if they wish to cross examine/ cross question the speaker based on their statements.\n\n● No unparliamentary language to be used. Use of phones to collect the information is not allowed during the event.\n\n● There will be a final rebuttal round of 20 minutes, after the constructive round, wherein the teammates will be allowed to open debate, discuss, question, cross and attack on the constructive and rebuttal statements of the opponents.\n\n● The decision of the judges is final and irrevocable.",
       "Poster": "https://cmritcultura.com/post/technical/technical-ew.png"
     },
     {
