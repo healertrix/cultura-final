@@ -11,7 +11,7 @@ export default function Gallery() {
 						</p>
 						<p className=" text-black	py-2 px-2 mt-8 cursor-pointer bg-amber-100/75	 rounded-2xl text-xl font-medium  ">
 							CMR Institute of Technology&apos;s Inter Collegiate Festival,
-							Cultura, is to be celebrated on the 17th and 18th of June 2022 in
+							Cultura, is to be celebrated on the 24th and 25th of June 2022 in
 							its 14th year showcasing skill, talent and charisma. Cultura 2022
 							will include Pro Nights, Dance events, Fashion show, Music events,
 							Theatre events, Gaming events, Technical events and 50+ exciting
