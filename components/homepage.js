@@ -7,7 +7,7 @@ import { useCountdown } from "../hooks/useCountdown";
 
 export default function HeroSection() {
 	const [days, hours, minutes, seconds] = useCountdown(
-		new Date(2022, 5, 24, 0, 0, 0, 0)
+		new Date(2022, 5, 17, 0, 0, 0, 0)
 	);
 
 	return (
@@ -42,7 +42,7 @@ export default function HeroSection() {
                 </span>
               </p>
               <p className="text-4xl md:text-5xl font-bold text-white mb-[1rem]">
-                24th - 25th June
+                17th - 18th June
               </p>
               <div className="w-[21rem] sm:w-[33rem] md:w-[33rem] ">
                 <div className={styles.timer}>
