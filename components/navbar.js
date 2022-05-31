@@ -7,13 +7,18 @@ export default function NavBar() {
 	return (
     <>
       <div>
-        <nav className="px-[1rem] shadow-sm w-full">
+        <nav className="px-[1rem] shadow-sm w-full my-3">
           <div className="w-full">
             <div className="flex items-center h-20 w-full">
-              <div className="flex items-center   justify-between w-full">
+              <div className="flex items-center   justify-between w-full ">
                 <a href={"./"}>
                   <div className="flex justify-start items-center flex-shrink-0 ">
-                    <img src="/Cultura222.png" width="25%" className="navimg" />
+                    <img src="/Cultura222.png" width="40%" className="navimg" />
+                  </div>
+                </a>
+                <a href={"https://www.cmrit.ac.in/"} target="_blank">
+                  <div className="  flex justify-start items-center flex-shrink-0  ">
+                    <img src="/cmritlogo.png" width="28%" className="navimg" />
                   </div>
                 </a>
                 <div className="hidden md:block">
