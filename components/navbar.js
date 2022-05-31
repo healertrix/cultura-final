@@ -16,7 +16,7 @@ export default function NavBar() {
                     <img src="/Cultura222.png" width="40%" className="navimg" />
                   </div>
                 </a>
-                <a href={"https://www.cmrit.ac.in/"} target="_blank">
+                <a href={"https://www.cmrit.ac.in/"} rel="noopener noreferrer">
                   <div className="  flex justify-start items-center flex-shrink-0  ">
                     <img src="/cmritlogo.png" width="28%" className="navimg" />
                   </div>
