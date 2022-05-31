@@ -15,7 +15,7 @@ export default function NavBar() {
                   <div className="flex justify-start items-center flex-shrink-0 ">
                     <img
                       src="/Cultura222.png"
-                      width="40%"
+                      width="50%"
                       className="navimg culturalogo"
                     />
                   </div>
