@@ -40,11 +40,15 @@ export default function NavBar() {
                         Events
                       </div>
                     </Link>
-                    {/* <Link href={"./#AboutUs"}>
-											<div className="cursor-pointer hover:bg-amber-700 text-white hover:text-white px-3 py-2 rounded-md text-lg font-semibold">
-												About Us
-											</div>
-										</Link> */}
+                    <Link
+                      href={"https://www.cmrit.ac.in/"}
+                      rel="noopener noreferrer"
+                      target="_blank"
+                    >
+                      <div className="cursor-pointer hover:bg-amber-700 text-white hover:text-white px-3 py-2 rounded-md text-lg font-semibold text-center	">
+                        CMRIT Website
+                      </div>
+                    </Link>
                     <Link href={"./#Gallery"}>
                       <div className="cursor-pointer hover:bg-amber-700  text-whitehover:text-white px-3 py-2 rounded-md text-lg font-semibold">
                         Gallery
@@ -128,19 +132,23 @@ export default function NavBar() {
                       Events
                     </div>
                   </Link>
-                  {/* <Link href={"./#AboutUs"}>
-										<div
-											href="/work"
-											activeclass="work"
-											to="work"
-											smooth={true}
-											offset={50}
-											duration={500}
-											className="cursor-pointer hover:bg-amber-700  text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
-										>
-											About Us
-										</div>
-									</Link> */}
+                  <Link
+                    href={"https://www.cmrit.ac.in"}
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    <div
+                      href="https://www.cmrit.ac.in"
+                      activeclass="work"
+                      to="work"
+                      smooth={true}
+                      offset={50}
+                      duration={500}
+                      className="cursor-pointer hover:bg-amber-700  text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+                    >
+                      CMRIT Website
+                    </div>
+                  </Link>
                   <Link href={"./#Gallery"}>
                     <div
                       href="/home"
