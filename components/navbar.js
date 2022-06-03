@@ -61,7 +61,7 @@ export default function NavBar() {
                 <button
                   onClick={() => setIsOpen(!isOpen)}
                   type="button"
-                  className="  inline-flex items-center justify-center p-2 rounded-md text-white  hover:bg-amber-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-orange-300"
+                  className="inline-flex items-center justify-center p-2 rounded-md text-white  hover:bg-amber-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-orange-300"
                   aria-controls="mobile-menu"
                   aria-expanded="false"
                 >
@@ -117,51 +117,53 @@ export default function NavBar() {
               <div className="md:hidden" id="mobile-menu">
                 <div
                   ref={ref}
-                  className="bg-white px-2 pt-2 pb-3 space-y-1 sm:px-3"
+                  className="bg-white px-2 pt-2 pb-3 space-y-1 sm:px-3 "
                 >
-                  <Link href={"./events"}>
-                    <div
-                      href="/about"
-                      activeclass="about"
-                      to="about"
-                      smooth={true}
-                      offset={50}
-                      duration={500}
-                      className="cursor-pointer hover:bg-amber-700  text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+                  <div >
+                    <Link href={"./events"}>
+                      <div
+                        href="/about"
+                        activeclass="about"
+                        to="about"
+                        smooth={true}
+                        offset={50}
+                        duration={500}
+                        className="cursor-pointer hover:bg-amber-700  text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+                      >
+                        Events
+                      </div>
+                    </Link>
+                    <Link
+                      href={"https://www.cmrit.ac.in"}
+                      rel="noopener noreferrer"
+                      target="_blank"
                     >
-                      Events
-                    </div>
-                  </Link>
-                  <Link
-                    href={"https://www.cmrit.ac.in"}
-                    rel="noopener noreferrer"
-                    target="_blank"
-                  >
-                    <div
-                      href="https://www.cmrit.ac.in"
-                      activeclass="work"
-                      to="work"
-                      smooth={true}
-                      offset={50}
-                      duration={500}
-                      className="cursor-pointer hover:bg-amber-700  text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
-                    >
-                      CMRIT Website
-                    </div>
-                  </Link>
-                  <Link href={"./#Gallery"}>
-                    <div
-                      href="/home"
-                      activeclass="home"
-                      to="home"
-                      smooth={true}
-                      offset={50}
-                      duration={500}
-                      className="cursor-pointer hover:bg-amber-700 text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
-                    >
-                      Gallery
-                    </div>
-                  </Link>
+                      <div
+                        href="https://www.cmrit.ac.in"
+                        activeclass="work"
+                        to="work"
+                        smooth={true}
+                        offset={50}
+                        duration={500}
+                        className="cursor-pointer hover:bg-amber-700  text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+                      >
+                        CMRIT Website
+                      </div>
+                    </Link>
+                    <Link href={"./#Gallery"}>
+                      <div
+                        href="/home"
+                        activeclass="home"
+                        to="home"
+                        smooth={true}
+                        offset={50}
+                        duration={500}
+                        className="cursor-pointer hover:bg-amber-700 text-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+                      >
+                        Gallery
+                      </div>
+                    </Link>
+                  </div>
                 </div>
               </div>
             )}
