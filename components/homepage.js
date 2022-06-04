@@ -25,7 +25,7 @@ export default function HeroSection() {
 					rel="stylesheet"
 				/>
 			</Head>
-			<div className={styles.heroSection}>
+			<div className={"{styles.heroSection} min-h-[100vh]"}>
 				<div className="max-w-[1440px] m-auto">
 					<NavBar />
 				</div>
@@ -82,12 +82,17 @@ export default function HeroSection() {
 								</div>
 							</div>
 						</div>
-						<div className={styles.video}>
+						<div className={"{styles.video} flex flex-col items-center"}>
 							<video
-								className="border-8 border-white rounded-2xl shadow-xl"
+								className="border-8 border-white rounded-2xl shadow-xl mb-6"
 								controls
 								src="./artistReveal.mp4"
 							></video>
+							<a href="/artist">
+								<button className="bg-white text-black hover:bg-black hover:text-white focus:ring-4 focus:ring-gray-500 font-bold rounded-lg text-md px-4 py-2.5 text-center inline-flex mt-4 shadow-lg hover:shadow-2xl ">
+									Get Your Tickets Now!
+								</button>
+							</a>
 						</div>
 					</div>
 				</div>

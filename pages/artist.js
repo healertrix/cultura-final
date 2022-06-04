@@ -45,10 +45,10 @@ export default function Main() {
 							Mark your calendars, the best weekends of the year are back in
 							2022.
 						</div>
-						<div className={style.buttonA}>
+						<a className={style.buttonA} href="https://imjo.in/bBueKv">
 							Get Tickets Now
 							<img src="/arrow-right.svg" width="15%" id={style.imageArrow} />
-						</div>
+						</a>
 					</div>
 				</div>
 
