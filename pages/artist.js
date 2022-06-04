@@ -7,7 +7,11 @@ export default function Main() {
 		<div className={style.artist_container}>
 			<Head>
 				<title>Cultura 2022</title>
-				<link rel="preconnect" href="https://fonts.googleapis.com" />
+				<link
+					rel="preconnect"
+					href="https://fonts.googleapis.com"
+					crossorigin
+				/>
 				<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 				<link
 					href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap"
