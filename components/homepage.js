@@ -4,6 +4,7 @@ import styles from "../styles/HeroSection.module.css";
 
 import NavBar from "../components/navbar";
 import { useCountdown } from "../hooks/useCountdown";
+import Link from "next/link";
 
 export default function HeroSection() {
 	const [days, hours, minutes, seconds] = useCountdown(
@@ -88,11 +89,11 @@ export default function HeroSection() {
 								controls
 								src="./artistReveal.mp4"
 							></video>
-							<a href="/artist">
+							<Link href="/artist">
 								<button className="bg-white text-black hover:bg-black hover:text-white focus:ring-4 focus:ring-gray-500 font-bold rounded-lg text-md px-4 py-2.5 text-center inline-flex mt-4 shadow-lg hover:shadow-2xl ">
 									Get Your Tickets Now!
 								</button>
-							</a>
+							</Link>
 						</div>
 					</div>
 				</div>
