@@ -1,6 +1,13 @@
 .artist_container {
-	background-image: url("/ArtistBackground.png");
+	background-image: url("/Background-Mobile.jpg");
 	background-size: cover;
+}
+
+@media screen and (min-width: 768px) {
+	.artist_container {
+		background-image: url("/ArtistBackground.png");
+		background-size: cover;
+	}
 }
 .djinfo {
 	color: white;
@@ -19,7 +26,7 @@
 }
 .djcontent {
 	font-family: "Roboto Mono", monospace;
-	color: #d5d5d5;
+	color: #eeeeee;
 	text-align: center;
 	font-size: 1.2rem;
 	padding: 0.5rem 0rem;

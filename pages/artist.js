@@ -44,6 +44,9 @@ export default function Main() {
 						<div id="dj_content" className={style.djcontent}>
 							Mark your calendars, the best weekends of the year are back in
 							2022.
+							<p className="text-sm">
+								Tickets are free for CMRIT and PUC Students
+							</p>
 						</div>
 						<a className={style.buttonA} href="https://imjo.in/bBueKv">
 							Get Tickets Now
@@ -53,7 +56,8 @@ export default function Main() {
 				</div>
 
 				<div className="flex flex-col justify-end">
-					<img src="/Romeo-Right.png" />
+					<img className="hidden md:block" src="/Romeo-Right.png" />
+					<img className="md:hidden" src="/Romeo-Blanco-Mobile.png" />
 				</div>
 			</div>
 		</div>
