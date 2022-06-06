@@ -35,7 +35,16 @@ export default function Main() {
 						/>
 					</a>
 					<div className="flex justify-center items-center flex-shrink-0 ">
-						<img src="/artistlogo.svg" width="75%" className="my-5" />
+						<img
+							src="/artistlogo.svg"
+							width="75%"
+							className="hidden md:block my-5"
+						/>
+						<img
+							src="/artistlogo.png"
+							width="100%"
+							className="md:hidden my-12"
+						/>
 					</div>
 					<div id="dj_info" className={style.djinfo}>
 						<div className={style.djheader}>
@@ -44,7 +53,7 @@ export default function Main() {
 						<div id="dj_content" className={style.djcontent}>
 							Mark your calendars, the best weekends of the year are back in
 							2022.
-							<p className="text-sm">
+							<p className="text-sm font-bold mt-4">
 								Tickets are free for CMRIT and PUC Students
 							</p>
 						</div>
@@ -57,7 +66,6 @@ export default function Main() {
 
 				<div className="flex flex-col justify-end">
 					<img className="hidden md:block" src="/Romeo-Right.png" />
-					<img className="md:hidden" src="/Romeo-Blanco-Mobile.png" />
 				</div>
 			</div>
 		</div>
