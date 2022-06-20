@@ -417,7 +417,7 @@
 		{
 			"Category": "Informal",
 			"Event": "Hogathon",
-			"Registration": 150,
+			"Registration": "Closed",
 			"Payment": "https://imjo.in/JWfMua",
 			"Description": "Invoke the Bakasur in you!",
 			"Venue": "Side Stage",
@@ -442,7 +442,7 @@
 		{
 			"Category": "Informal",
 			"Event": "Food Hunt",
-			"Registration": "300",
+			"Registration": "Closed",
 			"Payment": "https://imjo.in/TeYMTT",
 			"Description": "Let your hunger bring out the hunter in you!",
 			"Venue": "Side stage",
