@@ -442,12 +442,12 @@
 		{
 			"Category": "Informal",
 			"Event": "Food Hunt",
-			"Registration": 300,
+			"Registration": "300",
 			"Payment": "https://imjo.in/TeYMTT",
 			"Description": "Let your hunger bring out the hunter in you!",
 			"Venue": "Side stage",
 			"Time": "10:30am-12:30pm",
-			"Day": "Day 2",
+			"Day": "Day 1",
 			"Rule": "No of Participants: 2\n\n• Time limit: Participants to be present at event venue 15 mins prior to the event\n\n• All the clues must be presented, missing clues will lead to disqualification\n\n• First team to reach the final location wins. \n\n• The team should be made from the same college.",
 			"Poster": "https://cmritcultura.com/post/informal/informal-fh.png"
 		}
