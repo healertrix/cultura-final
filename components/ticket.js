@@ -97,7 +97,7 @@ export default function Ticket() {
 											<p className="text-lg sm:text-xl tracking-wider font-bold mb-1">
 												Ticket Price
 											</p>
-											<p className="mb-4 text-base">₹{Registration}</p>
+											<p className="mb-4 text-base">{Registration}</p>
 										</div>
 									</div>
 								</div>
