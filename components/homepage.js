@@ -49,7 +49,7 @@ export default function HeroSection() {
 								<div className={styles.timer}>
 									<div className="flex flex-col items-center justify-center my-6 md:my-10">
 										<p className="text-4xl md:text-6xl font-semibold" id="days">
-											{days}
+											0
 										</p>
 										<p className="text-sm md:text-2xl font-bold">DAYS</p>
 									</div>
@@ -58,7 +58,7 @@ export default function HeroSection() {
 											className="text-4xl md:text-6xl font-semibold"
 											id="hours"
 										>
-											{hours}
+											0
 										</p>
 										<p className="text-sm md:text-2xl font-bold">HOURS</p>
 									</div>
@@ -67,7 +67,7 @@ export default function HeroSection() {
 											className="text-4xl md:text-6xl font-semibold"
 											id="minutes"
 										>
-											{minutes}
+											0
 										</p>
 										<p className="text-sm md:text-2xl font-bold">MINUTES</p>
 									</div>
@@ -76,7 +76,7 @@ export default function HeroSection() {
 											className="text-4xl md:text-6xl font-semibold"
 											id="seconds"
 										>
-											{seconds}
+											0
 										</p>
 										<p className="text-sm md:text-2xl font-bold">SECONDS</p>
 									</div>
