@@ -58,7 +58,7 @@ export default function Main() {
 							</p>
 						</div>
 						<a className={style.buttonA} href="">
-							Get Tickets Now
+							Registration Closed
 							<img src="/arrow-right.svg" width="15%" id={style.imageArrow} />
 						</a>
 					</div>
