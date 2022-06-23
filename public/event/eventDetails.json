@@ -69,7 +69,7 @@
 			"Payment": "",
 			"Description": "Rock off and Rave On!!",
 			"Venue": "Main Stage",
-			"Time": "1:30-4:30pm",
+			"Time": "1:30-4:20pm",
 			"Day": "Day 2",
 			"Rule": "No of participants:10+2\n\n• Songs of any language and genre are welcome in the competition \n\n• Bands are required to bring their own instruments/gears/add-ons. Only drum kit will be provided (Excluding Kick Pedals) \n\n•Minimum 3 band members are required to be eligible for participation, Time limit 12+4 mins(4 mins for stage set up). \n\n• Permission for usage of any kind of programmed/pre-recorded music must be requested from the organizers before registration. \n\n• All bands must register online prior to commencement of the competition. However, there will only be a limited number of bands competing. The selection will be on a first-come first-serve basis. Also, registration is subjected to being closed at the fulfillment of vacancies. \n\n•Explicit or offensive lyrics/gestures/misconduct will guarantee immediate disqualification from the competition and will lead to immediate expulsion from the stage. \n\n• Depending upon circumstances, some rules or decisions may be imposed by the judges during the competition and all participating bands shall have to follow the same.\n\n• Decisions of the judges will be final under all circumstances.\n\n•One representative of the performing team must be present at the console during the performance. \n\n• The team should be made from the same college.",
 			"Poster": "https://cmritcultura.com/post/music/music-bob.png"
@@ -170,7 +170,7 @@
 			"Payment": "https://imjo.in/SvTNcg",
 			"Description": "Hit the streets and act out loud!",
 			"Venue": "Old CDX",
-			"Time": "11:30am-1pm",
+			"Time": "10:00am-12:00pm",
 			"Day": "Day 2",
 			"Rule": "No. of participants: 10+2\n\n• Team size minimum 10, maximum 12 including all\nmusic accompaniments.\n\n• The essence of the play should be brought in English,\nHindi or Kannada.\n\n• Pre-recorded music and speakers are not allowed.\n\n• No usage of foul language\n\n• Duration – 10+2 minutes.\n\n• Any malpractice will lead to disqualification.\n\n• Get your own props and instruments (percussion and\nacoustic).\n\n• Decision of the judges will be final. \n\n• The team should be made from the same college.",
 			"Poster": "https://cmritcultura.com/post/theatre/theatre-sp.png"
@@ -332,8 +332,8 @@
 			"Registration": "Closed",
 			"Payment": "https://imjo.in/yxtMj7",
 			"Description": "A single player Death Match",
-			"Venue": "LH 506",
-			"Time": "11am-4pm",
+			"Venue": "BS 306",
+			"Time": "11am-3:45pm",
 			"Day": "Day 1",
 			"Rule": "No of Participants: 1\n\n• Time limit: 20 min\n\n• Score limit: unlimited\n\n• Qualifying rounds:3\n\n• Final rounds:3\n\n• General Settings\n\n• Spectating: disabled\n\n• Mini-map: Normal\n\n• Battle Chatter: Disabled\n\n• Health: Normal\n\n• Health Regeneration: Normal\n\n• Number of Lives: Unlimited\n\n• Weapons: All weapons allowed\n\n• Attachments: Grenade launcher not allowed\n\n• Perks not allowed: Juggernaut, Last stand, Martyrdom\n\n• Requirements: Carry your own mobile phone installed with Call of Duty\n\n",
 			"Poster": "https://cmritcultura.com/post/gaming/gaming-codm.png"
@@ -345,7 +345,7 @@
 			"Payment": "https://imjo.in/pnrP3y",
 			"Description": "Headshot, Disarm, Survive",
 			"Venue": "MCA LAB 1",
-			"Time": "11am-4pm",
+			"Time": "11am-3:45pm",
 			"Day": "Day 1",
 			"Rule": "No of participants: 5(in a team)\n\n•A game consists of 2 periods, each period including 8 rounds. A round lasts 3:00 minutes. One period as terrorists and the other as counter-terrorists for each team.\n\n•In the incident of a tie, there will be a tie breaker match. In the tournament, maps are to be chosen by dropping unwanted maps.\n\n•A knife-round is used to decide which team plays Counter-Terrorist and which team plays Terrorist. The winner of the knife-round picks their role before the first half of the match. Roles switch in the second half of the match. \n\n•If a team is not present on the tournament server at the start of the scheduled time, the other team chooses the map and the side (CT or T). \n\n•Team members may not communicate (speak) when he or she is 'dead' in the game. The only exception is when all team members are eliminated in the game. \n\n•Only the team captains are allowed to send public messages (message mode1 or 'y') during the game. The rest of the players are not allowed to use message mode1; failure to meet this rule would lead to team penalties. The players can send only team messages (message mode2 or 'u') during the match.\n\n•The below items are considered as cheating: \n\n•○ Using cheat software \n\n•○ Intentional disconnection \n\n•○ Using any settings other than standard and permitted \n\n•○ Using game map bugs. \n\n• The team should be made from the same college.",
 			"Poster": "https://cmritcultura.com/post/gaming/gaming-cs.png"
@@ -356,9 +356,9 @@
 			"Registration": "Closed",
 			"Payment": "https://imjo.in/wbt8Kn",
 			"Description": "Stun everyone with your skill!",
-			"Venue": "CAED 01",
-			"Time": "11am-4pm",
-			"Day": "Day 1",
+			"Venue": "BS 101, BS 102, BS 103, BS 104",
+			"Time": "11am-3:45pm,10:30am:5pm",
+			"Day": "Day 1,Day 2",
 			"Rule": "No of participants: 1\n\n• Knockout based 1 vs 1 event.\n\n• Winner proceeds to the next round.\n\n• Participants can choose any team except Classic XI and World XI.\n\n• Language: English\n\n• Weather: Clear\n\n• Other settings: Default\n\n• Difficulty Level: World Class\n\n• Time Duration: 10 Minutes for Round Matches (5 mins per half)\n\n• 14 Minutes for Semi Finals and Finals (7 mins per half)",
 			"Poster": "https://cmritcultura.com/post/gaming/gaming-fifa.png"
 		},
@@ -368,8 +368,8 @@
 			"Registration": "Closed",
 			"Payment": "https://imjo.in/a6Bc2A",
 			"Description": "Treat your squad to a chicken dinner, if you can earn it.",
-			"Venue": "LH 505",
-			"Time": "11am-4pm",
+			"Venue": "CV 401,402,403",
+			"Time": "11am-3:45pm",
 			"Day": "Day 1",
 			"Rule": "No of participants: 1-4\n\n• You are free to play with squads, duo or solo.\n\n• No cheating (Use of aim bots, wall hacks, speed hacks, etc.) All players will be closely monitored and if anyone is caught cheating, that team will be disqualified and banned from the tournament.\n\n• Team killing is strictly prohibited and if anyone is seen fooling around with teammates using grenades, that team will be disqualified.\n\n• Each team will be given 2 matches according to which points table will be prepared and top 16 teams will play the final match.( Number of matches will depend upon the number of teams registered*)\n\n• Mobile data required.\n\n• Map: ERANGEL &amp; MIRAMAR\n\n• Points distribution: 1 Point for each kill. \n\n• The team can be formeed from multiple colleges.",
 			"Poster": "https://cmritcultura.com/post/gaming/gaming-pubg.png"
@@ -381,7 +381,7 @@
 			"Payment": "https://imjo.in/GpPmb4",
 			"Description": "Do you think you have the Need For Speed to be the Most Wanted racer?",
 			"Venue": "MCA LAB 2",
-			"Time": "11am-4pm",
+			"Time": "11am-3:45pm",
 			"Day": "Day 1",
 			"Rule": "No of participants:1 \n\n• The game can be played on Keyboard as well as controllers.(Controllers are allowed. The default settings for the keyboard controls will be applied, but it can be changed before the start of the competition, after intimating the volunteers about the same.)\n\n• Tournament Rules: A particular number of players will form a set.\n\n•These players will compete with the members of each set. The emerging winner of each set, will then move to the next round. The race type will be disclosed to you on spot. (Circuit/Sprint/Speed Run). At the end of each match, the players must retain the confirmation screen, and show it to the referee.\n\n• Car settings: All cars will be unlocked.\n\n•A specified time (to be disclosed on spot) will be given for the participants to free roam and select the car of their choice. Only the DEFAULT settings of the car will be applicable. Any modification whatsoever, will lead to disqualification.Junkman is NOT allowed. Personal save profile is strictly prohibited.\n\n• The race mode will be intimated on the spot. • All other settings related to the UI is left to the participants discretion, and can be changed for simulating personal experiences.",
 			"Poster": "https://cmritcultura.com/post/gaming/gaming-nfs.png"
@@ -395,7 +395,7 @@
 			"Payment": "https://imjo.in/9NyJPb",
 			"Description": "The stage is set, the spotlight is on you!",
 			"Venue": "Main Stage",
-			"Time": "6:15pm-8:30pm",
+			"Time": "6:30pm-8:30pm",
 			"Day": "Day 1",
 			"Rule": "•It is a team event. A team can have 6 - 12 members.\n\n•Theme selection is open to the team.\n\n•Time limit for every team would be 10 minutes (Including both the setup and the performance).\n\n•Negative marking if participants exceed time limit.\n\n•Should carry their tracks in pen drive and should be submitted in advance.\n\n•Teams will be judged on costumes, theme, walking stance, attitude and tag line.\n\n•Each group should have one tag line representing their group.\n\n•Decision of the judges will be final and binding.\n\n•All costumes are permitted, which maintain decency including original costumes and fashion designs.\n\n•Purchased, professionally made, or rented costumes are permitted. \n\n• The team should be made from the same college.",
 			"Poster": "https://cmritcultura.com/post/fashion/fashion.png"
@@ -521,7 +521,7 @@
 			"Registration": "Closed",
 			"Payment": "https://imjo.in/c2fT9a",
 			"Description": "Analyze the dream of the writer and give the dream an awakening by making a gorgeous book cover.",
-			"Venue": "BS 101 (Classroom)",
+			"Venue": "BS 301",
 			"Time": "10:30-12pm",
 			"Day": "Day 1",
 			"Rule": "No. of participants:01\n\n• Participants should carry their own materials for the event.\n\n• Topic will be given on the spot.\n\n• Duration - 90 minutes.\n\n• Decision of the judges will be final and binding.",
@@ -533,7 +533,7 @@
 			"Registration": "Closed",
 			"Payment": "https://imjo.in/77NsPm",
 			"Description": "Ditch your Brush and make your artwork more creative!!",
-			"Venue": "BS 102 (Classroom)",
+			"Venue": "BS 302 (Classroom)",
 			"Time": "11am-12pm",
 			"Day": "Day 2",
 			"Rule": "No. of participants: 1 (individual event)\n\n•Participants can make use of any object/material to paint except a brush.\n\n•Participants should carry their own materials for the event.\n\n•Drawing sheets will be provided to paint on.\n\n•Theme/topic will be selected on spot by picking up chits\n\n•Duration: 90 mins\n\n•Decision of the judges will be final.",
@@ -545,7 +545,7 @@
 			"Registration": "Closed",
 			"Payment": "https://imjo.in/AYsZ6x",
 			"Description": "Black and white makes everything clear!",
-			"Venue": "BS 102 (Classroom)",
+			"Venue": "BS 302 (Classroom)",
 			"Time": "1pm-2pm",
 			"Day": "Day 2",
 			"Rule": "No.of participants:01\n\n•Rules:\n\n•The topic will be given on-spot.\n\n•Participants should get their own materials.\n\n•Duration: 90 minutes\n\n•The decision of the judges will be final and binding.",
@@ -601,7 +601,7 @@
 			"Payment": "https://imjo.in/mzHURr",
 			"Description": "Show your bond with technology",
 			"Venue": "BC CCP LAB 01",
-			"Time": "1pm-2:30pm",
+			"Time": "11:30am:1:00pm",
 			"Day": "Day 1",
 			"Rule": "No of participants: 1\n\n•Preliminary round-Debugging, where the code will be given to debug logical and syntactic errors. Team rectifying most of the errors will be gaining points•Final Round-Blind Coding, where one of the team member should code on the turned off monitor \n\n•No phones and calculators allowed\n\n•Cross discussion between teams is not allowed if encountered both the teams will be disqualified\n\n•Participants to be present at the event venue 15 minutes prior to the start of the event\n\n•Decision of the judges will be finals",
 			"Poster": "https://cmritcultura.com/post/technical/technical-mca.png"
@@ -641,25 +641,13 @@
 			"Payment": "https://imjo.in/mzHURr",
 			"Description": "Show your bond with technology",
 			"Venue": "Lab 504",
-			"Time": "1pm-2:30pm",
+			"Time": "11:30am-1:00pm",
 			"Day": "Day 1",
 			"Rule": "No of participants: 1\n\n•Preliminary round-Debugging, where the code will be given to debug logical and syntactic errors. Team rectifying most of the errors will be gaining points•Final Round-Blind Coding, where one of the team member should code on the turned off monitor \n\n•No phones and calculators allowed\n\n•Cross discussion between teams is not allowed if encountered both the teams will be disqualified\n\n•Participants to be present at the event venue 15 minutes prior to the start of the event\n\n•Decision of the judges will be finals",
 			"Poster": "https://cmritcultura.com/post/technical/technical-mca.png"
 		}
 	],
 	"MECH": [
-		{
-			"Category": "MECH",
-			"Event": "Robo Ignitors",
-			"Registration": "Closed",
-			"Payment": "https://imjo.in/p4bmf8",
-			"Description": "Gear up to see how Fast, Skillful and Power your car is and show that it is the best on the race track.",
-			"Venue": "Side Stage",
-			"Time": "2pm-4pm",
-			"Day": "Day 1",
-			"Rule": "No. of participants: 2-4 per team\n\nRules:\n• The RC car should maintain standard specification according to the\nregulations\n• To participate in the event, the car has to pass an initial inspection round\n\n• All participants to report 90 min prior to the start of the event.\n\n• Round 1 - “Who's the Fastest”, All RC cars will be put to race on the racetrack. Timing and speed will be noted.\n\n• Round 2 – “Can you Carry me”, All RC cars will have to carry the\nload in the racetrack, the timing and speed will be noted.\n\n• All participants need to prepare an intro of their RC cars for 2 min.\n\n• No test practice on the race track will be allowed\n\n• The RC car should not damage the arena\n• If the RC car crosses a checkpoint, and moves off track, then the RC car would be placed back on the previous checkpoint crossed.\n• Once the race begins, three hand touches are allowed, if your\ntaking hand touch you have to start from last check point.\n\n• The decision of the judges will be final and abiding. Argument with judges in any form will lead to the disqualification of the team.\n\n• List of materials used must be brought along for the inspection round\n• RC car regulations:\n\n• Size of RC car 1/16- 25x25x25(length x width x height).\n• RC frequency to be under 50 MHz (4 channel).\n\n• Can be wired or wireless, if using wired the wire must cover the track and should remain slack while it's on the run.\n\n• The net weight is allowed up to 3kg.\n\n• The maximum voltage allowed is 24V.\n\n• Lego kits are not allowed in any form.\n\n• Wheel diameter must be under 80mm. \n\n• The team should be made from the same college.",
-			"Poster": "https://cmritcultura.com/post/technical/technical-ri.png"
-		}
 	],
 	"MBA": [
 		{
