@@ -57,7 +57,7 @@ export default function Main() {
 								Tickets are free for CMRIT and PUC Students
 							</p>
 						</div>
-						<a className={style.buttonA} href="https://imjo.in/bBueKv">
+						<a className={style.buttonA} href="">
 							Get Tickets Now
 							<img src="/arrow-right.svg" width="15%" id={style.imageArrow} />
 						</a>
